@@ -1,2 +1,2 @@
 model,best_c,accuracy,precision_macro,recall_macro,f1_macro
-TF-IDF + SVM,1.0,0.8632,0.6522,0.6347,0.6427
+TF-IDF + SVM,1.0,0.8622,0.648,0.6324,0.6395

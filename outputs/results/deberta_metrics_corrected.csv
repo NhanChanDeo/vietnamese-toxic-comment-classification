@@ -1,0 +1,2 @@
+accuracy,precision_macro,recall_macro,f1_macro,method
+0.8622,0.6443,0.653,0.6485,scaled_prior_alpha_0.35

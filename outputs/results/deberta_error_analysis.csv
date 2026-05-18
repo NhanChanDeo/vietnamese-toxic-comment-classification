@@ -1,0 +1,945 @@
+text_clean,label_id,label_name,svm_pred,bilstm_pred,phobert_pred,deberta_pred,svm_label,bilstm_label,phobert_label,deberta_label,svm_ok,bilstm_ok,phobert_ok,deberta_ok,error_pair
+Đừng cố biện minh =)))) choi lon,0,CLEAN,2,0,2,1,HATE,CLEAN,HATE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+coin card :3,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"Lý khùng thì có,kk",0,CLEAN,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Thay Ngu,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Sét đánh chết tao đi,0,CLEAN,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,1,1,0,0,CLEAN -> HATE
+(Y) page này ad nó kiến thức uyên sâu lắm từ xây dựng tài chính y tế cái j n cũng am hiểu =)))) ngu dốt + nhiệt tình = phá hoại k sai bh,2,HATE,2,0,2,0,HATE,CLEAN,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+Trần Linh dell hiểu kiểu gì :)),1,OFFENSIVE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+Nguyễn Thị Thủy chó con chứ dúi đâu ra,0,CLEAN,0,2,0,1,CLEAN,HATE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Đập què giò đi a ba,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+"Chi bà nhiều tiền thì đi làm từ thiện,còn ơ đó nói tục tiểu, giơ bẩn. Làm nhục người vn trên thế giới. Làm bai hoại nền văn hóa vn. Xin yêu các cấp có thẩm quyền vào cuộc sử lý.",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Một phút bóc đồng bằng cả đời bóc cức 😂,1,OFFENSIVE,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Trước sau j cũng đi theo phúc xạo lol,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+"Replay thấy mắc mệt, vote đổi ông edit",0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Đem ra bắn ngay cái thể loại ấy,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+hóng bro tét đít thằng tùng,0,CLEAN,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+kicm lúc này,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Lờ ô lờ ôn lờ ôn lôn huyền CHIM:)),0,CLEAN,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Con bóng??,0,CLEAN,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Lại thêm một con khoác lác,0,CLEAN,2,0,2,2,HATE,CLEAN,HATE,HATE,0,1,0,0,CLEAN -> HATE
+"Chắc mọi người viết Nhật thua trong thế chiến 2, ngàu xưa ta vẫn gọi là Nhật lùn theo đúng nghĩa đen. Nói hơi thô thiển thì đúng gọi là họ lấy giống tây để giúp nguồn gen dân họ tốt hơn, nên chắc chắc ko chỉ là vì chất lượng cuộc sống cao mà còn phải do chất lượng gen nữa mới đẩy tầm vóc lên dc",0,CLEAN,0,1,1,2,CLEAN,OFFENSIVE,OFFENSIVE,HATE,1,0,0,0,CLEAN -> HATE
+Like 10 năm chất Liek bằng đầu bùi,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Nhức óc thật,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Không có csgt nào tốt cả .,2,HATE,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,1,0,0,0,HATE -> CLEAN
+Nữ sinh chạm tay vào má c.a thì đi tù. Rất VN...,0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+Lũlên mạng lừa đão,2,HATE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Các bạn phản đối cái giè. Viện phí tăng gấp 3 ngân sách bội thu. Làm tốt thế mà còn kêu.,0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Đậu rồi má hay đậu má rồi các bạn nhỏ ??? :))),1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Họ nhìn con này sao họ mới gọi nói như vậy người không có giá trị,0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+GAM thua cái củ cặc nhé !!,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+"Dân không có giàu nhé, chỉ nó nước mạnh thôi.",2,HATE,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,1,0,0,0,HATE -> CLEAN
+Ko xin nó thì đái ra mà hết hạn hán nhé,2,HATE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Nguc em hoi nho,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"Báo bọn phản động đấy bà con, những người kia bị kích động muốn chung ta cũng kíchđộng giống họ đây mà. Đập phá nhà máy của họ cuối cùng mất tiền là nước mình thôi vì nc mình vi phạm hợp đồng mà. Còn biểu tình gọi nhà nc phải có trách nhiệm tìm hiểu nguyên nhân thì đc.",0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+CÓ THẰNG THÔNG THẠO 29 THỨ TIẾNG LÀM CHỦ TỊCH PẮC PÓ,2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+Ngoài mình kêu con này là cua xanh tên khác là cua chó bởi vì nó dữ lắm,0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+Cái mỏ i chang cá lóc lun,0,CLEAN,1,2,2,1,OFFENSIVE,HATE,HATE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Sạo loxz quền của chị 3,2,HATE,0,0,2,1,CLEAN,CLEAN,HATE,OFFENSIVE,0,0,1,0,HATE -> OFFENSIVE
+E sợ t gian lm giàu rồi mà tuổi tác già yếu mẹ rồi,0,CLEAN,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,1,1,0,0,CLEAN -> HATE
+Du ma tu thg cho giu xe den thg suc vat chuyen hanh ly,2,HATE,2,0,2,0,HATE,CLEAN,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+sin,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Bao giờ chết,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+Thật ra là quên kéo khóa quần ngoài lộ quần trong nên để lộ hẳn thành phong cách mới cho nó đỡ quê,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Lên vl luôn,0,CLEAN,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+Con di do noi doc giong con 3 vang ma !,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Nơi nào mà cũng được như thế thì có lý do gì mà con đân việt nam phải sang nước ngoài sống .,0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+90tr dân Việt Nam đang vả nhung nè,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Nhung Pham Ai chê nghèo ngta có tiền đi nước nào kệ mẹ người ta, Nó vẫn mang qtich VN thì về VN chữa VN đã cấm đâu mà lên tiếng lm gì. ÍCH KỶ",2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Người dân biểu tình phản đối thằng ăn cướp bị bọn mày bắt bớ đánh đập thì tụi mày là cái gì,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+share bài này là lũ ban cắn chết nên thôi :))),0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+Chán thế,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Ai song gan cty nay chac khong song duoc lau roi,0,CLEAN,0,1,2,2,CLEAN,OFFENSIVE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+"Lí do lí trấu, chắc tin😏:)))",1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Bốc sư tất nhiên là xạo quá ròi tất nhiên là súng bắn không tói ông nhưng tất nhiên rằng corona tất nhiên là sẽ tới thăm viếng bốc sư tất nhiên,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Lắm tiền mà chả có nổi ý thức của loài người :)),1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+"anh Trung đập thẻ , anh Trung phá sản :)))",0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+K đáng bao nhiêu mà nhục cho sinh viên Việt Nam bị nó khinh!,0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+"Úi xời, thêm quả hiệu ứng nữa thì rụng hết trứng với nhau.",0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Thối CC chỉ không ngửi đuợc thôi,1,OFFENSIVE,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,1,1,0,0,OFFENSIVE -> CLEAN
+"Có ai tự nhiên lên phường , rồi đi tự tử trên ấy không ? Giờ thằng nào con nào , muốn tự tự thì cứ việc lên phường cho nó gọn . Đỡ bị mất tài sản , với lại người nhà cũng dễ tìm nhá . chứ đừng có ra cầu rồi nhảy nghe hôn .",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Tương lai sao nó mông lung quá :)),0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"Chat la kiep truoc bi cam, 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏toi ngiep cho mu nay qua ko biet kiep sao thanh loai gi nua 🙏🙏🙏🙏",2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+"Đậu Văn Cường nhìn như thằng nghiện, ghê bỏ mẹ ra",0,CLEAN,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,0,0,0,0,CLEAN -> HATE
+Kg Phan dong may' chui vao trong nay lam gi ?,1,OFFENSIVE,2,1,0,0,HATE,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+Cái đờ cờ mờ nhà a,2,HATE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,0,0,1,0,HATE -> OFFENSIVE
+Bê đê hả,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Ma mày đau ma mày đau bóp cu ba may sung con cười muốn chết luôn co kim oi,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+cô Ba có râu ha ha,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Túm lại: Muốn giết người mà vẫn vô tội hoặc án gãi ghẻ thì phấn đấu làm cán bộ đi.,2,HATE,2,0,2,1,HATE,CLEAN,HATE,OFFENSIVE,1,0,1,0,HATE -> OFFENSIVE
+Chứ độ nối đúng vãi lồn,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Đeo hình phât trên ng ma khẩu nghiêp quá thât đáng thuog cho nhug ng nhu vây,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Để được ngồi đợi sự trợ giúp từ Phan Anh thì cũng nhờ có sự trợ giúp của bn cbcs đang vật lộn với nước lũ đưa ng dân vào đât liền đó bạn. Stt của chị này là lên án những người chỉ nhìn thấy sự hào nhoáng mà báo chí tung hô PA k thấy được sự khổ cực của CBCS. Chứ k phải lên án PA nha bạn,0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+du me,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+R.I.P Anh thị bò dát vàng,0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+chuẩn cmnl anh ơi,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Phát Thịnh thầy tui như thằng xì ke.,2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+Chi oi chi chua gap bac ky dau .chi ma gap roi chi khong con kip keu mot tieng troi dau chi ak.it nhat chi cung nghi den nguoi nha chi chu.chi o dai loan ma chi dang noi tieng viet ma .chi tu chui minh thoi.nguoi ta khong xem chi ra ji nen nguoi ta goi noi vay thay loi xi nhuc do.,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+ẩu r thầy ơi,0,CLEAN,0,0,2,2,CLEAN,CLEAN,HATE,HATE,1,1,0,0,CLEAN -> HATE
+Thêm cái gì mà thêm. T đếch thèm qt đến vì chưa có thông báo nghĩ học 🙈,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Mình nói người ta bê đê mình xem lai mình đi . Mày la cũng loai bê đê co cây đinh chính giữ la may kkkk,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Không giống ai,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Đã nói bao lần rồi các anh các chị có tiền đi du lịch vẫn đ** hiểu à😒,2,HATE,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,0,1,0,0,HATE -> OFFENSIVE
+Đẳng cấp đấy nhưng ý thức hơi kém,1,OFFENSIVE,1,2,1,2,OFFENSIVE,HATE,OFFENSIVE,HATE,1,0,1,0,OFFENSIVE -> HATE
+Abe chơi dơ,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+;))) n đã mất công phạt . Thì phạt hẳn 100-200 rảnh đéo đâu phạt 10-20k làm gì mất công vl .,1,OFFENSIVE,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Chị ba hot girl s lại có cây cơ 9 giữa 😥,0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+"Mikhai chốp còn biết nhảu khỏi tàu đắm,chứ bọn này đéo nhẩy đâu,ảo thuật gia và phim ở hollywood phải gọi bằng ""Cụ""🤣",1,OFFENSIVE,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+T đang nhìn clgv 🙂,1,OFFENSIVE,1,0,1,0,OFFENSIVE,CLEAN,OFFENSIVE,CLEAN,1,0,1,0,OFFENSIVE -> CLEAN
+Đỉ nhân 3.14,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+"doanh nghiệp nó sai thì nó bị phạt, còn thằng này thích tống tiền doanh nghiệp thì nó cũng đéo đúng đâu mà gào mồm ăn vạ :)) tưởng ăn đc tiền của ngkhác dễ à",1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+"Tâm Nguyễn Bỏ mớ tiền ra thuê hẳn một cái máy bay riêng , đi 1 mình thì lây ai , lây cho con mẹ bạn à ? Thông tin trên google sợt là ra cũng đéo chịu tìm hiểu , vào đây chửi adua phong trào . \""Đạo đức rách\"" mà cứ ngồi đấy mà nói đạo lý .",2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Trần dần là cộngg sản nằm vùng bên cali😂,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Ơ tưởng thầy chơi gay 😢,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Văn Trường 😒 dịch: không làm mà đòi có ăn thì chỉ có ăn cứt 😌,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Thầy lol chúc chỉ có rớt,2,HATE,2,1,2,0,HATE,OFFENSIVE,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+Trên bờ: tao chửi đấy mày làm đéo gì được tao :v,1,OFFENSIVE,1,1,1,2,OFFENSIVE,OFFENSIVE,OFFENSIVE,HATE,1,1,1,0,OFFENSIVE -> HATE
+Lủ chó,2,HATE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,HATE -> OFFENSIVE
+Style khoe cu của mấy anh biến thái à 🙃,2,HATE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+@Chiến trần Tao lao.,1,OFFENSIVE,1,2,0,0,OFFENSIVE,HATE,CLEAN,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+toàn các cô gái ngồi xổm trym quệt đất ạ..,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+Tiên tri Trần Dần về Việt Nam ở nghĩa trang bình an,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Đáng nhẽ m k nên về nước 🙂,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Hoàng Văn Thuận nên xử bắn hed,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Khi buồn mình chơi lớn đi nghĩa vụ và giờ muốn ra cx éo đc,1,OFFENSIVE,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+Quê tao mà giơ cánh hoa ntn ra đường là đéo còn đường về quê mẹ,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Lê Hoàng Trần :V vãi cả lý luận và đổ thừa !VN ta có đảng quang vinh lãnh đạo mà ko khắc phục được mấy cái cỏn con vậy à ?,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+giàu mà ko biết chia chác cho tụi nó thì bầu Kiên đã là một ví dụ.,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Chết mất :))),0,CLEAN,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+Quốc sư phải khỏe để lãnh đạo 3/ chứ ko thì 3/ biết đi đâu về đâu 😭😭,0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+Bạn bè bên dai loan và bên nước Việt Nam mình kg tha thứ cho no cho nó một bài học cho nó biết thế nào la suc Phạm dân tộc Việt Nam kg cho nó bài hoc nó kg sợ dau an nói tuc tĩu mất dạy quá,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+"Hà Nguyễn Khánh Duy Gái Nhật đi tàu đi ngầm nó ngứa mu quá, lấy tay móc gãi tỉnh queo. Nhìn ghê lắm kìa",2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+"Tìm chó thất lạc đặc điểm""cực kì thuyết phục""",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Nguyễn Đức Vinh bố mẹ nó đóng góp là đc rồi ông. Người VN cả mà,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+mắc mợt á :<,0,CLEAN,1,0,0,1,OFFENSIVE,CLEAN,CLEAN,OFFENSIVE,0,1,1,0,CLEAN -> OFFENSIVE
+hải phòng k thích lòng vòng,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Con trai làm trưởng phòng kế toán nữa thì quả là một dân tộc Hạnh Fúck,1,OFFENSIVE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+con mẹ mày giàu con mẹ mày... khinh thường ng ta,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+mong cho nó trút moẹ tro vào quần !,1,OFFENSIVE,2,0,1,2,HATE,CLEAN,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+Quá đáng vl anh ơi ngồi nấu mì ăn xem review thịt trâu:((,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Nổ quá,0,CLEAN,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Những kẻ cướp ngày đang bênh vực tên trộm đêm :),1,OFFENSIVE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Anh Trung ma mị,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+"Con này nó rảnh, nói gì kệ nó",0,CLEAN,2,2,0,1,HATE,HATE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+THƯA NHÀ TIÊN TRI CHO BIẾT KHI NÀO VIỆT NAM SẼ XÓA SỔ TRUNG QUỐC VẬY?,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Camon côthuan nguyễn giupnguoi ngheo nghềo,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+"Tiếp theo sẽ là sự phân hóa trong nội bộ lãnh đạo Bắc Kinh. Bộ mặt thật của tình ""đồng chí"" lộ diện !",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+"Con này nếu một ngày thằng Đài Loan nó đuổi, thì nó đi đâu",0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+troi ui con nay do lai cai,0,CLEAN,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Thời nay có những người mãi mãi chọc người có vấn đề thần kinh để làm gì ÁC ĐỨC LẮM bỏ đi người ta có chồng có con thơ dại không có đi lừa gạt cướp bóc ???,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+"Một câu chuyện cổ tích rất hay được sáng tác bởi công an Việt Nam. Giỏi lắm các chiến sĩ vì nước quên dân, vì thân phục vụ.",2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+thằng viết bài thật là cứng,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Chị ba trên dú dưới có con cu ai làm lại chị 3,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Lêu lêu mấy đứa FA 😂😂😂,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+*** lung linh,0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Sao giờ nhiều chương trình nhố nhăng thế khg biết,2,HATE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Điên qf :,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Toang thực sự 😐,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Đang bận đớp và chăm sóc bụng bầu nha-k rảnh lo chuyện tào lao,0,CLEAN,1,0,0,1,OFFENSIVE,CLEAN,CLEAN,OFFENSIVE,0,1,1,0,CLEAN -> OFFENSIVE
+Cút,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+facebook.com/notes/hasdgasdgasdg%BF/video-quay-tr%E1%BB%99m-c%C3%B4-g%C3%A1i-v%C3%A0-b%E1%BA%A1n-trai-trong-nh%C3%A0-v%E1%BB%87-sinh-c%E1%BA%A5m-ch%E1%BB%8B-em-v%C3%A0o-xem/933231583437890,0,CLEAN,0,1,1,2,CLEAN,OFFENSIVE,OFFENSIVE,HATE,1,0,0,0,CLEAN -> HATE
+khôn thế thầy lòn :)),0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Công nghệ xây cầu mới của đảng và nhà nước ta đấy! Thế giới chưa nước nào có đâu,1,OFFENSIVE,0,2,0,2,CLEAN,HATE,CLEAN,HATE,0,0,0,0,OFFENSIVE -> HATE
+Huyền Vy dẹp mẹ đi,2,HATE,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Ông nói clg nghe cũng thấy hay :)) đợi concard :)),1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+vào phòng kín cho đấm lại là huề :v chứ rùm ben kiểu này xấu mặt nội bộ hết :v,0,CLEAN,2,0,1,2,HATE,CLEAN,OFFENSIVE,HATE,0,1,0,0,CLEAN -> HATE
+Con số 34 cũng làm lan rộng ra,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Thúi nát.,1,OFFENSIVE,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+đến lúc nó chet lại sợ dai ra quần :((,0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Hết bốc phét nhé,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+được vl anh độ ạ😂,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+A. Di. Da. Phat..,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+"Đơn giản đó là người SG, chứ ko phải người Tp.HCM(Đa số bake)",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Hết ""cực kì thuyết phục"",giờ tới mấy con bò ""sống chậm"" :)",0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+Xem bực mình thêm,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Viết Phúc ò ông lại tưởng m xl quá nên nó khg cho 😌😌😌.... Hụ hụ,2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+"Vẫn cần có án tử hình để mang tính răn đe, đặc biệt với án hình sự. Xã hội Vn chưa văn minh đến mức xoá án tử. Nếu chỉ mức tối đa chung thân, sau vài lần giảm án thì hơn chục năm sau đã ung dung tự do ngồi hưởng số tài sản khổng lồ còn giữ lại được.",0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Lại sống như rau dền :)))),1,OFFENSIVE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+NGON,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+có nghe tộc trưởng nói không.. đợi cái loz,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Đi kiếm con linh nó đỏ sẫm do đánh chết mẹ nó đi rất um ho,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Phan Linh đb ct có lm j đâu ? Mà ss chán,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Nguyễn Yến Nhi đang tính cmt luôn. :)))) Coi xong kiểu WTF?? T đã coi clg thế :)))),2,HATE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+Tân sơn nhất Tấn Hải. Quan ngại sâu sắc,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"Dkm phat ,noi nhu c",2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Giống abe vailon,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Anh ba láo nháo là Tú xiên giờ,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Thế cong trải thảm tiếp cẩu tập,0,CLEAN,2,0,1,2,HATE,CLEAN,OFFENSIVE,HATE,0,1,0,0,CLEAN -> HATE
+tao lại dưới loz tao lại lên .kkk,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+phe khoang qua ma oi,0,CLEAN,2,0,2,1,HATE,CLEAN,HATE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+"nhìn cái mỏ giống cái L quá, cho nên mở miệng ra là L kg hà.",2,HATE,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+"Đinh Nhật Uy cho ra lò ""chuyện vui cuối tuần "" vui thật !! vì chỉ xin đi phụ bếp mà đòi phải biết 29 thứ tiếng thì gắt quá! Chỉ có bác hù mới đủ thông minh để đáp ứng sự đòi hỏi này vì nghe nói bác củng biết 29 thứ tiếng,phải công nhận bác sáng suốt qu",2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Nham lôn quá,1,OFFENSIVE,2,1,1,0,HATE,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+Anh ơi :( đau vcl,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"DLV sẽ nói gì à?? : ""Phản đôôộoong! - chỉ thế thôi nhé :v",2,HATE,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,0,1,0,0,HATE -> CLEAN
+"Ở đéo đâu chả có ung thư :/ đời sống đi lên tỷ lệ bệnh tật nhiều. Vn còn hơn chán bọn tây lông là hầu như đứa nào cũng dị ứng nhé. Lại cái bài ca vn trong top tỉ lệ ung thư cao, còn cao nhiêu thì số liệu đéo rõ ràng. Top các nước ung thư cao thế giới toàn eu với mỹ hết :/",2,HATE,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,1,1,0,0,HATE -> CLEAN
+"Cát linh hà đông hỏng phải thời tui đấu thầu, thiết kế nhé, đống sắt phế thải, hàng quá đát đó của thời trước nha, tui đang mê vụ 16 tỷ đô long thành airport thôi.",0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Yêu ai thì kệ mẹ nó. Đăng làm cc gì,2,HATE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,HATE -> OFFENSIVE
+Ý thức còn ít hơn kiến thức hoá của tao,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Du ma may ve viet nam tao la nguoi dau tien bat may,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Chỗ này chắc buổi sáng và buổi chiều là cũng tắc đg như hn ấy nhỉ sao k lam cái cầu tạm cho dân đi nhỉ... quan tiền thì nhiều dân nghèo vẫn hoàn nghèo,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Mồm vén lên như cái bồn cầu,2,HATE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,HATE -> OFFENSIVE
+"đ m, thầy giáo cũng sống ảo",2,HATE,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,0,1,0,0,HATE -> CLEAN
+Diễm Quỳnh gét burn real vãi l,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+"Trắng biến thành đen , có biến thành ko , ko biến thành có họ còn làm được chứ trắng biến thành xanh là chuyện nhỏ",2,HATE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Chỉnh lại ông bô. Xe với trả cộ ẩu vl,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Con này nhin thấy ghê vậy mà ăn cái gi,0,CLEAN,1,1,0,2,OFFENSIVE,OFFENSIVE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+Thầy em là phải hơn. Nhưng ngu hơn ă🤧,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+"Nghe câu ""tất zien"" mà mệt óc",0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Ức chế vl... Bán bó rau lời ko bao nhiêu..,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+nước Mỹ đã bỏ rơi chúng ta để chạy qua mai táng anh hai liên xô và đàn em của ảnh.,0,CLEAN,0,0,2,2,CLEAN,CLEAN,HATE,HATE,1,1,0,0,CLEAN -> HATE
+"Lê Trọng Nghĩa Phục làm gì bạn? Phục xong về hít bụi mịn, ăn đồ trộn hoá chất, hộ chiếu chỉ đi được Châu Phi với Đông Nam Á như bạn hả?",1,OFFENSIVE,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+Sân bay chưa xây mà cao tốc kẹt như cơm bữa! Đường khẩn cấp mà chạy chiếm hết ý thức!,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+Chặt cái đầu heo nó xuống,2,HATE,1,2,2,0,OFFENSIVE,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+Nguyễn Thuận =)) tư tưởng rừng rú gì v,2,HATE,2,0,2,0,HATE,CLEAN,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+MinhHieu đại chó nó dao làm người đừng làm chỗ chỗ,0,CLEAN,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Đừng đùa ko khéo đem vào giảm dạy như mac lenin thì khối thằng ốm đòn sách này 500k là ít,0,CLEAN,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+"Chửi vô tội vạ mà đéo biết báo từ đời nào rồi,và chỉ phạt các doanh nghiệp mua điện nhưng lại k sử dụng để tránh lãng phí thôi chứ dân dùng bằng nào thu bằng đấy,toàn những con bò",1,OFFENSIVE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,1,0,0,0,OFFENSIVE -> HATE
+"Cocabay giờ nhìn u ám. Cách đây hai năm có người ráo riết thuyết phục mình mua, may lúc đó từ chối. Vãi cả đái !",0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Cây bút hình con cu à :>>,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Da bao dung nghe cs noi !!!,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+"Dạo này bệnh lợn tả châu phi tạm yên !! Bây giờ lại bắt đầu bệnh bò điên hoang tưởng , rối loạn phân liệt ông giáo ạh ! Thế có nguy ko chứ",1,OFFENSIVE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+"Bệnh viện Anh như cc. Đã có triệu chứng rõ ràng, khai cả tiền sử tiếp xúc vẫn ko cho xét nghiệm mà yêu cầu cách ly tại nhà 😔 Ông bố điều mb bế về Vn chữa là hợp lý",2,HATE,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,0,1,0,0,HATE -> CLEAN
+chỉ yếu tgooi,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Bớt ảo tưỡng đi,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+"Có cc,t là bẩm sinh r :v",0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+"Phải,VN vô số tham nhũng,lại vụ nữa đây,sắp đại hội gì đó",1,OFFENSIVE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Emma Nguyen vậy mà ca ngợi bên kia lắm... Về làm lol gì,1,OFFENSIVE,2,1,1,2,HATE,OFFENSIVE,OFFENSIVE,HATE,0,1,1,0,OFFENSIVE -> HATE
+BÓNG ĐÁ- chính là “RẠP XIẾC”.,1,OFFENSIVE,0,2,0,2,CLEAN,HATE,CLEAN,HATE,0,0,0,0,OFFENSIVE -> HATE
+"Tội refund vãi lúc 2018 hot vcl ra cái qau trận hôm nay devine kéo top 3 cái fan vietnam sang ủng hộ devine rồi chửi refund, SGD và anh độ chơi gà",0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+"Không dám mở shop vì sợ quản lý thị trường, bộ công thương sờ gáy",0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Đưa lên kiểu này có khi ngày mai nó cho người ra đập bỏ luôn là hiểu nhé 😭,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Má nó em tức ghê ớ,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Đươc ! Đẻ bằng hậu môn à ?,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+qua VN phát ngôn câu đó thì đkm xác định khỏi về :),1,OFFENSIVE,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Bịt lol chạy quanh nhà là có thật 🤣🤣,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Đi coppy ảnh của page khác không ghi nguồn. :))) kém chuyên nghiệp,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Lại sủa,1,OFFENSIVE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+Bạn nói như phát tự vả vào mồm bạn vậy! Tự chơi 1 mình đi chứ thế này đ ai dám chơi cùng,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Mất thằng K cái nhạc dở quoãi,0,CLEAN,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Quang Quang Tường cãi lộn cát không,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+nguoi ta co tien lam rang gia.cgu.bon minh tien dau.lam.bactram trieu do bo,0,CLEAN,0,0,2,1,CLEAN,CLEAN,HATE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Thời trang với thời chủng nhìn mất hết cảm tình 😬😬,1,OFFENSIVE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+Bọn dầy tớ chấp chi.,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Kim Phượng thế con ngu ở hà nội p nó cũng nhảy bông nhông khắp nơi đó p,1,OFFENSIVE,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+Ghê vãi,1,OFFENSIVE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+Cc thầy eie,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+cho a bu voi,1,OFFENSIVE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Ảnh hưởng đến công việc thì kệ cụ nhà m,2,HATE,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Vậy đủ chậm chưaaa đumaaaaaaaa,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Hiện đối tượng vẫn đang nhởn nhơ ngoài vòng pháp luật,0,CLEAN,0,0,2,1,CLEAN,CLEAN,HATE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+đảng cộng sản cho quan tham nhũng :3,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Đm. Rẻ rách dlv,2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+Khổ thân cho các bác sĩ cùng người dân luôn tích cực phòng ngừa tìm cách để ngăn dịch kèm theo sự tuyên truyền của nhà nc mà bây giờ loi ra thêm mấy thành phần y thức kém làm công sức bao lâu do song do biển hết hy sinh vô ích buồn thiệt chứ,0,CLEAN,2,0,2,2,HATE,CLEAN,HATE,HATE,0,1,0,0,CLEAN -> HATE
+"Cánh hoa ở hàn quốc thôi, về việt nam nó là cái l** đấy 🤣🤣🤣🤣",0,CLEAN,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,1,0,0,0,CLEAN -> HATE
+"thằng dưới thì thấy thế này, chứ đm thằng ad mà làm quan to xem, thử mở mồm ra nói nghĩ cho dân xem nào :)) thanh niên GATO",1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+"cách đây cũng 1 2 năm nghe tin đứa trẻ sinh ra đã cõng 22 triệu giờ 29 triệu , mấy ông đi vay tiền để tăng GDP à =))",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+T cố gắng nghe hết nhưng đâu tai thật sự,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+má dầu thơm giả sức cho ghẻ người,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+từ bỏ thiên đường xhcnvn sang xứ tư bản giãy chết làm culi!😭😹🤣,0,CLEAN,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,0,0,0,0,CLEAN -> HATE
+thực sự ra chẳng có phản động đâu chỉ co người DÂN nói sự thật thì bị chính quyền chụp mũ gọi là phản động,0,CLEAN,2,0,2,2,HATE,CLEAN,HATE,HATE,0,1,0,0,CLEAN -> HATE
+Máy quá mất giấy máy bạn hàng cho người ta máy quá bó lao máy vô chơi máy máy có chơi cho chơi máy,0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+Nguễn Trường vcl intro,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Du ma may nha . May ve day tao dap ma may ko ra,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Tam sanh cái cỏi ta bà,0,CLEAN,2,1,1,2,HATE,OFFENSIVE,OFFENSIVE,HATE,0,0,0,0,CLEAN -> HATE
+nó chơi luật rừng thì mình chơi luật rừng! mạng đổi mạng! đéo phải nói nhiều! Bức xúc làm cc gì,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Ba hard cc :)),2,HATE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,0,0,1,0,HATE -> OFFENSIVE
+Chu cờ mo là cho mò cu á. Chết đứng vs minh tuân. Kkk,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"Tưởng ngon à, tao khinh !!",0,CLEAN,0,1,2,1,CLEAN,OFFENSIVE,HATE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+t deo hieu no cuoi cl gi nua,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Việt Nam thì nó lại là lồn các cậu ạ 🤦🤦,1,OFFENSIVE,2,0,2,2,HATE,CLEAN,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Tham nhũng hèn gì chúng nó giàu thế,2,HATE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,0,0,1,0,HATE -> OFFENSIVE
+Đồ Uyển Đình Ngọc dcm=)) chai sting vô đầu nha,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Bất hạnh nhất cuộc đời là ra trường rồi mà bạn vẫn ngu dốt .😔 đáng buồn cho nghành giáo dục,1,OFFENSIVE,1,0,0,2,OFFENSIVE,CLEAN,CLEAN,HATE,1,0,0,0,OFFENSIVE -> HATE
+Add là cái lồn gì,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Gan vđ,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+thốn =)),0,CLEAN,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+Phần cuối bonus thêm cả nghệ thuật bôi c*t mũi :)),0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Tối ngày Đi ra ngoài đường khùng khùng,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Phát biểu nguu vãi,2,HATE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+"Làm được chức lớn mà cậy, chẳng hiểu cán bộ lãnh đạo làm như vậy có đẹp để noi gương không, đọc xong nghe mak hết muốn ăn",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Đtr v~,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+"hi sinh thầm lặng cho mấy thằng sếp của nó đứng đằng xa, nó cũng có phần chia chát trong đó rồi còn gì bạn ! Tôi muốn cứ 3km lại có 1 trạm bắn tốc độ công khai, hoặc gắn camera. Như thế dân sẽ sợ và tự giác chấp hành hơn. Còn cái thể loại núp lùm ăn tiền thế này ai khen nổi mà đăng bài chia sẻ với cả động viên !",1,OFFENSIVE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+Hàng họ giề,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Nhìn bản mặt Thành Long nhầm tưởng nhân hậu nhưng bản chất vô hậu,2,HATE,2,0,2,0,HATE,CLEAN,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+đcm cười 33 giây,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+tộc chưởng cu to như lõi giấy wc,0,CLEAN,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,1,1,0,0,CLEAN -> HATE
+Sặc máu với bả😭😭😭😭,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Toàn cocc làm thôi,0,CLEAN,2,0,1,1,HATE,CLEAN,OFFENSIVE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+Hoàng Vũ có tiền thì thằng đéo nào cũng đẹp🙂,1,OFFENSIVE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Nguyễn Đông trẻ trâu biết j,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+". Tìm hiểu dùm mình nhen bạn, ko phải cứ tây ăn cứt thì ta cũng ăn cứt nhen !",2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Mãnh thú thích mùi gậy,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Lộn cái là,0,CLEAN,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+Bộ hết người hay sao vậy trời...,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Trần Bắc Hà cũng chết trong tù đó!,1,OFFENSIVE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"Càng đọc càng tức con quỷ đó. Bây giơ vì nó bao nhiu ng chuẩn bị thất nghiệp, người gia thì lo sợ hoang mang, bao nhiu chủ Doanh nghiệp đợt này tiu luôn. Thứ gì đâu ak",2,HATE,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,1,1,0,0,HATE -> CLEAN
+Tội nghiệp nhà tiên tri lúc này hơi ôm gì toàn là ăn mi gói chịu không nổi gio muốn quay lại việt nam rồi tội nghiệp quá,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Nguyễn Thuận ca sĩ ra bài fan ý kiến chứ clg căng,2,HATE,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,1,0,0,0,HATE -> CLEAN
+Mtp,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"Ông Dần là 3/// nhưng là 3/// zui, khác vs 3/// lol kia",2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+đổi avata để ủng hộ . yêu cầu nhà nuosc đưa cán bộ tới VŨNG ÁN tắm biển hết đi,0,CLEAN,0,0,2,2,CLEAN,CLEAN,HATE,HATE,1,1,0,0,CLEAN -> HATE
+toẹt vời :D,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Thôi anh ơi chuẩn bị về mở tiệm bánh tráng là được rồi,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Dương =)) Làm gì kệ mẹ bạn,2,HATE,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Giống loài Loan luân la vây,2,HATE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+"4,5 tr đảng viên đã lỡ leo lưng cọp",0,CLEAN,2,0,0,2,HATE,CLEAN,CLEAN,HATE,0,1,1,0,CLEAN -> HATE
+Nguoi dep,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+buôn cuoi quá anh Lân oi chọc nha tiên tri hoài,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Làm con người kh thích thích làm con cặt,1,OFFENSIVE,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+Này khẩu phật tâm xà,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Ba Gà MTP,0,CLEAN,0,2,0,1,CLEAN,HATE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Haha lạy mấy mẹ,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Vũ Thanh Huyền khi bạn cmt nhưng lại quên lắp não :v,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Bố lạy mày Nhung ơi là Nhung,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Nhung ơi Nhung ra đây mà xem nè em :) xem em đã làm j cho đất nước nè :),2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Đm! Đen méo chơi nữa,0,CLEAN,1,1,1,2,OFFENSIVE,OFFENSIVE,OFFENSIVE,HATE,0,0,0,0,CLEAN -> HATE
+No vừa thôi ma ơi . nó nở banh hang giờ...,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+@Phương vo nói cl gì z mẹ. Nói mà để ng ta từ chối hiểu hay gì á,2,HATE,1,2,2,1,OFFENSIVE,HATE,HATE,OFFENSIVE,0,1,1,0,HATE -> OFFENSIVE
+"Quỳnh Hương thật, t tưởng nó viết thiếu dấu nặng, mẹ nó chứ",2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+"Dân đen dân bẩn ai mà không biết, chỉ có người trong sạch đứng trong hàng ngũ của Đ là không biết thôi.",2,HATE,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+bút thì chả cần bỏ mẹ ra :)),1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Nản cái chế độ...,2,HATE,1,2,2,1,OFFENSIVE,HATE,HATE,OFFENSIVE,0,1,1,0,HATE -> OFFENSIVE
+Nguyễn Trọng Thái ong giám bảo anh tôi sai à ? Sai cc đéo sai 😆,2,HATE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,0,0,1,0,HATE -> OFFENSIVE
+Mình nói lớn mà ngu thì lại nói mình hỗn. Ý thức như đachlone,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Cứ như thế này thì duyệt mẹ đi cho nhanh 😀,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Cứ có tiền là muốn lz cũg đc à:)),1,OFFENSIVE,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,1,1,0,0,OFFENSIVE -> CLEAN
+Hát dỡ mà hát hoài đuỹ khùng vàbg mã,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+"Phúc Báo thiệt mấy ba mấy má này rãnh hàng gê, đang trong thời kì dịch bệnh mà ham bay lắm 😢",2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Đánh chết mẹ nó đi chị để nó mất dạy quá,1,OFFENSIVE,1,2,1,2,OFFENSIVE,HATE,OFFENSIVE,HATE,1,0,1,0,OFFENSIVE -> HATE
+"Tăng thu, giảm chi, tích cực tham nhũng. Dân biết khổ sở nhiều sẽ bớt ngu đi thì 1,2 năm nữa sẽ có biến.",0,CLEAN,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Có biết vì sao CNXH xếp sau cùng trong các hình thái Kinh tế của thế giới không? VÌ NƯỚC NÀO ÁP DỤNG NÓ SẼ BỊ DIỆT VONG CMNR CÒN TỒN TẠI ĐÂU MÀ ÁP DỤNG HÌNH THÁI KINH TẾ KHÁC.,2,HATE,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+F,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"quay được phim rồi thì lấy xe bắt chó ra bắt đi , chờ gì nữa",1,OFFENSIVE,0,1,1,2,CLEAN,OFFENSIVE,OFFENSIVE,HATE,0,1,1,0,OFFENSIVE -> HATE
+Thanglon nào cũng từng như thế cacban ạ 😌😌😌,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Máu cộng sản ăn vào người rùi nên vậy.,1,OFFENSIVE,2,1,2,2,HATE,OFFENSIVE,HATE,HATE,0,1,0,0,OFFENSIVE -> HATE
+Thằng Trung có con *** to lắm,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+"Người tinh không bằng Trời tính. Nhân quả nhãn tiến. Ác giả ác báo. Bọn Truyền thông THổ TẢ và phe dân chửi mưu gian. lừa phỉnh sẽ bị lật măt gian manh .Ý dân là ý trời.Bọn người gian tham , phá thai, giết hàng tri65u sinh linh sẽ bị Trời diệt. Yêu thương ,bác ái, từ bi sẽ mãi mãi được mọi người tử tế phát huy.",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Từ bao giờ người nhật mất ý thức như vậy💁,2,HATE,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Sau này cố mà thành ông này bà nọ em ạ. Ko làm đc gì là ăn chửi ngập mặt :)),0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Còn này thật hoc,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Chi em ma chui lon ke cho nguoi ta nghe nguoi ta cuoi hay ho gi,0,CLEAN,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Đi lang thang vu vơ mà cũng gặp nhà chó quyền :)))~ chịu thua,2,HATE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,HATE -> OFFENSIVE
+"Bị giải tỏa nhưng đền bù không thỏa đáng, cả nhà sắp mất bát cơm nên làm liều.",2,HATE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Biết bao nhiêu vụ đi bắt người bị quay xong bảo bắt bớ dân lành ? Thì đm bây giờ CA nó chờ đủ hết mọi thủ tục cần thiết nó mới dám bắt chứ không thì đm ""cư dân mạng"" chửi sml ra à ?",0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+"Lão già này đã mở được mắt rôi à, năm 2022 quoay đầu về bờ , đúng là đồ dở hết đường đi. Võ ông đánh gà ko tụt lông.",2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+con di~ dang hang leo rank,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Bạy bạ à nghen Úc mới là nơi ung thư nhât thế giới. Nói có sách mách co chứng,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Cường Nguyễn bọn nó còn lấy cái ngón chỏ xỏ vào làm gì ý.mà xỏ xong cả lũ cười.đéo hiểu,1,OFFENSIVE,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Nó mỗi thế thôi 1 lũ lao vào chửi nó ko ra con người. Vl thật bọn trẻ,2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+Dm cái giọng cười Abe nghe khốn nạn vl ạ :)) nhưng mỗi lần em nghe em đều cười theo =)),0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+deo vang co do do😂😂😂,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Ba nay nge noi bu cu chau ba ne,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Nguyễn Minh NgỌc đéo hiểu sao t nhìn ảnh nào cx thấy chữ lồn,1,OFFENSIVE,1,1,1,2,OFFENSIVE,OFFENSIVE,OFFENSIVE,HATE,1,1,1,0,OFFENSIVE -> HATE
+Mẹ Độ yêu con,0,CLEAN,2,0,0,1,HATE,CLEAN,CLEAN,OFFENSIVE,0,1,1,0,CLEAN -> OFFENSIVE
+Quan chức nhà nước mà cứ như vầy thì sao được lòng dân 😡,0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+"Đang bận bắt trộm chim, bẫy dân, hút máo đồng cốt :v",0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+duanhuaditron là clgt :v,1,OFFENSIVE,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+"Đây là con "" bong sắc "" hả mng. Tui tưởng đâu là gái chứ , 🙏",0,CLEAN,0,2,2,1,CLEAN,HATE,HATE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Mk sem ma nhu nguoi dien cuoi mot mk co ai nhu rui hok 😂😂😂😂😂🤣🤣🤣😂,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+gà,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"Cô ba chở vàng qua mỹ :)) nghe hư cấu vl,mày vào xem ký sự 30/4 đi nhé",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Vãi thèn tèo về cctalk ngay. =]]],0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+con di ngua nay chac sih ra o ho boom ha j,2,HATE,2,0,2,0,HATE,CLEAN,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+Khác nào ăn cướp !,0,CLEAN,1,0,1,2,OFFENSIVE,CLEAN,OFFENSIVE,HATE,0,1,0,0,CLEAN -> HATE
+Người j đâu mà chưởi người Việt NAM MÌNH trưởi người ta quá trời ĐÚNG LÀ BÃ CHƯA THẤY QUAN TÀI CHƯA ĐỔ LỆ,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Bác sĩ ""Y.T.M.L"" -_- Phạm tội hiếp dâm mà cần gì phải giấu tên ! Vụ này nên thưa ra tòa chứ kĩ luật thì nhẹ quá",0,CLEAN,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,1,1,0,0,CLEAN -> HATE
+"Người ta đã xin lỗi rồi sao cứ vào nick người ta xem rồi đăng lên chửi hoài,nó chửi thề thì kệ nó,nó chửi mấy người chửi nó chứ đau có dám đem người VN ra chửi nữa đau mà nhào vào chửi nó cả vô duyên thế",1,OFFENSIVE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Hán việt là cùng một nồi sinh ra,0,CLEAN,2,0,0,2,HATE,CLEAN,CLEAN,HATE,0,1,1,0,CLEAN -> HATE
+"dùng tiền ém nhẹm cu ơi. từ nguyên đơn thành bị đơn thôi, 1 người ko thể chống cả tập đoàn được",1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Đúng là ydol 😅,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Mỗi khi anh độ chửi bậy nó sẽ giật... Sau khi giật xong anh độ sẽ đập nó xuống bàn và chửi đitconmemay giật cailon :),1,OFFENSIVE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+sao ko lấy tên là Linh Láo Lồn nhỉ ae ??,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Em cầm cái này phang vào sự chu đáo của anh Ba =))),0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Bớt bớt dô diên dùm cái nha 😒,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"Yên tâm về Việt Nam thành phế vật ngay ae ạ . Nước ngoài nó chỉ có fuck you , oh shit ... còn về Việt Nam thì k đc đmm thì đcmm hoặc độu má m ... phế chắc chắn 🤣🤣🤣",1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Lai chim chửi máy đứa trẻ trâu pat! Đi chị,0,CLEAN,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+"Ngu thì chết, phải vì chính nghĩa thì đã ko bị hậu quả... Cứ chính trực thì ai làm đc gì mình...",0,CLEAN,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Tai sao ong lai nhan loi cho phong van de cho ten lan nay co co hoi chui nuoc my. Hinh nhu han rat thich thu khi nuoc my bi nan,0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+"Biết tham nhũng bn, 10 phần nộp lại 2-3 là.cùng, tính cả r",0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+D' Đức d hiểu nhìn cái hình là cừ ỉa,0,CLEAN,1,1,1,2,OFFENSIVE,OFFENSIVE,OFFENSIVE,HATE,0,0,0,0,CLEAN -> HATE
+"hợp đồng của DCS với Tàu thôi nhá, đéo phải dân.",2,HATE,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,1,1,0,0,HATE -> CLEAN
+Trung đái dầm,0,CLEAN,0,0,2,1,CLEAN,CLEAN,HATE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+"Hoan hô bác Trần Dần. Người xưa quay lại tiên tri, Chánh nhân ,khai thị cho người sáng tâm .",0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Cho chết cái tội cà khịa Việt Nam🤣,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+"So sánh hay nhể, đây mang tiếng đồng bào mà làm cái như thế này xong đem so sánh với cái nước xa tít tắp, nực cười.",0,CLEAN,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+Giàu thường hay quên cách ăn mặc á :)),1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Già mà tập quyền vậy...coi...khỏe...re...,0,CLEAN,0,1,2,1,CLEAN,OFFENSIVE,HATE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Lúc nó đi ngược chiều nó tông cho rồi kêu chó vàng giúp. Quyền lợi thì muốn mà còn pháp luật thì k muốn tuân thủ,2,HATE,2,0,1,1,HATE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,0,0,HATE -> OFFENSIVE
+Thắm thum thủm,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Đem đưa lên cơ sơ xo thẩm quyền THP bốc phân mà ăn :),2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+@Kỹ Năng Sinh Tồn ngáo đá hả bạn có làm j bn chưa mà chửi người ta,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Khai giảng cái nhẹ,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Chán không thèm nói!,1,OFFENSIVE,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,1,1,0,0,OFFENSIVE -> CLEAN
+xạo thặc,0,CLEAN,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Anh em Bắc mà bớ được thì được đập mặt xây lại là ít,1,OFFENSIVE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Ai ăn hết của nhà thằng Dương Dương trả cho nó đi bây. Thấy nó sủa thấy thương ghê á.,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Tất nhiên vẫn là câu cửa miệng.... ----> phản động,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Lên top chỉ qua được ng ta ủng hộ sau vụ việc thg KICM nhạc dell hay chổ nào,2,HATE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Khổ anh :)),0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Hoang mang😱,1,OFFENSIVE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+Cầu mong linh hon e dc siêu thoát va cung mong luat phap cua viet nam cung nhu đảng csvn hay khoan hồng cho bác chay xe xích lo vi cs miu sinh ng lao dong cung ko ai muon nhu vay ah,0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+Bán mẹ nước rồi còn đâu.,1,OFFENSIVE,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+Khi nào chính thức về với mẫu quốc đảng nô nhớ thông báo trên vtv nha.,2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+Con linh loc nay chat kiep sau no moi noi chuyen dang hoang lai.,0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+"nó ko cộng điểm, mà nó cho thí sinh rớt bớt thôi, có bà chị gặp vụ này r :)))) thi điểm cao vẫn rớt nhé",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Biết là Nhật cũng có người này người kia nhưng chú bao nhiêu tuổi rồi mà hành động ấu trĩ như thế 😖😖😖,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+về 572 gia định mà đòi đất ....kkkkkk..già mà ngu vl,2,HATE,2,1,2,1,HATE,OFFENSIVE,HATE,OFFENSIVE,1,0,1,0,HATE -> OFFENSIVE
+Anlonroi,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Đẹp trai . Tài năng . Tư duy đỉnh cao . Call team tốt và nhiều phẩm chất tốt khác nữa là những gì thầy đều có . Sena 1 người thầy hoàn hảo . Còn thằng ngu 3 gà thì chịu cái gì cũng k có,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Nguyễn Đào Nguyên e củng thác mắc như bác sao 16 ng trước k công khai mà sô 17 tràn lan vậy??? hay do Tàu nhiễm nên giấu con Tây nhiễm nên được phép.. vấn đề chính trị hướng dư luận cả k đơn giản đâu,0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+Táng chết cha tụi mày lũ học trò l :)),0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Giúp nguoi bi nan cap thoi . Phai co trai tim nhan ai. .ai cung co dong co lam nguoi tốt . Ung ho liên . Ngưỡng mo,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Trần Ngọc Dương dm het fan cung roi nha,0,CLEAN,1,0,2,1,OFFENSIVE,CLEAN,HATE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+cái này t nhường m,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Đi làm osin mà xạo lol ghê,2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+Gọi mấy thằng CA là phải dí thẳng tiền cho chúng nó.ko là đến già chúng nó cũng chả quan tâm,2,HATE,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,1,1,0,0,HATE -> CLEAN
+Tội đì chây chíp ghê 😩😩😩,0,CLEAN,0,2,0,1,CLEAN,HATE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+"add còn viết tắt của address nữa, ngu!",2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+"Thanh Ngân duỗi ra nó như vậy đó bạn, buồn quá tóc xẹp lép, dính vô mặt như cái mâm, phía trước thì dập dờn vậy đó",0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+Nhanh chậm cái con mẹ chúng mày =))),1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+ở Việt Nam rất khó...vì lý do...( ai sẽ là người đứng lên chỉ mặt người đàn áp...vì lỗi do thằng đánh máy...thằng đọc hay thằng ký không có tội )...ví dụ thực tế...1 nhóm người tụ tập kêu gọi hòa bình...ông A ký lệnh do ông B đánh chữ: giải tán nhóm ng,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Tuổi Trâu thì nhai lại là hợp cmn lý rồi 🤣,1,OFFENSIVE,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,1,1,0,0,OFFENSIVE -> CLEAN
+Toang thật nhỉ,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"@Hoàng Phúc Lê trước đây khi chưa biết bả hay rep cmt vậy nên t xem clip sẵn đọc cmt cho vui nên vô tình thấy thôi. Mấy cmt nc rất đàng hoàng mà bị chửi tới cha mẹ thì m nghĩ như nào? Bên động nulo toàn fan cô đấy riết bị chửi nhiều cái vô lý quá củng có đứa đéo chịu nổi bật lại kia kìa, những cmt nào tương tác chửi chơi giữa bả vs bạn bả t đọc vẫn thấy bt mà chứ có cl gì đâu nhưng nhiều cái là quá đáng thật. M củng bớt ăn nói mất dạy lại đi vì ban đầu t chưa hề động chạm hay kì thị lgbt và t củng chưa chửi m, làm xấu mặt lgbt vl. Nhiều người đang cố xây dựng hình ảnh tốt đẹp thì mấy đứa mén như m lại lấy việc chửi người khác làm một cách phòng vệ thái quá trong khi chả ai động chạm gì. M nghĩ vậy là hay?",2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Cái phiếu phạt 20k này csgt đéo bao giờ nghi cái gì hết nha tao bị mấy tờ có cả 50k nữa chỉ là bọn nó tự nghi vào rồi làm màu thôi,2,HATE,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,0,1,0,0,HATE -> OFFENSIVE
+Đình Quang ê đẹp trai vll ra bảo xấu đcm đây mới xàm l nàyy,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+wibu rách,2,HATE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+Đoàn Duy Diện triệu hồi tú đụ,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Được vãi đái nhờ,0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Co de,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+quá xấu hổ. đã nghèo dốt lại khệnh khạng,1,OFFENSIVE,2,0,2,2,HATE,CLEAN,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+"Mày nhìn lại mày đi, đăng clip đell đc 5 like, à phải rồi, bởi vậy mới bươi móc kiếm đàn bà để bình luận kiểu ganh tỵ 😂😂",2,HATE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Đuma chính em :))))),1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Địt mẹ thiên đường ad nhỉ,2,HATE,2,2,0,1,HATE,HATE,CLEAN,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+Thực dân Pháp xâm lược và 2 ông truyền đạo đưa chữ quốc ngữ vào Việt nam khác nhau không nên gộp vào làm mất hết ý nghĩa của việc tôn thờ 2 vị đó ta cần biêt ơn họ,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Lê Luân đừng so sánh lương. Mà hãy so sánh quyền lực và lợi ích. Làm cty tư nhân là người lao động không có quyền lực . Còn làm nhà nước là con cháu các quan chức có quyền lực và nắm trong tay nguồn lực của địa phương vả quốc gia. Vì vậy một người hưởng lương do công sức lao động của mình và một người hưởng lợi ích từ toàn bộ dân địa phương hoặc quốc gia gom lại thì tiền của ai nhiều hơn????,1,OFFENSIVE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+A Trung lambor :)),0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Tôi sin tuyên thệ .. trong nhiệm kỳ của mình sẽ cố gắng vơ vét đục khoét tàn phá đất nước này ko cho thằng sau lên ăn được gì nữa,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+thằng chó đó là thằng nào vậy? ai bjk cho thông tin coi,2,HATE,2,1,2,1,HATE,OFFENSIVE,HATE,OFFENSIVE,1,0,1,0,HATE -> OFFENSIVE
+Mũn Ciu :)))),0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+thiện tai,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Xin mời :))) to mồm đòi làm cách mạng vậy làm đi :))) lật đổ cộng sản đi :))),0,CLEAN,2,0,2,2,HATE,CLEAN,HATE,HATE,0,1,0,0,CLEAN -> HATE
+CÔ BA VÀNG MÃ :)),0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Tối mai bố dắt con đi ăn cua hoàng đế. Dăm ba triệu bạc. Bèo bọt thôi con,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"Các ông có làm công ăn lương k?hay hàng tháng cứ đều đặn có thêm nguồn thu nhập khác từ việc nhận hối lộ ,quà biếu?",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Minh Nhật chuẩn cmnr. Jack tuổi j so dislike :))) haha. K atm là ca sĩ duy nhất trên thế giới mà k cần hát mà,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"mọi con vật đều bình đẳng, nhưng có một số con bình đăng hơn các con khác ;)",0,CLEAN,2,0,2,2,HATE,CLEAN,HATE,HATE,0,1,0,0,CLEAN -> HATE
+26nam trước ở vn đã sản sinh ra 1con virut,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+"Loại này nên bắn, đéo cần bịnh hay không.",2,HATE,2,1,0,1,HATE,OFFENSIVE,CLEAN,OFFENSIVE,1,0,0,0,HATE -> OFFENSIVE
+Có những đứa còn chửi kinh hơn cả page này nữa 😒 vkl xúc phạm tôn giáo còn cãi cố,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Nhìn del hỉu j luôn,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Cô nay ko con tư nao (( đê noi ),0,CLEAN,2,0,0,2,HATE,CLEAN,CLEAN,HATE,0,1,1,0,CLEAN -> HATE
+Ba noi oi ng ta lay ba ra lam tro he.cho ba khau nghiep.tuog dau ba hay lam ha.,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Cuộc sống này khốn nạn hơn mình tưởng,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+"An Nguyễn Đức giờ mình nói chung (giống như làm toán đặt thừa số chung vậy mà) là vầy : mình đi vệ sinh là đã góp phần nuôi sống cái đám "" đầy tớ của nhân dân"" rồi ....",2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+co lam. gi giau vay co day con lam voi con lam hoai ma ko du an,0,CLEAN,2,2,0,1,HATE,HATE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+"Ở xứ thiên đường an sinh xã hội như ccc nên nghèo đói bệnh tật cũng phải lết đi làm đủ thứ nghề kiếm cơm k thì chết đói, trách ông này nhưng cũng đừng đổ hết trách nhiệm lên ng ta như vậy.",2,HATE,1,2,1,0,OFFENSIVE,HATE,OFFENSIVE,CLEAN,0,1,0,0,HATE -> CLEAN
+Làm chết người khác với giết người!,0,CLEAN,2,1,0,1,HATE,OFFENSIVE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+Phuỵt mô tia bị hư,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Huhu toang,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+"Hoàng Văn nếu là nhà tài trợ thưởng thì ko mất thuế,nhưng sợ ko biết có tới tay mấy e đc ko nè",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Tôi vẫn chưa hiểu, tại sao Saigon, một thành phố ""Ngụy"" đói khổ, bị bọn Mỹ ""Ngụy"" đàn áp, bóc lột, cần chế độ CS ta giải phóng, cứu đói, mà lại nộp ngân sách nhiều thế ! (bằng 55 tỉnh thành khác).",1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Tao gõ chớt mẹ mày chứ ở đó mà múa . Abe said :)),2,HATE,2,1,2,1,HATE,OFFENSIVE,HATE,OFFENSIVE,1,0,1,0,HATE -> OFFENSIVE
+Lisa là con phản động.. ///. Sao bằng cô này,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Chào thầy ba girl😌nứng vcl,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+"Ý là bạn thích đc dí lồn vào mặt à? Vậy thì cũng giống mình. Sướng mà, nhờ 😂",2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+Nguyễn Phương Linh sống thật đéo gì,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+đm biết cái gương đó là tiền ai mua không mà dám cắt =)) đm thằng nào cắt kính,2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+trời,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+DLV: đây chỉ là con sâu làm rầu nồi canh thôi :v,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Con bóng già h mới lộ :v :))),2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+bắc kỳ theo cs đánh chiếm miền nam =))),2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Giờ m mới sáng mắt ra và tai đã nghe đc rùi phải k,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Cho liếm hậu m*n cái abe :)),0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Nguyễn Đăng Khoa thg học trò l này :))),2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Dag sau co ke an com vn nhug lam thue cho trung quoc ban dung dong bao.,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+"Đâu chỉ có HK, Vietnam cũng cần tẩy chay nhỉ, vì có hẳn cả 2 sao ủng hộ đường lưỡi bò",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Giàu j đâu đeo cọng bạc ghẻ rách thua cọng xích bạc của t dg đeo,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Anh trung bú đá,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+4 con báo nguy hiểm nhất hành tinh,0,CLEAN,0,0,2,2,CLEAN,CLEAN,HATE,HATE,1,1,0,0,CLEAN -> HATE
+bị tâm thần vẫn có thể có học vị TS nhé. Cám ơn TS Vũ Tiến Lộc đã mang lại niềm tin cho cộng đồng bệnh nhân tâm thần.,2,HATE,2,0,2,0,HATE,CLEAN,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+Trời ơi...cái môi... :(,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Thứ nghiệt ngã,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+day la mot ong gia dien thoi dai ong co xau ho khong ??,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+học putin chỉnh đồng hồ à?,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Thiếu văn hoá vợ cũng,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Ở Mỹ sao người vn don bây ác quá,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Già đầu mà non quá :)))),0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Con mu nay gia sao khoe cua wa,0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+lanh dao cua xhcs phat bieu hay that.dag mat wa nhi!,0,CLEAN,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,1,1,0,0,CLEAN -> HATE
+Mỹ Châu nhìn bếck vđ,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Nhỏ Meo cái đà mất dạy dài hạn thì làm gì. Thời cơ tới rồi 🤣🤣,0,CLEAN,0,1,1,2,CLEAN,OFFENSIVE,OFFENSIVE,HATE,1,0,0,0,CLEAN -> HATE
+Phản động là gì vậy? Auto đéo động não à,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+"Ngoài ra bắn bỏ mẹ những thằng đeo biết lon j cũng đăng lung tung , khoá mõm lại",2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Danh hiệu nói xạo k ai xứng đáng hơn ngoài trần dần,0,CLEAN,0,0,2,2,CLEAN,CLEAN,HATE,HATE,1,1,0,0,CLEAN -> HATE
+"có tiền cứ làm,chỉ có bọn không có tiền làm mới ý kiến lọ chai",2,HATE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+"Làm ơn cho anh Vũ Khắc Tiệp vào xem hộ cái,khổ gê",0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+Phim xem chán vcc vừa xem vừa ngủ gật. Thế mà cũng #1 doanh thu mở màn 😞,1,OFFENSIVE,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+"Úi trời. Tiên tri Trần dần HÙI xưa CHẮC ở gần kho đạn long bình hôn ma nỗ dữ QUÁ vậy dẫu sao cũng cảm ơn vũ hoang Lânđã mời VÀ phỏng vấn trần dần,hài ui quá!.tĩnh cả ngủ uôn.hoàng lân khôn bo MẸ. Toàn khích cho dân6nỗ chi mọi người vui kkk",0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+chug nao bon quan chuc cs bj lat do thj vn moi co tuong lai,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Vải lờ thầy😂😂😂,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Trym to,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+anh trung cô hồn,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Tôi thấy ông lần này nói nhiều cái đúng quá . cs mẹ rồi 😘,0,CLEAN,2,0,2,1,HATE,CLEAN,HATE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+Đã lớn như vậy rầu còn ghi sai chính tã,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Giờ mới biết con mẹ giựt nợ Minh hiếu,2,HATE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+Mọi người lui ra để t trừ tà cho abe,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+20-10 vui vẻ con bóng sadec:)),1,OFFENSIVE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Dị ó hỏ,0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Nguyễn Nhật chuẩn cmnr . nhạc ko nhai nổi. đên bon fan cũng đéo thể yêu thương nổi luôn,2,HATE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+Cuong Ly Dinh chửi cc,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Cô mina dễ thương hơn ml của thầy 😀,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Thông minh bị nó diệt,0,CLEAN,1,1,0,2,OFFENSIVE,OFFENSIVE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+Tối qua xem đoạn này mà đéo dám cười,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Huyền Khánh Phùng nếu e không tiện thì tôi sẽ book vé vào Hà Nội làm người yêu em ??? Và tối nay chúng ta sẽ địt,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"Tran Dan, ong co binh thuong khong vay ong?, ong nen di gap bac si de tri binh hoang tuong nhe ong, chuc ong khoe va bot di su hoang tuong.",2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Phó Chủ nhiệm UBKTTP Tân an(Long an) không có bằng cấp 3 nhưng lý luận CT rất giỏi,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Mình đang tìm một con bò đặc điểm nhận dạng nó kêu cực kì thuyết phục nha có hậu tạ :;),1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+A bac kj so nho nhat nam 😂😂😂😂😂,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+"Vâng! Xin giới thiệu vs các bạn, đây là ông Cao Thất Đức!",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Ôi cát mẹt của bả,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+"Thưa Đảng và Nhà Nước, nếu bỏ tù chung thân được bọn cố ý giấu bệnh và tránh cách ly thì cứ làm! Dân xin cảm ơn nhiều lắm ạ!",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Vứt hết liêm sỉ xin like,0,CLEAN,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,1,1,0,0,CLEAN -> HATE
+k rãnh loz làm gì lên xem abe,2,HATE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+Gặp lol xỉu 3 ngày,0,CLEAN,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Chắc đây làng có nhiều phẫn nộ nhất trog cái nhóm cmt này,0,CLEAN,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,1,1,0,0,CLEAN -> HATE
+"Xam quá đi , gặp mấy con quỷ khùng cười muốn sạc luôn",2,HATE,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,1,1,0,0,HATE -> CLEAN
+"Với tài năng của thủ tướng cộng với trí tuệ của ông Kiên, minh tin rằng năm sau kinh tế VN sẽ hóa rồng lộn xuống thiên đường XHCN",2,HATE,2,0,2,0,HATE,CLEAN,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+"chúng nó quên nhiều thứ, nhưng ăn cướp là việc chúng nó không bao giờ quên",2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+khổ nhím :((,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"Ông này dỏm ,không nên tin",0,CLEAN,0,0,2,2,CLEAN,CLEAN,HATE,HATE,1,1,0,0,CLEAN -> HATE
+Nhìn anh như con cu ấy,2,HATE,1,2,0,0,OFFENSIVE,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Con người hơn nhau ở cái ý thức :))),0,CLEAN,1,0,0,1,OFFENSIVE,CLEAN,CLEAN,OFFENSIVE,0,1,1,0,CLEAN -> OFFENSIVE
+loạn cực,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+Cái mỏ của nó cho khẩu súng vào bấm nút cái bùm,2,HATE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+Óc chó hi hi,1,OFFENSIVE,2,1,1,0,HATE,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+Sáng nào kao cũng thức lúc 4h sàng hết mài thằng assmin xăm xí đú...khỏi nhắc mài...hơ hơ hơ...,0,CLEAN,1,0,1,2,OFFENSIVE,CLEAN,OFFENSIVE,HATE,0,1,0,0,CLEAN -> HATE
+Nghiệp Quật,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+chú nói cả dân tộc việt nam cùng đồng lòng nhưng nhung thì không,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Trường Giang ụa . Bả biết bả nhiễm s bả đ chịu khai báo cách ly đi . Chị bả nhiễm nguy cơ lay cho bả là rất cao . Hành khánh trên chuyến bay đó cũg bị nhiễm theo . Lớn r chứ phải con nít con noi,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Troi oi ba nay ..giau wua thi noi lam gi...thoi buoi gio .giau wua thi ke di ai dau an het cua cua no..ma dua len mang phe phan..mot thoi len voi xuong cho,0,CLEAN,2,0,2,2,HATE,CLEAN,HATE,HATE,0,1,0,0,CLEAN -> HATE
+"đầu còn lắc được là chưa kẹt nha, mấy anh nói khi nào không nhúc nhích được mới là Kẹc",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Đồn ý kiến vs bác thớt.Thằng đó tống tiền đích cmn thực r ấy chứ.Cho vào tù nhanh hộ cái :)),2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+"1 quốc gia không có đường để ĐI, SỐ BOT thật chóng mặt",2,HATE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+Cc j zay :)),1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Học trò ngoan,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Thất vọng về xã hội này khi mà sáng mở mắt ra thấy:,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"NO RECORDING, FILMING, PHOTO TAKING mà nó ghi là TALKING. Cấm nói luôn à.",1,OFFENSIVE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Vũ Thanh Huyền thấy cmt của bạn này nghe mùi ích kỉ tính vào nói vài câu mà thấy các bác nói nhiều quá thôi em xin rút hí hí,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+thu 3d may ma sao lon qua,2,HATE,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,1,1,0,0,HATE -> CLEAN
+Wtf,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+Nhạc bắt tay vai lon,0,CLEAN,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+anh em bên nước mỹ trông nom trần dần cẩn thận nhé hàng hiếm của dân việt nam đấy đừng để trần dần chết thối trong phòng mà không ai biết thì tội cho tiên tri lắm .,0,CLEAN,2,0,2,2,HATE,CLEAN,HATE,HATE,0,1,0,0,CLEAN -> HATE
+Cutoe~~~🙆❤❤❤,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Ngửi cho tỉnh đi 3 Gòa,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Phương Thảo nom có như thằng trẻ trâu ở quê không,2,HATE,1,2,0,0,OFFENSIVE,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+"mịa sao ko cởi giày, sắn quần lên đi vô rồi mang giày vô có sao đâu, Kiểu cách CS !!!",2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+Nó đéo vi phạm gì. Chửi gato với voz à?,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Tỉ phú nào đấy tẩy chay đồ vô học,2,HATE,0,2,2,1,CLEAN,HATE,HATE,OFFENSIVE,0,1,1,0,HATE -> OFFENSIVE
+Phụ nữ vn làm gi có ai xấu tai xấu hại vậy xấu hết phần chó,1,OFFENSIVE,1,2,1,2,OFFENSIVE,HATE,OFFENSIVE,HATE,1,0,1,0,OFFENSIVE -> HATE
+Ong Tran Dan lam Tong Thong Viet Nam cho dan nga ngua dfo. Mot la gia 2...... Gia roi de cho lop tre no len nam quyen dNG CHUNG NO DU NHAN TAI VE GIUP DO XAY D7UNG vIET nAM.,0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+"Cmt chữi bọn nó hoài cũng nản, thôi thì like thôi vậy",0,CLEAN,2,2,0,1,HATE,HATE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+Bảo vệ thì ăn chia rồi. Còn lãnh đạo trường thì đang cố giấu!,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Ko thich VN thì cút sang Campuchia mà sống (DLV cho biết),2,HATE,0,2,2,1,CLEAN,HATE,HATE,OFFENSIVE,0,1,1,0,HATE -> OFFENSIVE
+Ra đường nhớ cằm theo não,2,HATE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Đỡ thế l nào được :)),1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Giống nhau như 2 giọt nước. Mà mỗi cái là 1 giọt nước mắt với 1 giọt nước 💩 thôi ạ 😂😂,1,OFFENSIVE,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,1,1,0,0,OFFENSIVE -> CLEAN
+Chán thật sự a nhờ,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Chat chan tay la xong.ko can lgi het.thang nao danh nguoi giet nguoi cu chat chan cat gan tay,2,HATE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,0,0,1,0,HATE -> OFFENSIVE
+"Làm chủ tịch thành phố dễ vậy sao, chắc các cháu tiểu học cũng làm được",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Chưa thử loz xách tay bao h,có thì ới 😂",1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Bạn bè mờ ý thức khác hẳn nhau nhỉ =)),0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Tư'k,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+ngầu vkl =))),0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Tiên tri giác ngộ được tư tưởng của Đảng chưa,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Võ Xuân Hoan điên hả m,1,OFFENSIVE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Đánh nó đi thầy,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Trân Dân.mày vê VN tao sē Công Đâu Mày....Nhơ lơi tao nói...Thương bé lăm,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+"Cho chừa cái tội tài lanh, DMCS",2,HATE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,HATE -> OFFENSIVE
+Chọc và chửi một người bị thần kinh là ác đức lắm đấy hãy ngừng gây tội ác!!!,2,HATE,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,0,1,0,0,HATE -> CLEAN
+"thì biểu tượng giống nhưng ý nghĩa của mỗi nơi nó khác, khi xài ở hq là hoa, xài ở vn là lol má ơi",0,CLEAN,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,1,0,0,0,CLEAN -> HATE
+"cái này tau biết này , để nuôi mấy ông bụng bự nè",0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+éo nha liu liu,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Sau đợt này về mở 1 chuỗi cửa hàng bánh tráng đc rồi chúc mừng anh 😏,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Đm nhắn tin ủng hộ thì chịuuuuu =)))),0,CLEAN,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Manh thi song yeu thi chet,1,OFFENSIVE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+từ ngày bác Thanh ra đi đà nẵng loạn xì ngầu còn hơn cái bồn cầu giật nước,0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+"Boxit nữa, đừng quên bùn đỏ",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"cái cách nói chuyện của bà này rất khó nghe. nói dài dòng mà toàn nói linh tinh trên trời dưới biển gì đâu, chẳng nói vào đúng trọng tâm gì",2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+"Tran nhu con goi cua pho bolsa, kieu gi lam do haha",0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Tại sao những đứa như này lại tồn tại trong khi những người tốt thì lại bị tan nạn & mất mạng vì lũ lụt mà méo do thiên tai gây ra nhể ???,1,OFFENSIVE,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+"Ông Trần là bậc thánh minh, Lạc ra hải ngoại ẩn mình nơi đâu, Phá đồng mới chịu ngôi cao, Bấy giờ thiên hạ rủ nhau cùng về, Cùng nhau thịnh trị bốn bề Nước Nam lại đổi quốc kỳ Việt Nam.",0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Vloz,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+"Ngộ ha! Mấy bố cứ ngồi đây mà phán ""Thử hỏi làm sao phát triển được"" ... Ủa nếu có chinhd sách phát triển gì gì đó của mấy bố vào đây thì VN chắc gì đã tiế bộ? Đã đéo giúp ích đc cho đất nước rồi còn ngồi đây ""Thử hỏi sao phát triển được"" :)))))) có cảm thấy hài hay là tự nhục miếng nào k ? Hay chỉ biết ngồi mà rên rỉ, lăng mạ đất nước mình, nơi mà mình đc ỉa ra?",2,HATE,0,2,2,1,CLEAN,HATE,HATE,OFFENSIVE,0,1,1,0,HATE -> OFFENSIVE
+Like và cm tụi nó ăn được hay sao mà ham hố vậy trời. Lũ điên,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Bọn giàu mà mang thua người nghèo nửa đm chán quá,2,HATE,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,0,1,0,0,HATE -> OFFENSIVE
+And DLV come in 3...2...,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Yêu đương đ gì tầm này em còn phải đi cà khịa đã 😒,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"Và sẽ có kiểu ngụy biện như nước ta vừa mới gia nhập WTO... trước đó là mới thoát khỏi chiến tranh, mới mở cửa, mới thoát cấm vận.",0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Đm crush :),2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Đừng bao h so sánh abe với sela bởi vì abe tuổi lol mà so đc,2,HATE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Anh Trung tele :)),0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+Bao nhiêu tiền đem cho con đi định cư bên mẽo cả rồi,1,OFFENSIVE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Ns ra làm gì để rồi lại bị vùi dập,0,CLEAN,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,1,1,0,0,CLEAN -> HATE
+"Đu me mây cho vay tiên gop ma noi lam tư thiên, bơt sao lôn đi minh hiêu tui mây ăn chăn tiên tư thiên thi đung hơn",2,HATE,2,2,0,1,HATE,HATE,CLEAN,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+Con bóng sadec =]],0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Sao không đền bằng rau muống?,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Vn ma,0,CLEAN,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Bà này Người ở Bề Trên hả gì á... toàn nói chuyện kiểu người khuất mặt khuất mài ko... chắc ở bên trại Tâm Thần xuất trại...,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Sự lươn lẹo là vậy,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+🤦‍♀️😪 mạng mẽo như cức chỗ các bác có v không,0,CLEAN,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+muốn ckầm kảm,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+bạn đọc lai đi bác ấy cũg là người tham gia giàh dc độc lập cho đất nước này.mag thuơg tật trên mình. chỉ vì cuộc sốg chở thuê chở mướn chứ bác có muốn vô tình giết người đâu. nhìn tổg thể cũg có nhiều nguyên do mà bạn. đất nước nợ bác nhưg bác vô tình nợ lại gia đìh e bé.,0,CLEAN,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Tuấn Mạnh :))) Nhật nổi tiếng biến thái mà,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Bút hình con c,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Day la baroibeo,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Đhs cứ mặc định nghĩ là nội bài là tđn nào nhỉ? Qatar thì nó cũng có sân bay mà từ qatar về hà nội phải transit qua bangkok nhé :))). Sân bay nào cũng có trộm cả thôi :))),2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Mấy bài trước hợp tác với kicm còn hay chứ vô nghe bài mới như hạch vậy,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Chấp gì thằng thiểu năng đó Trần Ngọc Giàu ơi,1,OFFENSIVE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Uiss cùi vl :)) lương mấy chục ngìn đồng còn đc ăn pizza loại kẹo dẻo đây :)),1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+@Kì Cục Thì hổm nay á im mình im cái người ta tưởng mình hiền người ta cứ ăn hiếp hoài vậy đó ☺,0,CLEAN,2,0,2,2,HATE,CLEAN,HATE,HATE,0,1,0,0,CLEAN -> HATE
+Thùy Trang nghe ài ái ai nghe sợ luôm ấy,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Hương Thảo vkl,2,HATE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Tốt nhất là giết bỏ đi vài thành phần óc chó đó là vừa,1,OFFENSIVE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,1,0,0,0,OFFENSIVE -> HATE
+Chửi xong rồi khóc như chó năn nỉ công đồng,1,OFFENSIVE,0,1,1,2,CLEAN,OFFENSIVE,OFFENSIVE,HATE,0,1,1,0,OFFENSIVE -> HATE
+Trang Trần dm cm với t,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+"Việt Nam phải khéo, CS Việt Nam không đến nỗi ác độc như TQ đâu. Về VN đi rồi biết, thiệt đó.",0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+Quan chức lương thì cũng như ta thôi. Nhưng ng nào ng nấy khi lên làm quan toàn nhà lầu xe hơi. Lạ.,2,HATE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+Khổ thôi chứ biết làm thnao đc? Đi đâu đc mà phải châm biếm nhau! Ai chẳng biết khổ nhưng làm gì đc đây! Xã hội nó thối nát nhưng lũ mọi rợ quá đông và hung hãn...,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Phò người ta có làm gì bọn bây ko ? Hàng ngày có những đứa hiếp dâm cướp tiền bọn bây sao im lặng vậy.,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Chữi nhiều quá tắt thở bây giờ,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Theo tao thì nó dùng cái này để dìm vụ cá chết,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Cùm măn chằn lai cầm tay bự hơn bóp l.. nghe ko 😂😂😂,1,OFFENSIVE,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+Đánh chết mẹ thằng này đi,1,OFFENSIVE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+Bú l ngọc Trinh sẽ tinh,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Nó có lây qua đường máu đéo đâu,0,CLEAN,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+hơi non,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+"Cứ dm nghĩ mình là công chúa các thứ các thứ, đéo hiểu kiểu gì =)))",1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+1 cái cớ để rút ruột ăn bẩn thui,0,CLEAN,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+Cho ra những tấm ảnh đầy tính ấu dâm,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+O ko thây so đsng chông dich ma con tam trang đang .,0,CLEAN,0,0,2,2,CLEAN,CLEAN,HATE,HATE,1,1,0,0,CLEAN -> HATE
+tai chua cung cho bon quan chuc an truoc.,2,HATE,2,0,2,0,HATE,CLEAN,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+Noi Tum lai hai thang đều ngu,2,HATE,2,1,2,0,HATE,OFFENSIVE,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+"Đây là clip cũ bạn ơi, chứ lúc này bạn ấy không dám chửi như vậy nữa, nhưng phải nói...Linh cá lóc này bản chất nói năng hàm hồ, mất dạy, vơ đũa cả nắm, trùm lập...không biết thế nào là lẽ phải. Chắc bây giờ bạn ấy đã sáng mắt, dù có chút muộn màng.",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Sao đi so sánh ngừoi dân như chó vậy Admin..coi vậy có đc ko?,0,CLEAN,0,1,2,2,CLEAN,OFFENSIVE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+Em ơi lam ngực có sướng không nêu chồng bú con cảm giác o ?,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Chỉ có óc chó mới nghe giặc tàu,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Rank Việt Nam mà yasuo tt6 tt5 thì del phải người Việt Nam r,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Con nay dien nang qua,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Đi Mỹ gởi đô âm phủ về ai có nhận nhắn vào líp nghe nội muốn ói,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Huỳnh Tuấn phản động đó bạn,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+@Chuyên gia dạy chó chuan men kkkk,1,OFFENSIVE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,0,OFFENSIVE -> HATE
+Nguyễn Nhân link cái mã tổ nhà mày à,0,CLEAN,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Xạo có tiếng :)) haha,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+thánh vô đjch chém gió,0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+Trung nút vàng bá dơ,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Lại một vụ ăn chia đéo công bằng :))),0,CLEAN,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+"Có ai để ý rằng cái mẫu hình làm logo đại diện cho băng đảng của thằng Vin ""vượn"" nó có nét tương đồng với cờ của đám giặc cộng sản Trung Quốc không? :v Éo biết team designer tụi nó nghĩ cl gì nữa :3",2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+"Phạm Vũ Nói dân trí thấp lại tự ái . Không biết thì ngậm con mẹ nó mồm đi , còn tinh tướng . EU là liên minh kinh tế . Còn \""Trời Âu\"" ở đây là đang nói đến vị trí địa lý thuộc \""Châu Âu\"" . Đéo phân biệt được \""Kinh Tế\"" và \""Địa Lý\"" à ? Đúng là thùng rỗng thì kêu to.",2,HATE,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,0,1,0,0,HATE -> OFFENSIVE
+"Khống chế,..",0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+"PhoBolsaTV :bien me đi,phỏng vấn tao lao,may về phong van gia đình mày đi.nhin may nguoi gia ma con ko tha,phoBolSa rất sam",2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+ジェイ ホープ nói hay thì làm diêu tút bơ kiếm tiền. ở đây nghĩ ra cho hay lên chém gió rầm rầm ko ra tiền lấp đầy cái bụng kêu đâu ku.,0,CLEAN,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,1,0,0,0,CLEAN -> HATE
+Bánh cuốn vl hehe,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Thật sự nể phục khả năng phá hoại của băng đảng này.,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Hêloo anh,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Nguyễn Minh Thu chếtluondi,2,HATE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Cmt dau,0,CLEAN,0,0,2,1,CLEAN,CLEAN,HATE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Phan Thị Mỹ Dung like đê dm,1,OFFENSIVE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+phát ngôn kiểu đầu đường xó chợ !,1,OFFENSIVE,1,0,1,0,OFFENSIVE,CLEAN,OFFENSIVE,CLEAN,1,0,1,0,OFFENSIVE -> CLEAN
+Trường Ronaldo con dân có tiền nó khác dân thường,0,CLEAN,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Liêm sỉ đáp thùng rác rồi,0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+Bê Lol chạy xung quanh.,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+Những người nói đạo lý toàn chơi mai thuý,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+"Lại ""Vỏ quýt dày có móng tay nhọn"" đây!🤣",0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Trần Diên Dưỡng cái ghế vl đấy,1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+"Dân phát hiện cục cứt lạ sắp ra, báo cáo câpm trên, cấp trên bảo chờ kinh phí mới dc ỉa",0,CLEAN,1,2,1,2,OFFENSIVE,HATE,OFFENSIVE,HATE,0,0,0,0,CLEAN -> HATE
+Mac bo do dep qua,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Vẫn còn nhiều người ý thức kém hơn cả điểm English của toi=))),2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Năm Lê Nguyễn Thu Hằng dm vcl bar con đeo khéo chưa đc 1p giật tung l :)),1,OFFENSIVE,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+K thích cho đi tù ở cách li cho đỡ ngột,0,CLEAN,2,0,0,2,HATE,CLEAN,CLEAN,HATE,0,1,1,0,CLEAN -> HATE
+Dép bây giờ á,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Ng giàu ngta lại ước dc nghèo để mặc cái qqe ấy..,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+đíu tin được luôn =)))))))),0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Quần như c*,1,OFFENSIVE,1,1,1,2,OFFENSIVE,OFFENSIVE,OFFENSIVE,HATE,1,1,1,0,OFFENSIVE -> HATE
+bán linh hồn và não cho quỷ r thất vọng làm j =)),1,OFFENSIVE,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Nguyễn Công phục cái máu lol,1,OFFENSIVE,1,1,2,2,OFFENSIVE,OFFENSIVE,HATE,HATE,1,1,0,0,OFFENSIVE -> HATE
+Cc 3 m,2,HATE,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,0,1,0,0,HATE -> OFFENSIVE
+"Bên Anh có vụ racist nữa, anh du học sinh Singapore bị nhóm hãm lon thượng đẳng đánh cho bờm đầu. Với cả chị này ý thức hơn hẳn chị Nhung, tôi thấy chị này chả có lỗi gì cả, quay về VN chữa trị vì rõ ràng VN đang thể hiện rất tốt phòng chống dịch",0,CLEAN,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,1,0,0,0,CLEAN -> HATE
+"Hy sinh đời bố, kệ cho dân chửi, miễn sao ăn cho nhiều tiền, có biến thì chạy thôi, tư duy của các ông tủn mủn chỉ có vậy thôi.",2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+Deo hieu luon :))),1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Bài nào cũng cmt nhưng vẫn đ đc fan cứng 🤦‍♀️,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Trương Xuân Yến Huỳnh Nguyễn Mỹ Phương Lê Thanh Phong Dang Nguyen Van Võ Thanh Bình hết đi đơm nha mấy con đỗ nghèo khỉ :)))),0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+"Giàu thì nói cứt cũng thành cơm,nói gì chả đúng",2,HATE,1,2,2,0,OFFENSIVE,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+Đúng là sói. Giống a độ từ mặt tiền đến cả suy nghĩ.,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Căng đétt :)))),0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Nguyễn Bảo Chấn clm,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Oke Hasagi chết mọe đi 💀,1,OFFENSIVE,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,1,1,0,0,OFFENSIVE -> CLEAN
+Hot link em gái ngon ngọt nước cho ae nè,1,OFFENSIVE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+Tóc đẹp lồn lộn vcl anh :))) đan xen từ ngữ chất vl,1,OFFENSIVE,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Còn lồn này cái mỏ như cái lồn,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+"Cuốn dell nhặt đc mồm, toàn danh hài đất Việt :))",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Lên báo thì giật tít vậy chứ ngoài đời ông ko phải dậy khôn bọn CA đâu. Nó chẳng chờ cho giang hồ chém nhau xong có ng báo nó mới tới ý. Ong tưởng nó vào can thiệp chắc.,2,HATE,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,1,1,0,0,HATE -> CLEAN
+Nhịn tham nhũng sẽ có lợi hơn cho các lãnh đạo Việt Nam .,0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+Cang noi cang nham nhi qua pho bolsa,2,HATE,0,0,2,1,CLEAN,CLEAN,HATE,OFFENSIVE,0,0,1,0,HATE -> OFFENSIVE
+"Thiên đường xã hội chủ nghĩa là cái từ chẳng bao giờ đc nhắc đến trong bất kỳ 1 sách vở, nghị quyết, văn kiện nào của đảng. Mà toàn là từ các nhóm chống cộng mà ra",0,CLEAN,0,1,2,2,CLEAN,OFFENSIVE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+Con nay tamthan nangkhung batron,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+nghe mắc i* quá abeeee,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Khánh Con Sao Ko lấy số người chết của Ý ra nhỉ. Ý cũng là châu Âu đó. Hi sinh người chết vừa làm tăng miễn dịch cộng đồng vừa cho đỡ chật đất. Cách làm của Tây hay thật ta ơi 😌,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Tụi t đéo nịnh tụi t thương cô vì tánh cô chân thật. M biết cái cc gì m nói,2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+trong ảnh nhìn đẹp trai mà sao trong clip nhìn hãm loll vậy a,2,HATE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+"mn làm sao thế nhỉ, chửi vậy tội thân con gái nta. Tại xem não có nảy số được để mà hiểu đâu nên thấy hay làm sao được 🙂",0,CLEAN,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,1,1,0,0,CLEAN -> HATE
+Một mình chị nhung lây mẹ bệnh cho cả nước,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Lee Sin lol mẹ giáo án kiểm soát của thầy Tú,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Vỡ nợ cmnđ! Đập nát hết rồi xây lại còn hơn!,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Xao lon,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+"Loạn rồi, loạn thật rồi ông giáo ạ :))",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+lol,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Mịa mất tiền mua mạng hôm qua thì lag vl hôm nay mượt đc 1 chút thì đọc đc tin này chắc tháng sau t cắt mẹ nó mạng đi,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+may ma ve vn .la cai mo may k con cai rang an chao voi cdm,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Chị ơi có rãnh không chị chửi con mẹ 65 bớt những lo đi.,0,CLEAN,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,0,0,0,0,CLEAN -> HATE
+Thay ngáo đá,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Mày nên nhớ là nguời trong nam ngoài bắc cỡ 70 triêu nguời mày chờ chết là vừa,2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+"bộ hàng hải :)) admin ngu đéo chịu đc :)))))))))))) ôi ""bộ hàng hải"" =)))))",2,HATE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,0,0,1,0,HATE -> OFFENSIVE
+Tào lao!,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Máy khứa có tiền đi nước ngoài đem bệnh về phát tháy gơi cmn,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+vơ vét mùa dịch tởm nhỉ,0,CLEAN,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+"to su ong CAn, deu co ong CAn nao tot. ong CAn tot chi thay trog phim. sao ko co ng nao di cung chu",2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Đấu hiệu điển hình của việc không muốn cách ly cho cộng đồng yên ổn mà để cộng đồng cách ly đây mà,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Các hãng nổi tiếng calvin gucci chanel đều bên nước ngoài mắc gì đem về vn cho nhỏ đó tri ân tri nghĩa....có ăn qq quá ai nói Gì cũng tin biết cuộc đời sài chai nước hoa chính hãng chưa nữa,1,OFFENSIVE,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+"Hay học pha thuốc nổ, qua bển du lịch đánh sập đập nhề?!",2,HATE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Tộc Trưởng Buồi To Như Lõi Giấy Vệ Sinh nghỉ lễ 2/9 vui vẻ,0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+Trời. Cố vấn tối cao ba đời tổng thống MỸ mà ăn mì gói kìa.,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Bú mạnh,0,CLEAN,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+Sáng mắt chưa Nhung :),2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Phi Trần vừa coi vừa ngủ đm nghĩ ló chán :)),1,OFFENSIVE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+Công nhận bà hiếu dử nhưng mặt bả thánh thiện mới ngặt chứ,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Ok chi hom ray cho chi giai puyet con nay kkkk,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Mất dương chỉ,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Người có 500tr giúp cái người k có 500tr 😂 đm,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+"Đồng chí cục trưởng chuẩn bị ăn tối món ""chao xả gich"" với đồng chí cấp phó",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Bọn đấy nó ngụy biện mà, muốn trị nó thì phải nhắm vào điểm yếu và tập trung vào đó. Vd: nó bảo đi biểu tình là được cho tiền mới đi thì đạp lại bằng những thằng đàn áp bắt bớ mới là bọn được trả tiền để làm việc đó. còn bảo làm được gì cho đất nước chưa mà nói này nói kìa thì đạp lại bằng mỗi lần đi ỉa dội nước là đã góp phần xây dựng đất nước rồi và cũng góp phần trả lương cho nó.",2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Cái thần này.gió chieu nao .che chiei đo.khau ngiep.chet ko đau thai,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Điều làm nên nước Mỹ: không ai đứng trên hiến pháp và pháp luật!,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+"ông khác với các vị tù khác ở chỗ là ông chẳng khổ như họ ở tù, quan chức ở tù cũng sướng.. có trà bưng nước rót, ở phòng riêng, người nhà vô chơi thoải mái..",1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+"Thật là phiền phức , toàn bọn ăn ko ngồi rỗi nghĩ ra lắm trò hành dân ??? Ko biết bọn này có thuộc dạng nâng điểm vào ngành hay ko mà chả nghĩ gì đến hệ luỵ dân phải ôm theo nhiều giấy tờ phụ chứng nhận ?? Gọn nhẹ đâu ko thấy chỉ thấy thêm phiền phức mà thôi !",2,HATE,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,0,1,0,0,HATE -> OFFENSIVE
+Tại c t chân thật quá k quỷ ma giống m,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Đặng Quốc Bìng Ý thức như loằn cx chửi, có ý thức cũng kêu sợ bị chửi nên mới v",0,CLEAN,1,1,2,2,OFFENSIVE,OFFENSIVE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+ANH NGHỊ TRẺ VIỆT CỘNG😂🤣😅😄🤣😂,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Lợi Nguyễn lâu thì lâu tại nó chém gió nói 10 năm cho ng ta chửi xl,1,OFFENSIVE,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Haha avt,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Quang Minh xạo lồn vừa phải 🤣🤣🤣,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+"Mac nay dep ne , co tay ao , kg thay vai u thit bap , nhin nu tinh , sang trong ,",0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Chết đi ông ơii,1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+An Nguyen 😒😒😒 đéo biết gì về thời sự cả,0,CLEAN,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Chán,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Chưởi bk chó là nó sắp tới số nữa con này khg bc loại nào ln,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+:))) thôi đéo thấy gì là tốt nhất,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Đụ kía... cho cây vàng làm đẹp xong ... cái tánh tui hay trêu... xong giận đời lại tháo ra hay gì,0,CLEAN,0,1,1,2,CLEAN,OFFENSIVE,OFFENSIVE,HATE,1,0,0,0,CLEAN -> HATE
+Nó bóng mà sao đẻ đc bạn,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Bọ FA lúc này :))),0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+ý thức nd đã kém rồi nói gì đến mấy anh bụng phệ,1,OFFENSIVE,1,1,1,2,OFFENSIVE,OFFENSIVE,OFFENSIVE,HATE,1,1,1,0,OFFENSIVE -> HATE
+đúng là ngu dân,2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+Chị này có chim mà,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Chia tay t bắt bỏ tù hết chia tay cc,1,OFFENSIVE,1,2,1,0,OFFENSIVE,HATE,OFFENSIVE,CLEAN,1,0,1,0,OFFENSIVE -> CLEAN
+"lấy về tế ông nội , tổ tiên đó mà :V",1,OFFENSIVE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+Hiền Vinh sao trong clip như thằng tâm thần vậy,2,HATE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Ông này chắc là bọn Tân thiên địa nằm vùng bên mình rồi....,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Thanh xuân như một cái đụ,0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+Lê Danh Đoàn dkm :v,1,OFFENSIVE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Trung quốc thì nói mẹ Trung quốc đi bày đặt china chi nủng. Đang nói tiếng Việt hay tiếng anh,1,OFFENSIVE,0,2,0,2,CLEAN,HATE,CLEAN,HATE,0,0,0,0,OFFENSIVE -> HATE
+Lua dao nhung nguoi nhe long .lua dao cac dan mang . ve vn la may chet me do con be de cho nhu may se qua bao,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Xã hội thối nát,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Bánh bèo cái l.ồ.n như cái bánh xèo. Má cười ĩa á.,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+"Thua cái buồi thằng ad, nếu mày không thích thì mày follow, thầy đang nói đến vấn đề kết bạn ảo. Mày có hiểu ""động cơ kết bạn trên fb là để làm gì không""?",2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Mấy bóng khung,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+Gắt,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Liếm ko từ 1 cái gì cả cứt và lá xoan cũng liếm nốt,1,OFFENSIVE,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Quang Minh cái lồn má,2,HATE,1,2,2,1,OFFENSIVE,HATE,HATE,OFFENSIVE,0,1,1,0,HATE -> OFFENSIVE
+Ghẹo nó chi để nó chửi trời,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+TQ sắp thay mỹ cai quản tg roi,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Anh độ ơi ngái dứa vailon,1,OFFENSIVE,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+"Chong tham nhung, chang le ng nha chống nguoi nha ???",2,HATE,2,0,2,0,HATE,CLEAN,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+"Chúng tôi: đại đa số dân đen nước Việt, rất cảm ơn thịnh tình và sự nhiệt huyết của quí ngài dành cho môi trường nơi chúng tôi sinh sống. Chúng tôi lấy làm tiếc về sự việc đã xảy ra, mà ko biết làm sao để thay đổi, mặc dù 90tr dân nước Việt thông minh,",2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+Nản ba gà thật sự,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Chưa cạo râu kìa con bóng Lông xiên,2,HATE,1,2,1,0,OFFENSIVE,HATE,OFFENSIVE,CLEAN,0,1,0,0,HATE -> CLEAN
+chảm,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+hết mie nó rừng vàng biển bạc rồi.,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Không phải tụi nó sợ mà tụi nó thù dai. Vì tụi nó là lũ sức sinh.,2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Tục vl 🙂,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+đm thề chưa bao giờ xem phim mà ngủ =)) đây là lần đầu,1,OFFENSIVE,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+muon tan 1 phat vao mat,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Do thiếu lozz ngọc trinh nên hôm qua tiệp hơi nông nỗi,2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+Im ngay đi cái thằng suốt ngày chỉ đc cái nói đúng,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Tết nhất đầu quân bộ đội có tiền đầu tư phát triển cái bộ tộc,0,CLEAN,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,1,0,0,0,CLEAN -> HATE
+"Nói đạo nhái mà đến giờ vẫn đéo lòi ra một đơn kiện. Chỉ có các tHiên tÀi âM nHạC các bạn phán đạo thôi, lmao.",1,OFFENSIVE,2,1,1,2,HATE,OFFENSIVE,OFFENSIVE,HATE,0,1,1,0,OFFENSIVE -> HATE
+":)) nó chửi cho đúng :)) chứ k phải là nó chửi sai.nó chửi cho khôn ra chứ nó chửi k phải là để cho tụt hậu,cho đi xuống...tuy văn phong Thô- Tục nhưng nó Thật...nên đéo thể cãi được ,thấy xấu hổ thì phải thay đổi",1,OFFENSIVE,1,2,2,0,OFFENSIVE,HATE,HATE,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+Má 🙂 Kiều Oanh Nguyễn Thị,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Cđ châu md quá tr r🤣🤣,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Thầy làm như vậy là chết cdm tụi em ròi,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Đợi muốn đập đt đây anh,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Dạo này không thấy bọn dlv vào chửi phản động nữa nhỉ. Hay tiền lương thấp quá không đủ nên chuồn rồi.,2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+@To Nhu Nguyen giả đầu m t sài r nha,2,HATE,0,2,2,0,CLEAN,HATE,HATE,CLEAN,0,1,1,0,HATE -> CLEAN
+Gja khug mat net nc xam lok,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+"Ko có kẻ thù vĩnh cửu, chỉ có lợi ích mới là vĩnh cửu nhé. Các bậc hiền triết trên mạng hay share mấy cái đức tính tốt về người Nhật đâu, nghĩ thử ngày xưa Nhật bản cũng thì hằn Mĩ tới mức độ nào? Và bây giờ hãy xem những gì họ đã và đang làm?",0,CLEAN,0,1,0,2,CLEAN,OFFENSIVE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+Mẹc si sa đéc :)),0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Chán mấy ông :((,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Xong quả dịch này đề nghị nhà nước cất bé đó đi 1 thời gian nhé,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+"Nhiều đứa thấy rãnh hơi lắm, làm đủ mọi cách rình rập nhà ngta xong kiểu nó đi ăn trộm mà làm con quan nên thường la làng, nhảy đỏng chứ ko rụt đầu như bọn dân đen. Nhà ngta nói chuyện mà nó cứ văng vẳng chen vào trong khi chả biết nó là ai? Ở đâu? Nói",0,CLEAN,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+thằng cha nào đó sáng lên ti vi phỏng vấn danh nhân thời đại chiều là thấy nó vào khám rồi chuyện vn,2,HATE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Sau đó anh tôi chạy thẳng vào kho lấy ra cái búa từ đó đéo thấy anh tôi stream củ cặc gì nữa =)),1,OFFENSIVE,2,1,1,0,HATE,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+Tag sela vô,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"Nói thầy ngáo thì mấy đứa nó lại tự ái , híc",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Đây là thất bại của CS chứ còn gì nữa,2,HATE,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,0,0,1,0,HATE -> CLEAN
+Con mẹ day làm răng giả ghê quá,2,HATE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,1,1,0,0,HATE -> OFFENSIVE
+Chó,1,OFFENSIVE,2,1,1,0,HATE,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+Súng aka kiag,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Căng quá abe ơi,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Sơn Nguyễn chuẩn đm phí tiền vé vl,1,OFFENSIVE,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,1,1,0,0,OFFENSIVE -> CLEAN
+Mắc ói,1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Tây nó lại bảo mới trốn viện,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"lông dương lông là lông , dương là dương v.. Có nghĩa là lông cu",1,OFFENSIVE,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Dám đánh chết liền,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Đậu má thầy ok chưa ?,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Bạn trẻ ở trên là acc của ad hả :)) nó chửi ad chứ có chửi m đâu kệ mẹ chúg nó đi,1,OFFENSIVE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+Ý thức đâu hết rồi,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+"cũng thế thôi. quân đội có súng ống mới đàn áp đc dân chứ, ko thì đảo chính từ lâu rồi",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Pkuong DVT Chanel . tiền chỉ dùng để đem theo hả????,",0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Chuẩn bị huy động 500T vàng của dân đi mua phù sa về đổ xuống sông cho có màu nè =)))),0,CLEAN,0,0,2,2,CLEAN,CLEAN,HATE,HATE,1,1,0,0,CLEAN -> HATE
+Cực kỳ thuyết con mẹ nó phục,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Nói ra câu ngu bị mọi người chửi thêm cho,0,CLEAN,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Mở mồm ra chửi Bắc kỳ rồi lại bị mấy anh Bắc tìm thôi,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Vâng JAV,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"Ừm thế đấy,chữ nhân dân hiện diện trên khắp danh xưng cơ quan chính phủ, nhưng dân chỉ như cọng cỏ cọng rác bên đường mà họ nhân danh.",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+"A đừng có giống chị Tịp đấy nhé, thông báo cách li tại nhà rồi đi quán uống cafe .☺️",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+E,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+thối quá rồi,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Nhìn mặt ngu hơn bò,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Nhìn là thấy kg có gì rồi . Coi chừng bị lừa,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Bat hết cái bọn gây hoang mang dư luận .,0,CLEAN,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Dung la gian sang de doi ban tanh kho doi do ban qua,0,CLEAN,0,2,0,1,CLEAN,HATE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+nhà ai có người làm trong sân bay thì nhục phụ cái,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Bê đê dơ,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+giọng ca hảm chết cdm ng nghê luôn mà share cái j,1,OFFENSIVE,1,1,1,2,OFFENSIVE,OFFENSIVE,OFFENSIVE,HATE,1,1,1,0,OFFENSIVE -> HATE
+"Cái miệng khẩu nghiệp, con này nó tạo nghiệp không để phúc đức cho con nó",2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+K phải khen chứ phim dỡ vkl,1,OFFENSIVE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Cái a nào hi sinh xe máy cũng đáng. Giờ thì quy định mới mỗi xe phải có 4 bình cứu hoả loại to. Vl mấy bố đầu tôm,2,HATE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+ung thư giờ đó mà,1,OFFENSIVE,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+Lú TBT,0,CLEAN,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,CLEAN -> OFFENSIVE
+vâng ơn đoảng ơn boác xd,2,HATE,0,0,2,1,CLEAN,CLEAN,HATE,OFFENSIVE,0,0,1,0,HATE -> OFFENSIVE
+Oi troi oi cai mo ba xau nhu quy,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Còn anh có công với ghpg đâu rồi.chắc lên cỏi niết bàn rồi thì phải???,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Con lạy bố, tuyến này là của Posco Hàn Quốc, thằng TQ làm tuyến Cát Linh - Hà Đông",0,CLEAN,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Do con di nug lon,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Sbtc levi,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Tùng hỏng :)))),0,CLEAN,2,0,2,2,HATE,CLEAN,HATE,HATE,0,1,0,0,CLEAN -> HATE
+Bài mai dù,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Chac chan Coronaviruswuhan qua di thi The Gioi se khong de yen Trung Cong .,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Vũ Khắc Tiệp-kẻ chân dài, đầu ngắn?",2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Lại Hợp Sâm clm đến v thì /ff,2,HATE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,0,HATE -> CLEAN
+Cái lồn má toàn danh hài thế này :v,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+"Ad tên Thắm à , hehe , em lại nhớ tới cái con em học cùng cấp 1 cũng tên là Thắm và em toàn trêu nó là \"" Thắm mồm khắm như nước mắm \"" ad à :D",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Hotgirl chỗ nào....nước hoa giả hàng face ko mà làm dữ,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+chỉ cần 1 đội làm điên đảo cộng đồng,0,CLEAN,2,0,0,2,HATE,CLEAN,CLEAN,HATE,0,1,1,0,CLEAN -> HATE
+Thua cả MC việt hoàng,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+hì . cộng sản mà lị,0,CLEAN,2,1,0,1,HATE,OFFENSIVE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+Nhạc dở hơn nhiều so với hồng nhan bạc phận sóng gió thề !,0,CLEAN,0,0,2,2,CLEAN,CLEAN,HATE,HATE,1,1,0,0,CLEAN -> HATE
+Con này chắc không có gì làm nên rảnh nên bày ra tay đôi nói bậy,0,CLEAN,1,2,0,2,OFFENSIVE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+Thôi tụi nhật về nước dùm tao đi,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Cá chết vẫn chưa rõ nguyên nhân, biển thì vẫn đầy chất độc, chính quyền vẫn hô hào những chuyện tào lao và im lặng những chuyện cấp bách. Cứ thế này bà con ta sẽ sống như thế nào đây?",2,HATE,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,1,0,0,0,HATE -> CLEAN
+hoa cmn hậu luôn !,0,CLEAN,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+Phim dở vl,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Xạo l,2,HATE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,1,0,0,0,HATE -> OFFENSIVE
+"hasha, đồng cam cộng khổ đó mày",0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+Bon con chau TQ lam j co van hoa,2,HATE,2,0,2,0,HATE,CLEAN,HATE,CLEAN,1,0,1,0,HATE -> CLEAN
+Khổ thân a. Nhìn mặt a e thấy ngột ngạt r á,2,HATE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Ca nha oi co 1 ba khung bi tam than .kieu no di cau an cuc di......,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Nhảy ổn như mạng nhà t😕,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+quái vật lốc less đang mang vinh quang với giáo án poppy sách phép,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Vậy mới thấy tri thức ngu tri thức hèn là như nào,2,HATE,1,2,2,1,OFFENSIVE,HATE,HATE,OFFENSIVE,0,1,1,0,HATE -> OFFENSIVE
+dm áo vú =)),0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+"Nhưng mang ra rạp thì đéo đứa nào coi, kể cả miễn phí chứ chưa nói đến bán vé.",1,OFFENSIVE,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,1,1,1,0,OFFENSIVE -> CLEAN
+Nó lại dễ vl anh ạ,1,OFFENSIVE,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,1,1,0,0,OFFENSIVE -> CLEAN
+Chu cờ mo cho mò cu,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+Thân Hoài Thương ơ lạ lol ghê. Ngta hay thì like mà t nghe k hay thì t dislike k đc à. Ảnh hưởng kinh tế gì nhà bạn k.,2,HATE,0,2,2,1,CLEAN,HATE,HATE,OFFENSIVE,0,1,1,0,HATE -> OFFENSIVE
+Nguyễn Minh nhật bổn bệnh vl thế này á minh béo :)),2,HATE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Trong thới giới thứ 3 những người đáng được tôn trọng và đáng được tuyên vương rất nhiều nhưng ko thấy ai biet đến bởi vì họ nghèo, còn nhung thứ đang sống trong cái kiếp giàu sang lại tỏ vẻ khinh người mạc sát nhục mạ những ai khiến họ ko vui thì được nễ trọng săn lùng bởi vì họ giàu, một xã hội đa số chiếm phần lớn những con người trọng phú khinh bần và chỉ biết nhìn thấy cái trước mắt, tôi ko hề ghét hay chê bay chị này nhưng thật lòng tôi muón nhắn nhủ với chị rằng, nếu chị đọc được chị có chửi tôi tôi cung chịu, nhưng những gì tôi nói ra tôi tin chắc chị phải suy nghĩ tới : khi chị len trang mạng cộng đồng chị chửi và nói có đôi khi dùng những lời vô cụng tục và that sự rất rất khó nghe, vi dụ vô tình 1 đứa trẻ nó nghe được thi sao hả chị, e ko dám nói chị xấu tinh hay gi cả, nhung e dám cam đoan nhung loi chị chửi nhu vậy đa phần những phụ huynh có cs vợ chồng đàn hoàn họ rất sợ thậm chí kinh hải nhưng đa phần họ ko nói ra, ko phải họ sợ chị đâu mà họ sợ khi chị thấy được thì luc đó chị dùng những từ ngữ gì để chửi họ. Chị oi, kiep này chị giàu chị đang thừa của ăn của mặc, chị đep nữa thì hãy trân trọng những điều này va cố gắn làm phước báo giống như những gì chị thường làm mà e từng thấy, để kiếp sau còn có hy vọng minh sẽ được hưởng tiep đieu tốt lành. Em vi dụ nha, hiện tại chị đang thừa tiền lắm của nên đa phần nhung nguoi gap chị đến với chị toàn là những gì họ thấy có lợi cho họ, nếu lỡ mai mốt chị nghèo đi thì chị có được nhu bay gio ko? E rat nễ các a chị nghe si bay giờ, co rat nhieu nguoi nghiem ra được cs là vô thường nên họ rất sẵn sàng sống chậm đi, sống ko ồn ào, sống biet chia sẽ,sống có đạo với đời... Đó chính là những gì lâu dài và mãi mãi.. Cuối cùng e chúc chị luôn được nhieu sức khỏe và mãi luon xinh đẹp",0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+Em tự hào vì làm chó cho Mể,1,OFFENSIVE,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,0,1,0,0,OFFENSIVE -> CLEAN
+t khép đít lạy m!,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Mẹ. Mày ko phân biệt đâu là tài năng và phá hoại hả Gin Tama?? Chẳng lẻ mày giỏi hơn thằng khác là mày phải giết nó rôi mày lên làm chủ ak?? Còn gì là luật pháp hả mậy,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Cai mieng hay la cai ong cong vay,1,OFFENSIVE,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+og tran dan ok bi nhiem coronna.ma bi nhiẻm beh khat la beh gi? og bi beh B 20 dan đen than kih ko on nen noi nhieu . vui,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+🙂🙂gửi mấy con bò,1,OFFENSIVE,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Ưa đập hi,0,CLEAN,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+"ông dần tôi hơi hột phép với ông ổng nói như hài chứ lũ bán nước ,nước đâu mà về ? về với nước bên kia thế giới ngàn thu thì được ???",0,CLEAN,2,0,2,2,HATE,CLEAN,HATE,HATE,0,1,0,0,CLEAN -> HATE
+Có đuỹ nào thả thính hôn,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"m lảm nhảm cái đéo gì thế, sai lè còn cãi, ở Việt Nam! cái hay nhất nhà chối tội đổ lỗi thanh minh, từ thằng quan tới thằng dân, sai lè thế kia mà còn lái đi đâu đâu để cãi, chúng mày vác cái đth sương chúng m, còn dân Việt Nam! bên đó với nhưng ng sau này sẽ qua thì sao?",1,OFFENSIVE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,0,0,1,0,OFFENSIVE -> HATE
+"Đào đất đóng gạch đi,đông về khối đứa cần ủ ấm.",1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+"Đang chuẩn bị họp, 1 ông người tàu bước vào phòng,,, búng tay cái ""póc"" 10 thằng tàu nhỏ vác 10 cái vali tiền vào phát cho 1 bộ trưởng 1 cái ... "" mấy lỉ ăn đi và im mồm dùm bọn ngộ"" !",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Duma.nhỏ cà chớn lớn cà khịa @@,0,CLEAN,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,0,0,1,0,CLEAN -> OFFENSIVE
+Trên bờ thì hít khí bẩn ăn hoá chất nhé,0,CLEAN,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,0,0,0,0,CLEAN -> HATE
+Trấn thành đẹp trai đụ hariwon,2,HATE,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Mấy a dlv ""chúng mày đã làm j cho tổ quốc"" đâu rồi...??",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Bo tay,0,CLEAN,1,0,0,1,OFFENSIVE,CLEAN,CLEAN,OFFENSIVE,0,1,1,0,CLEAN -> OFFENSIVE
+Trùm cuối cmn hú vía :)),1,OFFENSIVE,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,1,0,0,0,OFFENSIVE -> CLEAN
+:v báo chí nước ta đã có 1 bước tiến rất lớn trong công cuộc bảo vệ biển đông đó là dám gọi thẳng quân Trung Quốc thay cho từ quân Nước Ngoài !,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Huỳnh My đỉ mẹ. T vs m đi trước thời đại mất tiêu r bé 🤣,0,CLEAN,2,0,2,1,HATE,CLEAN,HATE,OFFENSIVE,0,1,0,0,CLEAN -> OFFENSIVE
+Top1 ca sĩ nhưng k biết hát :)),1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+VN phải có cái riêng biệt cái tự chủ độc lập toàn đi sau làm sau,1,OFFENSIVE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Ngta đẹp và bán hàng có tiếng lâu năm .và đẹp hơn mặt chó,0,CLEAN,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Abe combo chết mạ em r,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Hại não vồn tốn 2 phút của cuộc đời để đọc cái sờ ta tus này và 30s để viết cmt và tốn 2p30s để. Đọc lại cái cmt 🥺😊💐😆,0,CLEAN,1,0,1,2,OFFENSIVE,CLEAN,OFFENSIVE,HATE,0,1,0,0,CLEAN -> HATE
+"Hôm bữa xin lỗi, tôi nói con này khóc là nước mắt cá sấu thôi , nhung anh này giọng nói đâu phải người dân miền Bắc đâu , mà chửi Bắc này Bắc kia , xúc phạm đến vùng miền người ta .",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+T làm thế đâu... Thằng ad vớ vẩn :v,0,CLEAN,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,1,0,CLEAN -> HATE
+loại này cần khởi tố cách ly khỏi xã hội,0,CLEAN,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,1,0,0,0,CLEAN -> HATE
+Cô ba vàng giả cái () cát không.😂,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+R nó đi ngược chiều gây tai nạn cũng chửi,0,CLEAN,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,1,1,0,0,CLEAN -> HATE
+. ai khịa thầy là chetme đó nha,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+thấy nên nhờ doinb dạy cho cái giáo án ngắm gái vs lựa gái cho học trof đi,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+"sao anh Độ sói không đóng MV của MTP nhỉ, nó lại chả sang vãi lồn",1,OFFENSIVE,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Con nay bo tay,0,CLEAN,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+Tinh Trùng Khuyết Tật,1,OFFENSIVE,2,2,0,2,HATE,HATE,CLEAN,HATE,0,0,0,0,OFFENSIVE -> HATE
+Vu Quynh Huong đệ thanos,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Ba nay mat dai khoe vang cuop chac hai cai tay no di an noi mat dai,0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Tụi m hong học thầy bắn sml 🤣🤣,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Động cơ của các vị là gì?,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Phạm Nguyễn Cát Vy cljv con,0,CLEAN,1,1,1,2,OFFENSIVE,OFFENSIVE,OFFENSIVE,HATE,0,0,0,0,CLEAN -> HATE
+Phuong Trinh Nhi nước hoa giống như nước lã vậy đó e có mua hai chay Sài như lồn,1,OFFENSIVE,1,2,1,0,OFFENSIVE,HATE,OFFENSIVE,CLEAN,1,0,1,0,OFFENSIVE -> CLEAN
+Nhưng em không có kì thị Cô Minh Hiếu mà em cứ cà khịa đứa bạn bede😂,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Covid-19 là cái gương chiếu yêu hay gì á :))) biết bao nhiêu bộ mặt ngu dốt lòi ra,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Trần Vỹ nếu nó ko đạo nhái thì đâu có tiếng xấu muôn đời,2,HATE,2,2,0,0,HATE,HATE,CLEAN,CLEAN,1,1,0,0,HATE -> CLEAN
+Già ba toang rồi ông giáo ạ,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Hết ẳng 🙂 câm mõm lại hết đi,1,OFFENSIVE,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+Nhục cái lồn gì k biết?:)). Mệt người sủa ngu. Cút,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+Vãi cả xe chữa cháy phiên bản Biker. Mấy anh Mỹ nhìn chắc cười thúi ruột. Hihi đồ ngốk,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Lâm Anh Vinn tui bảo rồi loz mẹ,1,OFFENSIVE,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,0,0,1,0,OFFENSIVE -> CLEAN
+Ông Dần là người Việt gốc Hoa nhưng ông ấy có tâm với nước Việt hơn lũ công giáo Việt Nam rất nhiều. Tuy rằng tư tưởng có chút lệch lạc.,0,CLEAN,0,0,2,2,CLEAN,CLEAN,HATE,HATE,1,1,0,0,CLEAN -> HATE
+Bú bóng cao su ha gì cười ghê z abe :)),2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN
+Á đù. Sinh ra đã có cặp à 🤔🤔,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Cmt đầu luôn anh ơi :((,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+"Chỉ 1/2 đất nước trong nội chiến vẫn & đã làm đc điều như này vào 60n trước....ôi!, tôi yêu mN của tôi biết nhường nào!",2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Đùa :)) nó rời khỏi eu chứ có phải nó bê cái nước nó ra khỏi châu âu đi sang châu khác k mà cứ cãi thế nhỉ ngu đ chịu được =))),1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+"Cần xử tử con thú máu lạnh này vì nếu để nó sống , xã hội sẽ nguy hiểm hơn !",1,OFFENSIVE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+Giàu có thì bay ra Nước ngoài đến lúc bệnh tật lại bay về VN nghèo nàn. Thử hỏi còn đâu tuyệt vời hơn VN,0,CLEAN,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,1,1,1,0,CLEAN -> HATE
+Phạm Văn Lộc vãi lol lộc,2,HATE,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,HATE -> OFFENSIVE
+cái này người ta kêu là vừa ăn cắp vừa la làng,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Giống vl,0,CLEAN,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,1,0,1,0,CLEAN -> OFFENSIVE
+Co ko ma noi vay e.xao vua thoi.chan e con dinh phen vang khe kia ma bay dac no.e ve que e ma no.cho moi nguoi 1000 usd ha.may ngay nay tiem ban giay tien vang bac ngji het roi e.bot no nha,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Tội nhims anh ơi kk,0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Ma nây giau nhieu ma che nguoi ngheo khâu nghiep qua chi oi,0,CLEAN,0,0,2,1,CLEAN,CLEAN,HATE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+ngành CA tìm được người như vậy thật hiếm( vạn người chỉ có một) toàn tham nhũng và bắt lạt dân,0,CLEAN,0,2,2,2,CLEAN,HATE,HATE,HATE,1,0,0,0,CLEAN -> HATE
+Tiên tri vũ trụ đệ nhất quốc sư mà sun vòi thì nước Mỹ nguy to rồi !,0,CLEAN,0,2,0,2,CLEAN,HATE,CLEAN,HATE,1,0,1,0,CLEAN -> HATE
+chuaanr vl anh tôi,0,CLEAN,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,1,1,0,0,CLEAN -> OFFENSIVE
+"Hung Nguyen không, chỉ có cờ vàng cứt choá thôi 😌",2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Quen lối sống hùa bầy đàng. Mỗi người Viet chúng ta trước khi làm việc gì hãy dùng cái đầu để suy nghĩ.,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Abe mua áo như này là chet con di me sela rồi =)),1,OFFENSIVE,2,1,1,0,HATE,OFFENSIVE,OFFENSIVE,CLEAN,0,1,1,0,OFFENSIVE -> CLEAN
+cho nó tù đê,0,CLEAN,1,1,1,1,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,0,0,0,CLEAN -> OFFENSIVE
+giống lão gà mên teong là xì trum vl,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+Sai cái dmm phải khoá mõm mày lại,2,HATE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,1,1,1,0,HATE -> OFFENSIVE
+Khi bạn muốn bợ đít ai đó nhưng bạn không có não. Ngu như lợn nhưng vẫn làm báo Đảng đĩ.,1,OFFENSIVE,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,OFFENSIVE -> HATE
+"Chơi với thằng nào cũng được,trừ thằng tàu cộng ra,ok",2,HATE,2,2,2,0,HATE,HATE,HATE,CLEAN,1,1,1,0,HATE -> CLEAN
+"Đưa từ vụ bán độ lịch sử 4 cái tàu choán nước hơn nghìn tấn,ngắm bắn bằng radar,F5 thì đậu chật kín đà nẵng,hải quân hạng 6,không quân hạng 4 thế giới,hùng hổ ra trận bắn lẫn nhau rồi bị mấy cái tầu cởi chuồng từ ww2 hiếp dâm chết :v",0,CLEAN,2,2,2,2,HATE,HATE,HATE,HATE,0,0,0,0,CLEAN -> HATE
+Tranh cho va bong sa ban gai cung kg gai trai chan ra trai hahahA,1,OFFENSIVE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,OFFENSIVE -> CLEAN
+đau cả rọt :))))),0,CLEAN,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,1,1,1,0,CLEAN -> OFFENSIVE
+Cám ơn đảng. Cám ơn nhà nc 😏,2,HATE,0,0,0,0,CLEAN,CLEAN,CLEAN,CLEAN,0,0,0,0,HATE -> CLEAN
+"Tôi không dùng bảo hiểm , bởi vì bác sĩ coi thường sức khỏe bệnh nhân dùng bảo hiểm !!!!!!",2,HATE,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,0,1,0,0,HATE -> CLEAN

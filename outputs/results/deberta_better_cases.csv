@@ -1,0 +1,964 @@
+text_clean,label_id,label_name,svm_pred,bilstm_pred,phobert_pred,deberta_pred,svm_label,bilstm_label,phobert_label,deberta_label,svm_ok,bilstm_ok,phobert_ok,deberta_ok
+Haizz. Nthe này thì dân khổ quá,1,OFFENSIVE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+the nay ma chi phat gay roi trat tu cong cong thoi a dung la dan minh,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Đề nghị 17, 22,23,32 đến phà vài hơi vào mẹt tk này để nó đi cách ly thế giới hẳn đi.",2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+"Nhà Xa trường học, nhà gần cầu tiêu câu nói đã gắn sâu vào đầu tao :)))))",0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+"K nói thì tự kiêu,nói thì lại tự ái chứ í thức thế ai mà chịu nổi😡",1,OFFENSIVE,1,2,2,1,OFFENSIVE,HATE,HATE,OFFENSIVE,1,0,0,1
+Lê Khánh An kệ ng ta việc nhà mik là giữ top🙂,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Phét,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Co ba oi co giau lam vay co giup nhung nguoi kho giong nku tui con di co,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Éo thích thì biến đi thọc con mắt chóng cái tai lên xem làm ghì,1,OFFENSIVE,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,1,0,1,1
+Bà này nói đúng mà bà đó đi làm o sin gửi tiền đô về Việt Nam hưởng chứ tiền Việt Nam lam gì có giá trị tuy bà nói chuyện thô lỗ tí nhưng mà bà nói đúng mà...,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Hiền Hiền trời đất ôi chị em,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Mặt chị nhìn sợ hơn mặt ông kia á 😞,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Công an mà muốn xử lý thì 2 ông luật sư này sẽ biến mất ngay lập tức. Chứ chả phải bị đánh giữa đường rồi chụp ảnh máu me post lên mạng rầm rầm đâu,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"dấu hậu cần kìa, nội bộ thôi",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Tao bó tay.....:v,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Gần đất xa trời rồi nói ít thôi,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+bán hàng rẻ ko thơm lâu thì nói không thơm lâu . nói hàng fake . mắc j quảng bá làm như tốt lắm .,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+"@Thanh Điệp Phan có lý, làm gì có ai vừa chống CS mà vừa chửi ông trump",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Nhìn mặt bà này ...,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Nghĩ mà chán :)),0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Vay về cho cán bộ xây biệt thự con em đi du học,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Hải Yến bố cái con thái lọ,2,HATE,2,2,0,2,HATE,HATE,CLEAN,HATE,1,1,0,1
+"Với những trường hợp trốn cách ly cứ phạt tù cho nặng mới sợ, đùa sức khoẻ của bản thân rồi chẳng may lây lan ra ngoài lúc đó có xin lỗi cũng chả ai chấp nhận đâu",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Mình đừng nói xạo nói láo nv chị k thích z , vì chị là chúa nói xạo rồi",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+Bàn tay em đẹp quá. Nhìn chị là đàn bà mà xấu quá..,2,HATE,0,2,0,2,CLEAN,HATE,CLEAN,HATE,0,1,0,1
+"Nó học cách của thằng anh nó đó , hèn , khốn nạn",2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Cái mặt con bò biểu cảm vãi haha.... đhs tự nhiên thèm thịt bò khô,1,OFFENSIVE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,0,0,0,1
+đang bận chăm con nhá,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+khi bạn muốn tích đức cho đời nhưng nghiệp quá nặng tại chúng rủa quá nên nghiệp:v,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+để xem r sẽ ra cái mặt gì,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Trả lại cho căn nhà, thái độ khác hẳn..........!!!!",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Một u nhọt quá lớn thì cần phải cắt bỏ nó đi chứ ko nên điều trị bằng thuốc tiếp tiền mất tật vẫn mang!!,0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+Chuoi boi làm gì chi mang toi khau nghiep chư có iit loi gì,0,CLEAN,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,1,0,0,1
+Nhìn giống sát thủ máu lạnh,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Nguyễn Hoàng Sâm nôn link ra,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"trung quốc sản sinh ra 1 thế hệ bác sỹ thật sự có tâm đức, dù truyền thông phương tây có bôi nhọ tnao thì cũng k thể phủ nhận",0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Chắc ra đà nẵng sống quad,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+t thiết nghĩ chỉ đồng loại là không ăn nhau thôi chứ j ăn đc cứ ăn.. còn ba má nào lên án thì cứ cầm bảng biểu tình đứng trước qán thịt chó la ó xem sao (((((:,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+K có nghìn nào giúp dân thì nín đi!,2,HATE,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,0,0,0,1
+Bỏ măy con điếm đấy đi là thông minh đấy,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Muốn đẻ đứa như Tùng Sói vậy á 😆❤❤,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+200.000 hộp thuốc giết người.,1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Kinh đấy,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Cái mặt là nhìn dell ưa nổi với bị nứng lâu năm,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+Chưa xem tập nào dơ tay,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Thèm bún real vl :)),0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Được vl không = ))))),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Lương Văn Thắng gần 1tr lượt like là lượng dislike thì 3 chấm 🤷 đủ hiểu trình độ nhai nhạc của cậu đến đâu rồi 😌,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"ở minh bi đc vao vien khám , con ở bọn nc thấy bao la phat triẻn thi ve nha tự cách ly",0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Đéo phải đá vs MC chả cười?,1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+hỏng khóa hay gì :vv,0,CLEAN,2,1,0,0,HATE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Dơ vcl,1,OFFENSIVE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Thu Ha Nguyen láooo,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Diệp Bích ái Nguyễn Ái Băng coi Diệp nó láo cá nè Băng🤣🤣🤣,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+qua học trình độ chặt cây mà ko bị dân chửi của trung quốc.,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+"Thế là tự các ông suy ra chữ thiên đường, tự nhét chữ vào mồm chứ đảng ko nói đúng ko",2,HATE,1,1,2,2,OFFENSIVE,OFFENSIVE,HATE,HATE,0,0,1,1
+Tao thấy nhiễm covid này toàn bọn nhiều tiền và thích đi du lịch đấy..,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Ráng sống diễn hài cho mấy con coi nhé bác TD,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Hết phù sa là vựa lúa sụp đổ, hết cả xuất khẩu gạo; chết đói cả lũ. 3 năm trước kêu mua vàng trên 300Tr phải xuất trình CMND, giờ biết cả việc dân đang ""giấu"" 500T vàng.",0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Nhung ơi la nhung,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Và thằng ko có 500 triệu đang viết stt bôi xấu thằng có 500 triệu,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+co tien dug nen khoe nha ma co ngay troi ko do dau co ngay di an majk nha má,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Ai theo đạo râu xồm thì giơ tay? Hãy theo Minh giáo chủ sẽ được lên thiên đường XHCN!,2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+Trần Ngọc Trâm Nó mà hay thì nghe 1 câu đã nghiện rồi. Chứ nghe kiểu như bạn thì mệt lằm.😅,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"minh cung la viet kieu dai loan,minh qua day 23 nam roi ,nhung minh kg quen que huong dat to tien cua minh ,di dau cung kg bang que huong ,o dai loan kho lam,di lam moi co com an ,xing dung noi xau viet nam, viet nam la dat to tien la cha me cua minh",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Mọi người quá lịch sự với tên khốn này rồi , cha đứa bé bị đánh nên ra tay cho nó thành tật đi đừng hi vọng nhiều ở luật pháp.",2,HATE,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,0,0,0,1
+Khoái nhất là khúc cây búa,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Vụ nào nghiêm trọng nhờ tụi này tốn ít nhất chầu nhậu éo dưới 30tr,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Co.hieu.oi.hoang.canh.con.kho.khan.qua.co.oi.giup.con.voi.co.oi.con.noi.thuc.su.la.nha.con.khong.co.gao.an.luon.do.co.oI.con.noi.thiet.la.nha.con.khong.biet.chung.nao.xap.nua.do.co.co.long.hao.tam.co.giup.con.voi.co.oI.co.hieu.oI.sdt.cua.con.ne.co.oI.0369546059.do.co.con.o.ap3xatanhoitrunghuyencaolanhtinhdongthap.do.co.con.noi.thiet.do.co.oI.giup.gium.con.voi.con.kho.wa.co.oI,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Đr chỗ thì gọi Li quăng chỗ thì gọi là cái giường có chỗ thì gọi dạc mà chuyện đó bình thường mà,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Bắn chet moe abe h,2,HATE,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,0,0,0,1
+"t nghĩ phải lên web coi trc, chứ ra đó biển sale..méo biết lựa gì",0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Thiên đường xhcn là cái gì mà sao từ trước đến h mình chưa đọc ở trang sách nào nhỉ,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Dem me minh ra lam tro cuoi noi tuc tieu khg hay dau,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Ca sĩ cây atm,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Nghe tên ad đã biết ad không phải dạng vừa rồi :3,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+cái miệng rộng qua đẻ con ra còn lọt,1,OFFENSIVE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+"Clip cũ roi lúc no ban hàng , chui khách hàng , quen miệng , lu nay lu kia , gio kho mà ai bo qua duoc",0,CLEAN,2,1,1,0,HATE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+"Chị em nào “ đến tháng” mà đau bụng dữ dội, đau trời long đất lở, đau héo mòn thân xác... Ib em để hết đau mãi mãi luôn nhé. 💕💕",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Chưa kịp có bồ nghe tin sắp chết,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Gai tre,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Nam Đặng đời nó là thế ,lồn mẹ dell thấy có cái lồn gì là vui cả",1,OFFENSIVE,2,1,2,1,HATE,OFFENSIVE,HATE,OFFENSIVE,0,1,0,1
+May bede ma rau thay on,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Mis Nhung,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Kiểu như bác nói ẩn ý là việt nam không sợ bố con thằng nào chứ dăm ba con virut này thì có tuổi với VN à :v,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Đạt Phạm dcu m đùa dai như tk bố m thế,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+"Công nghệ làm trụ cột điện nhé các bạn. Đẹp, rẻ nhưng đéo bền để thuận lợi cho việc kiếm chác. Đang rất khả thi và đã dc tiến hành thí điểm ở 1 số vùng. Nếu có ăn sẽ nhân rộng ra trên mọi địa bàn của cả nước =))",0,CLEAN,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+Tin Tin nên về làm taxi nhe đồng chí.,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Cô hồn nha mấy đứa,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+đm ông điêu ít thôiii :))),2,HATE,1,1,1,2,OFFENSIVE,OFFENSIVE,OFFENSIVE,HATE,0,0,0,1
+Đeo hiểu hai ngừoi phế nhất team thì sống 😀???,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Lê Quỳnh Anh mỗi nước có 1 quan điểm sống. Chê bọn tây làm gì haha.,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Chuyển qua insta thì hack bằng lol,bằng niềm tin",1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Những thằng đầu cua như em cảm thấy video rất bổ ích,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+có cái DB bố mày tin ấy,1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Sốt là bị bệnh hả m.n,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Dan lm kho dan.do ngu,1,OFFENSIVE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,0,0,0,1
+"Tử hình luôn ko nói nhiều , ý thức như củ cải",1,OFFENSIVE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,1,1,0,1
+Quang Hung Vu thấy mấy bạn du học sinh kêu trên Facebook là bên ý đéo đeo khầu trang.bị bệnh tự ở nhà cách li :))),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"#Câu trả lời rất đơn giản là người dân ở các nước dân chủ đó quan tâm đến dân quyền và nhân quyền của mình , đơn cử như các cuộc biểu tình và đi bầu cử hệ quận người dân chủ HongKong , mới đây người ta quan tâm chủ nghĩa Tự Do hơn chủ nghĩa Nồi Cơm vì",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Mới vào nghe bã chửi banh nhà lồng chợ luôn vãi thật,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Ở Việt Nam! Nó là cái l đó,1,OFFENSIVE,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+Sniper ...,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+9. Xác. Thứi từ trinh xương gồi,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+không khí đạt chất lượng như hôm nay cũng là nhờ sự tài tình của đảng ta ! đó là mang những nhà máy nhiệt điện than cổ lổ sỉ từ người anh em phương Bắc về phục vụ bà con ! bà con cám ơn đảng và nhà nước chưa ?,2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+xD,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+mả cha mấy thằng ăn bánh mì,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Chắc do đi đái quên chưa kéo quần ngoài vội quá nên kệ mẹ thế đi ra 😞,1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Chuẩn hơn bọn hàn nhiều,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"ông có tuổi rùi! cố giữ gìn sức khỏe, thỉnh thoảng tấu hài bà con coi là zui rùi! mà giác ngộ vầy là tốt rùi, chứ nhìu ông già 3/// cố chấp lắm",2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Bay lak với hút đá nhiều thì nó gầy thôi có lìn gì phải thắc mắc,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Cà khịa,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Khoai thị sắn,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+vào r chứ sắp à,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+"Trên đời này mấy thằng to xác thường được tạo hóa ban cho tính bắt nạt, chỉ một cách duy nhất trị được chúng nó là phải tỏ ra mặt mình không sợ chúng nó, sẵn sàng đập lại đến chết. Ngay cả Mỹ thời gian trước bị Thổ Nhĩ Kỳ bắn hạ drone quân sự, tụi chín",0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+Tức phọt sữa,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Phải treo cổ chúng nó lên thì may ra .....,1,OFFENSIVE,2,0,1,1,HATE,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Tsb 💩,1,OFFENSIVE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+Bố m cũng đến chịu cách ăn mac khác người của nó !,2,HATE,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,0,0,0,1
+Vẫn là chị nhung,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Nhờ thầy mà em cảm thấy mình không phải là đứa chơi ngu nhất liên minh,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Kệ đi thớt , 1 lũ trẻ trâu",2,HATE,2,1,2,2,HATE,OFFENSIVE,HATE,HATE,1,0,1,1
+Bò kiểu mẫu :v,0,CLEAN,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,0,0,0,1
+Dạo này a lọt top show chart chỉ sau 20 du khách hàn quốc thôi đấy. Chúc mừng a,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Lol này cây vô đầu nó mới sợ :),0,CLEAN,1,2,2,0,OFFENSIVE,HATE,HATE,CLEAN,0,0,0,1
+Óc chó,1,OFFENSIVE,2,1,2,1,HATE,OFFENSIVE,HATE,OFFENSIVE,0,1,0,1
+Cười vl😂,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Người dân việt nam nai đeo hột xoàn rồi bạn ơi vàng là cái gì chỉ để cho mấy người thu nhập thấp thôi bạn ơi,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Hãy để lạnh trước khi sử dụng, tránh ấng truc tiep mat troi",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Nền giáo dục phương tây đã dạy gì cho những \""ai kia\""☹️. Nghĩ nó chán, sang chảnh mà ý thức l0l😑",1,OFFENSIVE,2,0,1,1,HATE,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Cho con voi,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Cái vấn đề mà tấc nhiêng mà ...,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Đợi làm gì cho phí tuổi thanh xuân /v\,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"nó viết stt rõ ngu, ở đây ông PA và những người khác không được trả lương để đi từ thiện mà họ còn tự bỏ tiền túi cho những chi phí liên quan, còn mấy ông bộ đội CBCS này ăn lương nhà nước thì đây là trách nhiệm họ phải làm, xin nhấn mạnh là bắt buộc p",2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+cà khịa cực mạnh 🤣,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Mày nghỉ luôn cũng được. Phát ngôn tào lao fan nó unfollow hết bây giờ,2,HATE,1,2,1,2,OFFENSIVE,HATE,OFFENSIVE,HATE,0,1,0,1
+Thằng to nó núp chứ bạn,0,CLEAN,1,2,0,0,OFFENSIVE,HATE,CLEAN,CLEAN,0,0,1,1
+"đục not ""đụt"" :3",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Tập Cận Bình qua Mĩ cũng bị dân TQ bên đó treo băng rôn biểu tình chửi như chó =)),2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Gan trời =)))),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Cj chửi nhìn đã z,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Bán hàng online cho dù khách hàng co chữi hay xúc phạm mình đi nưa thì minh cũng nói sao cho nghe đươc thi khách hàng thương ko chữi ma nguoi ta con quay lai mua hàng nhiều con chữi kiểu nay sớm muộn cũng bi loại trên thị trường,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Ad viết tắt từ gì đấy. Ai cho e bite đc k ạ,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Tâm Tâm nó nói gì chẳng đc thực hư thế nào chả ai biết.nếu bạn cố tình đi lây lan bạn có chịu khai thật với chính quyền là:\""ờ t bị bệnh t thích đi hiến đấy. Bạn dám nói thế thì mình chịu sai.",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+dlv đây chỉ là trường hơp ngoại lệ k tính :v,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"thì đã nói rồi. thế giới người ta có mỏ bạc, mỏ vàng mỏ kim cương. còn việt nam có mỏ lồn là hay :3",2,HATE,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,0,1,0,1
+"Kéo chuột vãi lồn luôn, nó yếu lắm rồi :D",1,OFFENSIVE,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,0,1,0,1
+:'( Vãi nồi !,1,OFFENSIVE,1,0,0,1,OFFENSIVE,CLEAN,CLEAN,OFFENSIVE,1,0,0,1
+Ng Tuấn Châu uầy gắt vđ,1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+"Cứ chờ xem , chưa nói đc gì chứ ngày thu 10.000ty chứ ít méo đâu",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+:))) d' tje mj,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+:vv ăn đấm khong trượt phát nào anh ạ,0,CLEAN,1,0,1,0,OFFENSIVE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+Dang Khoa Nguyen từ đâu có khái niệm suy một người ra nguyên đất nước z :)),0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Ôi pha đonate :)),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Cô 3 vàng ngọc cho con xin mấy cái hột xoàn đi .,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Bạn Ba còn gạ bạn Thơ vô to lét nữa :))),0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Co thang ao xanh ben toa no vui no cuoi kia,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Trung quốc hóa việt nam ah. Không đủ trình độ mà xuất khẩu lao động cho cả các thị trường khó tính như Nhật, Úc... sao.",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Trân Thanh My thế chết con cái nhà người ta ak bác ơi,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Mom cho ko moc dc nga Voi,1,OFFENSIVE,0,1,2,1,CLEAN,OFFENSIVE,HATE,OFFENSIVE,0,1,0,1
+Người Việt tự giết người Việt thôi,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Cô ở chỗ nào cai lậy con ở cái bè sát bên cô,0,CLEAN,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,1,0,0,1
+"Có gì đâu, gây náo loạn để nổi tiếng hơn, sau đó xin lỗi để mn bỏ qua, nhưng sự nổi tiếng vẫn còn. Cách thức nó thế. Cho dù mình có ghét nó thì mình đã có sự chú ý đến nó, đối với nó đó là thành công rồi",0,CLEAN,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+Cường là ÔNG CAn à ?! =)),0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Hướng Dương Fan mà làm ăn thế bao giờ không, bớ làng nước 😂",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Bơm chủ nghĩa dân tộc như bơm ma túy. Càng ngày càng nhiều, ngày càng trầm trọng.",2,HATE,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,0,1,0,1
+"Công nhận Trung Quốc chưa bao giờ bành trướng thế lực như bây giờ. Dám đưa ra những yêu cầu trời ơi đất hỡi, mỗi thù trăm năm vs phương Tây và phát xít Nhật, đang trả thù từ từ nè",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+ba lỗ quần đùi chơi thêm quả tóc vuốt,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Đụ Má...... Con bede sấu nhất quả đất,2,HATE,1,1,2,2,OFFENSIVE,OFFENSIVE,HATE,HATE,0,0,1,1
+"Cẩu quan thì luôn có những sáng kiến dị hợm, mà ko biết chúng có biết chữ để đọc báo ko?",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+các cậu ko đọc stt à. tôi thấy chửi đúng mà. các cậu thử nghĩ xem đang đi đường có mấy thằng chọi con áo xanh đỏ tím vàng các kiểu cả xăm cái hình to như cái mả bố nó ấy rồi cởi trần đi lạng lách đãnh võng bênh mẹ cả đầu xe lên thì có đáng đút con mẹ nguyên cái buồi vào mặt nó ko,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Giac phuong bac ma,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+nếu xâm nhập nhưng kô lấy cấp thì kô nặng đâu nhé !,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Xứ tư bản của ba que,0,CLEAN,2,0,2,0,HATE,CLEAN,HATE,CLEAN,0,1,0,1
+Không hiểu sao chứ nhìn chỗ này thấy cute vcl 😁,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Cười vl,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+VN đóng hộp gửi sang nước k ngột ngạt thôi,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Người ta đi vào chỗ nổi tiếng chứ ai giam đi vào mấy chống này,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Úi zồi sắp đến đoạn phệt thì lại bị bắt,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Cu vag đi cho bt,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Lina Bui dk ra đời vào năm 2k3,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Việc đéo j cũng đến tay tao kể cả việc lái xe cho ông già,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+"thế bạn biết đường chạy qua cánh đồng , chỉ qua 2 3 nhà dân , đền bù cho dân 200 triệu . ghi vào sổ sách 500 triệu không :v . chưa kể nhiều ông quan chức to kí duyệt là đều phải có lót tay , mỗi dụ án lót tay chả mấy khi dưới đơn vị "" tỷ đồng """,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+học trò lol,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+"Thái Lan hèn thật, người ta là đội ngũ tiên phong của giai cấp công nhân, là đảng của dân do dân và vì dân mà chơi cấm người ta, sao không đem ra ..... bắn mịa nó hết cho nhanh",2,HATE,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,0,1,0,1
+thế nên cập nhập tình hình Corona của Việt Nam thì tốt hơn. page xàm đế bỏ fl đi mọi người ơi,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+bài quyền lợi hại ghê súng bắn không trúng dao đâm không chết!bài quyền phải đặc cho nó cái tên là lựu đạn bom mìn!,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+"K cần giặt đánh, cứ để dân tự chết vì ngu thôi :v",2,HATE,1,1,1,2,OFFENSIVE,OFFENSIVE,OFFENSIVE,HATE,0,0,0,1
+Được vl anh ưiii,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"hãy hô vang câu ""Đảng Cộng Sản Việt Nam Quang Vinh Muôn Năm"" và điều kì diệu sẽ xảy ra... :D",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Quảng cáo tinh tế v,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Chị nói chuyện mà em cung de sợ thuốc có tác dụng tang mở bụng mà cái bụng chị ít có mở dữ 🤣🤣,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Như đã hứa, Thầy công bố danh sách người trúng GA hôm qua nhé!",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Hợp vl :)),0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Hỏi b ý xem có đi tiếp xúc với chị nhung gì k đó k mà thấy bị lây óc tó thể hiện qua lời phát biểu như v,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Dm vô cách ly chứ có phải sống trong lâu đài đâu muốn dc sung sướng..ngta còn phải phục vụ cơm cho ăn tận miệng còn cà chớn ..muốn m sống mới cách ly chứ muốn m chết đã kệ mẹ rồi m,2,HATE,1,1,2,2,OFFENSIVE,OFFENSIVE,HATE,HATE,0,0,1,1
+Lưu Nguyễn thâm vl :))))),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Chí quá thầy ơi,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Con luôn tin tưởng Đảng, nhà nước và nhân dân đồng lòng.",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"vietnam gioi thieu bo phim * benh nhan nguoi anh * bien dao dien, corona, dien vien UK, truong quay. Vietnam...",0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+NT Lý nhìn mặt xem vui k,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Chở vàng qua Mỹ. Đúng nhé chị ba có chở. Nhưng.... Ko phải vàng mà là Bom,Mìn, Lựu Đạn. Để nổ banh cái dòng họ nhà thằng Bê Đê.",2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Nó chuẩn bị dizz thầy thật r thầy Ba ơiiii =))),0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Râu càm không đều nha :),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Nguyễn Đăng Dự,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Anh Trung weeboo =))),0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Mai Hieu đúng r anh, số chết thì nằm trong nhà cũng chết 😶😶",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Nhân loại giờ đây giảm bớt ác mộng rồi, chỉ còn góc châu Á còn ác mộng thôi.",2,HATE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,1
+Người mù =)),0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Đức Toàn ổng đưa link của garena thì liên quan mẹ gì mất acc?,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Căn bản nhà nc k làm dc như thế. Các chú bộ đội hay 1 ban ngày có đi làm vì lệnh phát ra trên đồn xuống chứ ai bão gió lũ lụt chịu đi ăn tiền dân nhận tiền thuế phải vậy kêu ca gì,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Chả hiểu phong cách ở đâu nh mà lố lăng vch 🙂,1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+Óc ti thờ ry óc ty thờ ry,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+"Ad toàn thích các ca sĩ hổi xưa nhỉ , e cx vậy",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Chó rồ nhập,1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+"phản động là những đứa dám nói ""xấu"", nói xéo, và nói lên sự thật, đi ngược với đường lối của đoảng và bọn dư lợn viên lương 3 tháng 1 củ ( á nhầm 3 củ 1 tháng)",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+"Anh mày thiếu nợ giang hồ hóc môn, mày cũng thiếu nợ không dám về Việt Nam, bày đặc làm banh",2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+chị ba à chị ở bên mỹ chị chửi thì ngt không hiểu chứ ở việt nam là chị chết mẹ chị rồi,2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+Cứ để Sông Tô Lịch thối như thế thì các nhà lãnh đạo mới có cớ vẽ ra dự án xử lý này nọ rút ruột ngân sách chứ làm sạch đi rồi họ lấy gì ăn ?! Chuyện ồn ào tranh chấp phá hoại các công trình thử nghiệm của người Nhật cũng là điều dễ hiểu mà.,2,HATE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,1
+Mặt như buê đuê ấy nhể,1,OFFENSIVE,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+Lê Thuần Triệu official v là chưa coi clip TD nói vàng ma so với kim cương này nọ rồi. Fan làm gì là 1 chuyện mắc mớ gì lôi MH dô.,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Cmm dụng tới cô Minh Hiếu tao kéo ae tao đập chết mẹ mài đó,2,HATE,1,1,2,2,OFFENSIVE,OFFENSIVE,HATE,HATE,0,0,1,1
+Bọn nó là Doanh Nghiệp nhà nước đó ....,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+đứng thế lốp nó nổ nó bắn cho cái thì đéo còn bánh mỳ với nước lã mà uống,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+@Phú Đại GMTV cái này tao nói trc khi cô ra clip nhá thằng kia,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+ghê gớm,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Ăn thua gì, ăn mừng đón con khỉ nói tiếng Hoa cũng chết vài triệu mạng rồi.",1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+"Lên núi làm hảo hán, cướp của quan tham chia cho dân nghèo. Về đầu thú là tội chết.",1,OFFENSIVE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+thằng chụp ảnh làm trong này chắc cbi bị điều tra :3,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+cả đoàn trốn trại...nói chuyện điên khùng,2,HATE,2,0,1,2,HATE,CLEAN,OFFENSIVE,HATE,1,0,0,1
+Cẩm Duyên vì cáp quang ni mà mạng yếu đây,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Nói thật ngu thì chịu thôi :)) mua nước hoa thì tự phải tìm hiểu kỹ. Dior, chanel, versace, burberry,... toàn thương hiệu danh tiếng mà nghĩ sao 200,300k còn tặng kèm chai nước “bông” + freeship!!!!???? Mấy hãng ý nc hoa từ hàng rẻ nhất cũng toàn 1tr đổ lên chứ làm gì có chuyện cho ko tặng kèm như vậy ạ :)) tỉnh táo đi",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Nguyễn Trọng Thái khi mày thích và chấp nhận đợi một ng chắc chắn mày lzj cũng nghĩ đến ngta.kể cả việc ib nc với ai hay rep cmt bạn khác giới cũng sợ ngta giận hiểu nhầm.con ngược lại ng bắt m đợi thì lại vô tư nói chuyện tc với ng khác liệu sự đợi chờ đó cùng với tổn thương kéo dài đc bao lâu.nếu ngta thích m thì ko bjo để m phải đợi.vì sự chờ đợi ko dành cho tình yêu.nó dành cho sự lựa chọn rồi,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Ủa chị hiếu pttm công nhận giống Y gái bê ngoài luôn. Còn Khánh Chi nhìn đơ ko giống gái vẻ bề ngoài hơn ta. Thiệt,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Giựt tiền của chị minh hiếu mà nổ,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+"Không liên qua nhưng 2 ông trẻ làm giám đốc sở bố làm bí thư, ông bí thư trẻ nhất nc bố làm ủy viên bộ chính trị, trưởng ban kiểm tra tw. Và con mr x cũng làm bí thư tỉnh kiên giang rồi. Đắng cho cái gọi là công bằng, dân chủ",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+sợ nhất là quân đội làm kinh tế - công an làm chính trị,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+được vl abe,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Moá.,1,OFFENSIVE,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,0,1,0,1
+Không có tiền thì gọi là mơ ước chứ đéo phải đam mê đâu,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+A Độ đz v,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Cột đèn,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+1 tỷ là tấm vải chùi lon nhưng chị 3 đâu có lon đâu mà chùi tới 1ty,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+Trung phù thuỷ :v,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Tụi Hàn giàu giả tạo không bền vững như triều tiên,2,HATE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,1
+Ae chuẩn bị đón nhận nút bạc nhanh nhất của sờ chim mơ ba rọi béo đi,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Thời thế đảo điên,0,CLEAN,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+Trần Nhật 🙂 ủa tao nhai lai của ai. M lạ lồn thế . Đmm lướt lại cmt xem tòan mấy thánh kêu sống chậm thôi sống nhanh quá ak hay m cx nằm trong số cmt đấy r m quay ra ns tao,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+nói dân trí thấp lại tự ái 🙂 cái ý thức còn kém hơn kiến thức lý của mình nữa 🙂,1,OFFENSIVE,1,2,2,1,OFFENSIVE,HATE,HATE,OFFENSIVE,1,0,0,1
+"Chơi gì cũng ngu, chơi ngu là giỏi 😆",0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Đúng vl luôn anh :)),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+kay vờ lờ.,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Búi trĩ của team xDD,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"KHÔNG PHẢI LỔI CỦA CSVN TÀN ÁC MÀ CHÍNH NGƯỜI VN TỰ NHẬN MÌNH VÀ THÍCH THÚ MÌNH LÀ CON THÚ ,LẠI KHOÁI MÌNH LÀ DÂN NÔ LỆ .AI THÍCH MÌNH LÀ CON ÔNG TRỜI ,GIƠ TAY LÊN .THẤY KHÔNG ,IM RE",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+định chê mày xấu. Nhưng thôi chắc mày tự biết rồi,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Thái Phan Chuẩn cmnr😂,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Sống chậm thôi các bácc 🤦🏼‍♀️,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Em thì k hiểu đầu nào nhưng chuyện gì mà chị chửi giữ zay chị,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Có ngu thì ráng gõ google để xem xe công như thế nào đc ưu tiên nhá :3 chắc dòng họ nhà chúng nó làm công chức nên chúng nó hùa vào bênh vực đó mà :v,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+"vãi cả ko giao dịch\ bằng ngoại tệ, nó đút lót căn hộ hay khu biệt thự, bố ai quản đc",1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+nói làm lồn gì để rồi bị chửi =)),1,OFFENSIVE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Vpn được tất,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Xuyến Nguyễn no no,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Liễu Fiêu Fiêu lấy đâu ra thông tin ý thức hơn z,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Lá cải,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+M ngu qquua m chết mẹ m đi i ad,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+Thấy gái là con mắt sáng lên :)),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+VN Net sắp sập mất hoy. Dám viết bài phản động ak,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Kha khá Nhung,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Trần Dần ăn tục, nói khoét hắn đóan được vận mệnh, tương lai thì nay hắn giàu to rồi, chứ đâu phải xách cần đi câu cơm, có lẻ hắn bị ( bệnh tâm thần).",2,HATE,2,1,0,2,HATE,OFFENSIVE,CLEAN,HATE,1,0,0,1
+Đến cảnh này lại đéo nhịn cười được cmay ạ =)),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+youtube dung túng những lip tục tiểu sao vẩn được đăng không hiểu luôn khóa tài khoản lại là nó bớt xàm liền chứ gì chửi bậy bạ cho trẻ nhỏ nó bắt trước,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+"Sao lại không ? Không gian khép kín, lúc nào cũng mở điều hoà, vị trí ngồi thay đổi liên tục, với lại mấy người bị lây nhiễm hầu như trên 50 nên đề kháng đã suy giảm nếu đổi lại trẻ tuổi hơn chắc đã không nhiều như vậy( bằng chứng là cả phi hành đoàn đ",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+lmao =)))) dịch thế mà các ô vẫn đá đc ms siêu,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+link chết rồi,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Sắp hưu rồi thì nói thôi ông nào mà chả vậy,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Này thì thượng đẳng với chúng tôi,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Lấy tiền miền nam đi nuôi một lũ con cháu trung quốc,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Nhung,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+"Ô nhiễm là do ko rửa đường nhé, có khi nào ô nhiễm môi trường do dân thủ đô đi ngủ không rửa chân không các bác nhỉ",2,HATE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,1
+quả dày cá sấu made in cao bằng :v,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+chính thức vô gia cư 🥺🥺,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Trung + thì cũng như đứa em thiện lành Việt +. Gian manh, xảo trá, tàn bạo và độc ác với dân. Thùng rỗng kêu to. 😂",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+Cái mỏ lồn,1,OFFENSIVE,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,1,0,1,1
+tin là bọn nó rút liền,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Thi đéo làm được bài mà nhìn mặt lão Độ đéo nhịn cười được. Ae ai như t k,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Bình chữa cháy có vấn đề,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Đcm. Nó đóng thuế nghìn tỉ thì nó được quyền giết người à con chó,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Co ba oi ke nguoi ta di con day ngheo lam doan loto kho lam sdt con que con ben tre 0347569004,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+trúng GA r bán đi lấy tiền build case chăng,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Lúc đó ae chỉ nhớ sói mixi chứ éo nhớ độ mixi,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Dc,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Sao già xap xuong lô roi ma len mang chui chi vay that la xau hô,1,OFFENSIVE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+"Thôn làm vậy là do thôn lầm, thôn lầm nên dân nó ghét, nó bật lại là thôn cái lù",1,OFFENSIVE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,0,0,0,1
+Anh nói to mà lại còn đúng vl :-D,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Ông sena kiểu như: clg đang xảy ra vậy :))),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Bơ-phẹt🙂,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+ad muốn rửa bát bẩn,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+ở nhà tránh con di chùng :v,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Trung cũng có xe nè Mn. Anh Tiệp tuổi gì.,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+tôi càng thấy trung cộng càng tự khiến mình nhục nhã hơn nên meh,2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+"Cái nầy thì không phải chửi cộng đồng mạng, mà ai chọc nó ,nó chửi .",0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Chó cắn lũ nhà nc vn,2,HATE,2,1,1,2,HATE,OFFENSIVE,OFFENSIVE,HATE,1,0,0,1
+Trông bần bần da đen thế thôi chớ thật ra bần thật anh ạ..,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Đéo thể cãi được vì anh tôi giống . . . À . Gờ đờ ra gon giống anh tôi vl :))),1,OFFENSIVE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+mịe con chó nàyyyy,2,HATE,2,1,1,2,HATE,OFFENSIVE,OFFENSIVE,HATE,1,0,0,1
+Cái lông mày hơi khác,0,CLEAN,2,1,0,0,HATE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Thề coi giải trí vl,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+"Hay, chính quyền VN rất có tính giải trí. Nhưng ngặc một nỗi, sự độc ác của nó thì là thật và không giải trí tí nào cả.",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+Hàn quốc sẽ ko thích điều này,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Hiếu Bến Tre thế chắc mấy thằng haha có đạo đức tốt :)),0,CLEAN,2,0,2,0,HATE,CLEAN,HATE,CLEAN,0,1,0,1
+"Ở VN bầu cử CTN đạt những 99,79%.😀",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Chả làm cái mẹ gì cũng lên fan cứng:))),0,CLEAN,1,1,2,0,OFFENSIVE,OFFENSIVE,HATE,CLEAN,0,0,0,1
+đập ông già về cho ăn hành,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Giết nó,2,HATE,1,1,2,2,OFFENSIVE,OFFENSIVE,HATE,HATE,0,0,1,1
+Đây là Nhật Bản :)),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Viên Viên chà chà : >>>,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Thừa hưởng truyền thống từ mẹ thôi mà, kaka mà riêng gì Nhật đâu",0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+@Ù Méo Cứ ngồi đó chê người khác đi em. Quả báo cũng sẽ tìm đến em. Không sớm cũng muộn nha bé.💓,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+like đầu thầy ơi,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Viên Đá Nhỏ thông tin chị lấy có chính xác ko?,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Ko ai cấm ổng : mà xąo múôn chết ông cư' đi tự do kể cả nơi djch bệch già lẩm cẩm ko hiểu nguươì ta nói gì bíên,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Bắt thằng nào bảo bình thường ăn cá chết,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Cộng sản nói về Trần Dần,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Độ Mixi : 2 viên ốp rồi Bô ơi , yếu vãi lon rồi em ơi",0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Thịt gà kêu thịt chó kiáaa:(,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Dm . Đlq tao fan mình Hiếu nhé,1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+"TOI dong y voi ong Tran Dan su that dung nhu vay, chinh toi cung co suy nghi tu luc moi bat dau vi khuan moi lan tran o trung quoc ,toi ko phai la nha tien tri nhung toi co mot giac quan thu 6 ,TOI CHI CAU XIN ON TREN PHU DO CHO THE GIOI SOM BINH AN ,",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Có thể ngta đánh máy thiếu hoặc đánh gấp quá thôi, nhưng bạn chính tã là bạn sai hơn người ta nhiều rồi",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+có tiền đi du học. Học gì củng giỏi mỗi học cái ý thức là ngu.,1,OFFENSIVE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+☺,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+TPhcm có chợ nổi,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Kaka,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+QĐ ít lien quan lắm,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Nhìn mặt là biết lòng dạ con mụ này thế nào rồi🤮,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+sắp thành Triều Tiên của đông nam á cmnr nhờ sự lảnh đạo tài tình và sáng suốt của đảng cơm sườn.,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+oh,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+"Đất nước hạnh phúc nhất thế giới là người dân ngày đêm cày kéo làm để trả nợ thay cho lũ ăn tàn phá hoại đất nước này . Muốn dân hết khổ thì cho vài ba trận đá banh thì dân cứ bão với lũ là hết thôi , cứ quán nhậu mọc nhiều hơn thư viện sách thì dân có ngu cũng phải cho mình là thông minh , bởi rượu vào lời ra thì mạnh ai người ấy nói kk",2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Mỹ giúp chứ ai vào đây,0,CLEAN,2,1,0,0,HATE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Hay vc,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+1531 nghìn tỷ đola = 1531000 tỷ đola ôi mẹ ơi,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Thằng cường nói k sai,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Sao bác ko đốn cửa tất cả cửa khẩu còn qua lại thì còn dich bệnh có nhiều người vì đồng tiền nên ko biết mình là người hây súc vật đâu bác ơi,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Tẩy cmn chay ngay và luôn cái dn khốn nạn và bọn toà án ăn hùa,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+liên quan vãi cả l bạn ạ :),0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Trung gia cát,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Nói cho biết thì lại tự ái. Thôi t chỉ nhắc nhẹ vậy thôi. Chúng m thấy hợp lý thì tự nhiên làm theo.,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Được vl,nhìn mà ae cho mình xin link nhạc phát",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+hahaha . Mvp nỗi tiếng r,0,CLEAN,1,0,1,0,OFFENSIVE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+Đoàn Trung Hiếu vãi loinmm,1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Dư Luận Viên là gì ?? Mấy thằng này là ai ? Họ là ngưởi bảo vệ chất độc hã ???,0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+Sắp tè le hột me hết r chứ ở đó mà tính hàng chục,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Nhật Hạ diễn phúc thế á,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Bữa nào lấy cây đơm vô đầu Sena 1 lần đi Abe !!! Nó giỡn mặt hơi nhiều 😂,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Gà mà không biết gáy là con gà con, Rambo có quả nade đẹp vc các ban ưi",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Tiền phòng dịch nhà nước đang dùng ba nó góp Thuế không ít đâu bạn.,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Tien Loc Truong l** ấy bạn,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Lừa :)),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Mấy con fan mắc dại, cô bị chửi mà tụi bây ko chửi tiếp mà xúi cô chửi, thứ dì dị...bỏ nha, mai mốt con nào đụng cô là xé banh xác nó hết, hy vọng cô mãi chân chất như vầy, đừng vì cuốn theo sự nổi tiếng mà biến chất, biến tướng!",2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Nguyễn Phương đấm,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Sống chậmmmmm,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"cái này có trách nó cũng chả đc, có phải cái j dính đén Tàu là chửi đâu, rõ ràng nó chặn nc từ bên địa phận nc nó, bh nó xả ra ai cấm đc nó nào, vs lại cứ làm như nó xả là để lũ cho mình, cái này do địa hình thì chịu thôi",0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+"Page thối nát ..:)) cứ ông ổng như lợn rống..có giỏi về đây mà cách mạng,tao theo..:))",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+Thùy Linh Trịnh lan trinh hoặc lin da,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Iu cô gái khơ me hàm răng trắng tác cái l** đen thui 🙏🙏,2,HATE,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,0,1,0,1
+😉,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Ôi cái đất nước mình,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+PHÚC TOÀN bạn là người có ăn có học hãy làm chuyện có ít cho xã hội những người có bệnh tâm thần đáng thương lắm bạn,0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+Ý Thức Như Kặc.,1,OFFENSIVE,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,1,1,0,1
+"Khuyên ông nên đi xét nghiệm, tiểu đường, huyết áp, tuỵ gan, đục thuỹ tinh thể.",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Đất nước ta có bao nhiêu thành phần Nông dân và lao động phổ thông với đồng lương thu nhập rất thấp. Bà bộ trưởng có vạch ra được một lộ trình để cải thiện tình trạng thu nhập quá thấp của người dân chưa ??? Nếu đến năm 2020 mà vẫn è ạch với việc xoá n,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+A Vũ Khắc Tiệp nhỉ 👌🏻👌🏻 đc r,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Bk,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+cay vl,1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+Dương Quỳnh anh Trung lờ đờ,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Dân streetwear nhìn phát biết phối đồ của thằng đằng sau đẹp vc luôn :))),0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Dỗi vl . Cay vl :)),1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+Trung Quốc Nhat bang A việt nam trót bang,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Già mất nết quá,2,HATE,1,1,2,2,OFFENSIVE,OFFENSIVE,HATE,HATE,0,0,1,1
+Đảng viên CS Trần Dần...,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Du me may,2,HATE,1,2,1,2,OFFENSIVE,HATE,OFFENSIVE,HATE,0,1,0,1
+"Hoài Đương tao không giỏi, lại không đẹp như chị, gia đình lại ở quê, cố gắng ị ra quần chục năm lương vẫn 5-3tr và số người như tao chắc ko ít, mà chị bảo chỉ cần cố gắng là nhà lầu xe hơi cha mẹ sung sướng thì chắc xh này toàn người giàu, ai mà ko sml ra cố gắng đây",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+😂Cứ sợ cô đem cái bay trộn hồ sủi bay phim trường,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Đéo làm ngơ là tự ngã vào dùi cui ngay 😢😢😢,1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+được vl a ơiiii,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Ây za. Chả trách đất nước chậm phát triển,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Trung tu mù,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"nhìn mặt Admin thấy ghét, không ưa! :D :D :D",0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Đặng Thị Sậu chứ còn gì nữa 🤣🤣🤣,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Như vậy bổ đầu nguời thì mình chịu bao tiền nợ nhể để còn biết sau này chết thì ghi giấy nợ bảo con cháu trả hộ :v,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Chơi ngu thì chịu v 😂,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+v cả ông độ,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Rẫy là cái đ' gì vậy?,1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+"Phải mạnh tay với bọn này lên. Phạt hành chính, phạt tù. Chúng nó mới sợ.",0,CLEAN,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,0,0,0,1
+Bài hát phải nói là như con cac.,2,HATE,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,0,1,0,1
+"Người Việt chửi người Hàn vì người Hàn từ chối đón công dân của họ về nước, và đây là người Việt!",0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Vaidai,1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Trần Dần nói tro sướng cái lỗ mồm .hắn này về VN .thì phải tro ngay vào thường tín hà tây,2,HATE,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,0,1,0,1
+Thiet la dau dau nghe va nhin canh nuoi vietnam hach sach voi nhau,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Nguyễn GB đang gọi dậy đi chơi đồ với nhau đấy ông :))) ngoan ngoãn gì con nghiện đấy có khi a Độ nói còn không nghe thì trông em thế nào được :))),0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Bai nay la.nguoi tinh tren chien tran ban oi...kkkkaa,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Thế cái thằng được chị Nhung hôn vào má nó đã qua đời chưa vậy m.n?,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+"Của bà này chuyển giới hả mn , xin hỏi ngu",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+mấy cđ dislike là mấy cđ khùn lồn,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+"Ngày xưa, khi giấy vệ sinh chưa phổ biến thì mỗi gia đình đều thấm nhuần tư tưởng đảng mỗi ngày. Ngày nay, khi giấy vệ sinh quá phổ biến, nhiều mẫu mã, giá cả phải chăng, mềm mại chất lượng hơn hẳn thì đại đa số dân chúng trở nên lệch lạc tư tưởng chính trị",2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Ong gia nguoi ta hong cho ra ngaoi so lay,0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+đ nhặt đc mồm với nỗi nhục của bạn này :v,1,OFFENSIVE,0,1,2,1,CLEAN,OFFENSIVE,HATE,OFFENSIVE,0,1,0,1
+Gái mạc váy éo dám đứng cạnh:) =,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Cú lội ngược dòng ngoạn mục của Nhung :)),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Huy Vo rp cày thuê,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"các bạn hãy nghĩ theo hướng tích cực, cứ nghĩ tiêu cực rồi lại bảo PĐ, tâm các bạn nghĩ xấu thì sẽ nghĩ ng khác xấu :D",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Cô nói chuyện tự nhiên thật thà ghê 😄 quay hình mà ko hề màu mè gì hết trơn. Hồi đó mới biết cứ tưởng cô là phụ nữ thật ko à. Giống 100% luôn.,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"1 ăn cả, ngã ăn l*n :))) Lê Chi",1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Trung đẹp đấy mà đéo ngầu bằng tao đâu 🤪,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+luật ko giành cho dân đen :v,0,CLEAN,2,1,0,0,HATE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+phân biệt ?,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Vấn đề ở đây là trong nước cần phải đào tạo và dân mình thất nghiệp đầy ra đó,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Giang Thanh Quang Trung cs :)),0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Thấy mặc quần dậy ai ngờ vào quay mặc quần đuồi bần dễ sợ bần,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Nhìn cái mặt nó kìa. Cặn bã 🖕🖕,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+"Cụ đã nói rõ,.VNCH đã chết do ý trời.giờ phải quay lại ủng hộ Đảng cộng sản Việt Nam ủng hộ dân tộc Việt nam đoàn kết,thương yêu nhau,xây dựng đất nước.",0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+Quan điểm như con cặc!!,1,OFFENSIVE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,0,0,0,1
+"Thuế thu từ các cty cũng có nguồn gốc từ lao động của tấc cả các thành viên của cty, từ chủ tới công nhân. Đéo có nhân viên, công nhân cty có hoạt động được ko. Thuế vat là thuế do người tiêu dùng cuối cùng trả. Doanh nghiệp chỉ thu hộ cho nhà nước. Nghĩa là người dân phải ghánh chịu tấc cả các loại thuế, phí.",0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+"Vãi l Bùi thắng, uh thì chú cứ nói nữa đi :) cãi chi cho mệt",2,HATE,0,1,0,2,CLEAN,OFFENSIVE,CLEAN,HATE,0,0,0,1
+Nguyễn Hạnh gru gru,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Vẫn là câu nói quen thuột má chj chết cái má chj để lại cho chj 100 cây vàng cái h chj giàu luôn,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Con sâu gặm tiền,1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Huy Hoàng ôi voãi noàn 3 năm r vẫn có ng cmt 😞,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Ng ta có tiền dùng phi cơ riêng về VN để đc cứu chữa. Chứ ng bt là tẻo bên Anh r. À mà quên ng bt thì làm gì có tiền mà đi Anh nhỉ,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Xin lỗi các bác nhé , lụt ở chỗ nào chứ ở tp có xây bờ kè cao ngất có lũ vào mắt, chỉ tội cho dân vùng hạ lưu thôi",0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Có cái nhóm nho nhỏ chuyên trị những bộ phim thầm kín mười 8 cộng, scandal, phốt phủng, Nhật, Âu Mỹ các kiểu cho mấy anh em nào cùng khẩu vị đây:",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Nhạc của Khánh nó vẫn khác. Ông nội này giả khổ thôi. Mấy cái thằng mắt lươn tin sao được.,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Ha Anh Tri bạn ăn hôm qua mà không bị gì là con sam rồi..còn con so là bạn như bé gái 8tuổi rồi nhé..hihi,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Bọn nhật nó biến thái lắm,2,HATE,2,1,2,2,HATE,OFFENSIVE,HATE,HATE,1,0,1,1
+Đau não😂,0,CLEAN,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+Đéo hiểu page này lập nên nhầm mục đích gì :)))))))))))))),0,CLEAN,2,1,1,0,HATE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Chết với chị,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Ờ face dành cho con người k dành cho thú vật ok,1,OFFENSIVE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+Truyền thông nó cứ nói thổi phồng giá trị của TPP thôi chứ VN đang tham gia hàng chục cái hiệp định tương tự này mà có cái mẹ gì thay đổi đâu,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Ăn của dân ko từ cái gì và bây giờ là ăn của dân không còn cái gì thì làm gì còn ai tin yêu nữa! Mọi sự so sánh đều là khập khiễng nhé!,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Mày làm tao bối rối vl admin :)),0,CLEAN,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+the deo nao` nha` nguoi` ta di het' thi sao. hong~ vietkey,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Huy Phạm vl bạn :)) khịa vl,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Anh Be phải ghép vào con gà chứ sao lại là Poét-Len =]],0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Đọc mà não lòng. ... Vn ko lẽ có cái thùng rác ko làm nỗi,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+già mà non :)),0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Thà éo bh e nói dối😑😑,0,CLEAN,1,0,1,0,OFFENSIVE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+Miền Tây rặc là đây. Thiệt thà có sao nói dị,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Rắn này khát nước lắm :)),0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Nguyễn Ngọc Sơn dm chac may lam pr cho cai page nay chac,1,OFFENSIVE,1,0,2,1,OFFENSIVE,CLEAN,HATE,OFFENSIVE,1,0,0,1
+AXi Dk đọc mà cừ ĩa🤣🤣🤣,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Tui 9 miếng đây con chưa lên tiếng ne,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Nói đéo ngoa thì cái xh này nát vcl rồi ế 😕😕😕,1,OFFENSIVE,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,1,0,1,1
+Không ngờ các bác hàn quốc gian hơn e hàn sẻng .,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+bu fame a` lieu hon` khong cho len td luon bay gio hi`hi` 🤓,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Thôi nó dở dang thế rồi, giờ cố gắng vay mượn để làm hoàn thành cho dân đi lại đỡ khổ chứ biết làm thế nào. Sáng ra đi từ Hà Đông lên Ngã tư Sở mất tiếng thấy đến nhục!",0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Đây đây sdt của cháu là 113 hoặc 114 cho cháu 1 cái xác đàn bà cháu đang thấy và 1 cái nhà mặt bà đang ở . ok,0,CLEAN,1,0,2,0,OFFENSIVE,CLEAN,HATE,CLEAN,0,1,0,1
+Ô tê con😆,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+NÀ NÍ✌😂😂,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Dang tay ôm trọn cả bầu trời. Hí,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Cái thứ hạ đẳng :)),2,HATE,2,1,1,2,HATE,OFFENSIVE,OFFENSIVE,HATE,1,0,0,1
+"Trung với đảng hiếu với dân . Cần kiệm liêm minh . Muôn năm , muôn năm",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+sạo lồn,1,OFFENSIVE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+Bede,0,CLEAN,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,0,0,0,1
+Phương Thảo đừng có thằng boom ăn bậy bạ nha m,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Phùng Bảo Anh chết vì gái thật là tê tái 😂,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Qua đại hội đãng là nó bỏ ngay cái quy định này, giờ nó muốn mọi người chửi mà quên đi diễn biến thôi",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+trời máaaaaaaa =))))))))))))),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Để cho thằng làm cho EVN lên tiếng nhé,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Dừa cái lone lắm nghe 🙃🙃🙃,1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+Ngọc Hào ghi nguồn dô,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+là cò tè há mõm,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Mắt ông này già trước tướng,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Bị chặt khí thế , chửi nhỏ khóc luôn moi ghe",0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Thà từ chức còn hơn làm một con rối!,0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+awww man khịa,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Chầu chực đến khổ =]]z cũng được huấn luyện đấy chắc đây thuộc về nghiệp vụ :v,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Vivo có lợi thật :)),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Sống chậmmmmm 🙄,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+đừng nghe cs nói mà hãy nhìn cs làm,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Cho những ai chưa biết quần què là gì.? :))),0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Nhìn tội vl =))),0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Rảnh thì đọc tin tức nhé. Chứ đâu phân tích dài dòng cho you tận tườg được. Còn cái page này chỉ để mua vui😊,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Đúng vậy . nếu như nhung khai báo thì cả chuyến bay đó mọi người đã phải cách ly rồi,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Sang đài loan nó kiện cho công ty đi tù ý còn ở việt nam thì dmcs nun,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Gucciii 🙈,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+sao bạn nói ngta nvay. ban có giỏi bạn bỏ 500trieu ra nhu a ay di. bạn ko làm MC nổi tiếng như a ay di. cùng là con ng mà. ng nổi tiếng tiếng nói nó pai khác ng bình thường chứ. bạn thử đăng stt nvay xem có ai ủng hộ b ko. nói pai ngi b ak.,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Uống đi. Uống đi b ai :)),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Golden Golden Bao tuổi rồi mà phát biểu chán thế hả bạn . Người ta người Việt , không về Việt Nam thì phải sang Trung Quốc mới đúng à . Họ bỏ tiền ra đi máy bay riêng để không ảnh hưởng người khác , mà khi về đến nhà vẫn bị mấy người như bạn kỳ thị chử",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Arlios Trinh kinh tởm,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+"cứ như là ân huệ ấy! hèn mọn, sao không kiện nó ra tòa án quốc tế! sông mekong là của chung, có phải riêng TQ đâu!",0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Nói chứ thấy bà này nói chuyện cứ sao sao như con khùng,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+mấy con cá đấy gọi chung là quân đội và cớm :v,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Lấy về lót cái ghế ở nhà hay Cty cũng là tốt nhất,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Hy vọng sau này không bị bắt nộp phí Sử Dụng Vỉa Hè,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Coi mà sợ cô lỡ miệng chửi thề không à 😢,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Hải Đăng t gọi tường gió oánh bỏ mịa bây giờ :((,0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+Long công tử dạo này có hay đi đá phò TDH nữa k vậy 😂😂😂,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Tu cai mo lai bot de cho Con minh mai sau. Muon noi tieng ma khong song hay sao .,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+1997 mien tay vlioc oi chi kim hat bai gi vay chi minh di a,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Phan Hoài Nhân thế này chắc đéo bán dc hàng đâu,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Có cái gì sai sai,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Oze.,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+:)) cay vl,1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+Canh như chó đợi xương,1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Minh Te bảo nó ship đến tận nhà luôn te,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Như 2 giọt nước luôn thầy ơi. Trinh giọt nước suối còn thầy giọt nước cống thầy ạ =))),0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+NÓI SAO CON LINH NÓ KHÔNG CHỬI ĐIỆN THOẠI LẠI CHỬI NGƯỜI TA TỤC TĨU,2,HATE,0,2,0,2,CLEAN,HATE,CLEAN,HATE,0,1,0,1
+Anh vừa nói cc gì vậy Abe :D??,0,CLEAN,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,1,0,0,1
+Mong a có đôi lời nhắn nhủ tiệp,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Hẹn mấy đứa tại DO1 - Samsung - SECC GameCon2019 nhé!!!,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Động cơ của ad là gì :)),0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Hải Hiếu hồi xưa học cùng khóa với mình, hắn học khoa Thương Mại, trường luật rất ưu ái, giáo viên thì nâng đỡ hết mình, đi ra đi vô trong trường cái mặt ngó trên trời, lúc đó tui ước vấp cục gạch té gãy răng mà mà điều ước đó ko thành sự thật. Đắng lòng dân đen :(((",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Tôi bị thiểu năng anh em nhường tôi,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+nha tien tran dan.noi dung tuy co ung bien__nuoc my cong bo nguoi nhiem benh buoi sang bao nhieu ca.buoi chua la tran dan doan dung chinh sac 99% ..,0,CLEAN,2,0,2,0,HATE,CLEAN,HATE,CLEAN,0,1,0,1
+Tuổi gì,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Trần Huỳnh Như dơ vc,2,HATE,1,1,2,2,OFFENSIVE,OFFENSIVE,HATE,HATE,0,0,1,1
+"Tiền ăn sáng còn ko có đây, mua bán dề...",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Ông Trần Dần chẳng biết là phản động hay chỉ tấu hài nữa, nếu là phản động thì ổng là phản động ngáo nhất trên đời",2,HATE,0,1,2,2,CLEAN,OFFENSIVE,HATE,HATE,0,0,1,1
+nhin cai mac hok bt la trông hay mai ma sao lôn va nô wa z troi,1,OFFENSIVE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+nhạt như Thái Sơn,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+":)) làm loạn không phải cách hay, giờ giả sử phá hết đó nó bắt đền bù ngược lại thì dân mình ko những còn ko đc đền bù mà còn chịu thiệt, hơn nữa mình tưởng những người công giáo sẽ ôn hòa chứ tức nước vỡ bờ thì cũng một ruột với lũ công an '' lỡ vuốt má '' à. cứ như buổi đầu của phong trào công nhân họ nghĩ họ chịu cực khổ vì do máy móc nên họ đập phá máy móc vậy",2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Đỗ Thái Thiên ngay từ đầu là cấp số nhân rồi 😂,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Phước Đây Đừng Sợ lừa bố m 😑,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Thằng hùng vs bà 4 Nha đụ nín thở nhe a tuân.,1,OFFENSIVE,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,1,1,0,1
+Nhũng bài hay của nó bị ngta lấy r =]]] giờ biết sao đây,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+thông minh thì nó tìm cách tiêu diệt :v,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Lại nhớ chuyện hoàn đá ở Tây Nguyên, nghe thiên hạ đồn đá thuộc dòng quý và đắt, lập tức tịch thu, làm rào sắt quản lý, thậm chí cho chắc ăn phạt luôn người tìm ra hòn đá cho chắc ăn, đủ đảm bảo răn đe.he.",0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Hàn Quốc là Á Quân corona champion nên họ coi thường đội bét bảng như mình là chuyện bình thường.,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+đúng vl,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Người ta nói dân là sức mạnh của nước! Dần giàu nước mới mạnh!! Đảng là đảng của dân do dân và vì dân! Nhưng ở đây đưa đảng lên trên dân tộc??,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Nguyễn Hoàng Lực phục cái máu lồn,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+Làm ng tốt mà còn bị tù :)))),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Chơi mà lòng tự nhủ ""game là để giải trí, để giải trí, để giải trí, để giải trí, nhưng đell phải con game loèn này, con game loèn này ứ phải để giải trí"" 🤣🤣🤣",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Vũ Khắc Hoàng nhìn idol chất vcl,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Thùng rác mà cũng phải nhập TQ đúng là pó tay !,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+"1 cây xăng có đầy đủ ban, bệ từ cửa hàng trưởng, cửa hàng phó, kế toán, nhân viên, lao công, bảo vệ nên lúc nào họ cũng than lỗ. Lạ 1 cái nữa là đa số cây xăng Petrolimex, nhân viên ở đó thường nói tiếng Nghệ An, Hà Tĩnh",0,CLEAN,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+Mẹ kiếp. Công lý của đồng tiền.,1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Nhin o tran dan dot nay danh vo dep hon lan truoc .ong ko dong tram toi dan vn trong nuoc va sui pham phap la tot ung ho ong da nhin nhan ra cai dung va chinh nghia,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+H mới bík. Đuờq quyền là bà nỳ sáng chế,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Bệnh viện tâm thần lại để abe chạy thoát nữa r,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+tuyên giáo mà cha :v,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Bạn nữ nào âm đạo dãn rộng thâm đen Khí hư thay đổi bất thường, có mùi, ngứa ngáy, kinh k đều , muốn hồng hào và se khít âm đạo ib m giải quyết sau liệu trình nha 🤝🤝0984888291",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Hot girl quốc dân BeBa ozawa :),0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Hợp lý vl =))),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Nguyên văn tâm thư*mờ huyền bí,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Theo những quy định luật pháp hiện hành của Việt Nam, ông hết cơ hội lấy lại nhà khi ông đã bỏ đi rồi. Ông về mua nhà mới mà dưỡng già đê. Một căn biệt thự ở Sài Gòn có lẽ chỉ mất một góc nhỏ tài sản mà ông đang có thôi.",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Quần lột quần,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Dang la voi luc xuong cho moi biet mat .,0,CLEAN,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,1,0,0,1
+Moi tới lỗ mũi mà không hung dữ sao được,1,OFFENSIVE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+"Nhìn tác phong, biết tư cách...",0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+ci oi nhin ci dep nhung chi ko Rong mot con nguoi ci Rong mot con cho,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+di lam tu thien ma chui vay thi cong duc dau con nua,0,CLEAN,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,1,0,0,1
+Boond Lee,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Khánh Vy tạm gọi là có học nên chính tả không viết sai được như bạn ạ 😞 gà với dê mà cho vào gia súc thì chắc phải học bạn 1 khoá,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Mất tiền của dân mua hoạ cho dân. Thiết kế đấy không có vài thảm hoạ giao thông thì hơi phí. Hơn khủng bố rất nhiều!!:(,1,OFFENSIVE,0,2,2,1,CLEAN,HATE,HATE,OFFENSIVE,0,0,0,1
+Tặng hoa cho thèn bạn lol :))),0,CLEAN,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,1,0,0,1
+Chậm nàoooo,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Giang Em. Đưa ba xemmmm,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Chị Nhung ơiii.... Chị Nhung xem hậu quả của chị Nhung gây ra cho đất nước kìa... Chị Nhung còn bị stesss nữa không ta...??? 🙂🙂🙂,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+"Trung Phan 2 ngôn ngữ nó mới sang, fish sauce là quê mùa r nha =)))))",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Chỉ còn cach này,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+lạy tụi bán sim. méo biết nhục là gì nữa trời. ăn rồi bị họ chửi rủa như chó mà cũng lầy hoài. chả biết ai mua không mà cứ dai như đĩa đói -_-,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Làm tí game gủng cho đỡ puồn,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Mầy lên mạng xã hội mà mầy vỗ lồn con nầy quá trời sao ko ai dám làm gì nó hết dậy trời tức muốn ói máu,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+Con ông cháu cha,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Sa sỉ phẩm k đánh thuế mạnh thì để làm ccc gì :v,1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Nhi Băng thắng hiệp hàm thắng chị,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+virus corona tuổi lìn :))),1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Chạm đáy nổi đau :v,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Anh Trung bóng rổ,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Đặng Thị Sậu thì 1 bộ phận bảo vệ bạn Cây đấy 🤣🤣🤣,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Nó làm cái gì đấy chú.ỉa bậy à,1,OFFENSIVE,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+.buồn cười vl 😆,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Nhìn má đẹp quá trời,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Má ơi nó hài bể bụng,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Quá tốt,vậy là cả thế giới noi gương theo Mỹ có biện pháp chế tài đối với cá nhân,tổ chức,nhà nước vi phạm nhân quyền, Mỹ, Canada,Úc,Nhật và các nước khối EU phối hợp về chống vi phạm nhân quyền như thế thì mới có hiệu quả,mấy thằng đàn áp nhân quyền hết đường chạy,chẳng lẽ nó chạy qua mấy nước nghèo đói lạc hậu như Châu Phi hay mấy nước nhược tiểu ở Châu Á",0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Yen than muon ma muon luot qua zao than.dung la het thuoc chua,1,OFFENSIVE,0,0,2,1,CLEAN,CLEAN,HATE,OFFENSIVE,0,0,0,1
+Miện giống lôm trâu,1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+"^ ""viện trợ của lào"" =)))",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Thằng này nó nghĩ nó là ai. Không cách ly thì cút qua nước khác mà sống.,2,HATE,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,0,1,0,1
+giong ca lozz trong lang fo,1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+Kinh tế đinhh hướng XHCN đây mà...,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Thùy Trang (Giảm cân Dema Fitness) thứ bạn mất nết :)),2,HATE,1,0,2,2,OFFENSIVE,CLEAN,HATE,HATE,0,0,1,1
+Stop ❌,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Lê Văn Quật bọn mình đều chờ thầy thực hiện,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Ba chui ma co thag con ngoi ke ben hoc hoi,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Con ho ly tinh nay o tha thu duoc,2,HATE,0,2,0,2,CLEAN,HATE,CLEAN,HATE,0,1,0,1
+Sena nhìn mặc như lồn,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+Nếu đại lý bị phạt thật thì chắc đại lý kg im vậy đâu. Chiêu trò thôi,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Cô này có xuống 8 tầng địa ngục cũng ko ai tha thứ đâu các bạn ạ,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+đkm đứa nào bảo idol trần dần t mắc covid đấy :v,2,HATE,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,0,0,0,1
+Này ad. Mai mốt CS ra cái luật đi xe 2 bánh phải có bình xịt cay thì vui nhỉ. Ar tha hồ xịt . Haha,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+thì làm sao ? có vấn đề gì à ?,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Ừ cho là vậy đi vậy kinh tế và an Sinh thì 50 năm nữa mới bằng thái lan nha một lũ ngáo banh bóng hay ho gì mà tự hào đúng chế độ đào tạo người hay thật,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Len tp chi vay ma cai mui cong vong,0,CLEAN,2,0,2,0,HATE,CLEAN,HATE,CLEAN,0,1,0,1
+Biết vậy bắn chết ông này trước cho ông hỏi tiên chi để khỏi có corona 👾,2,HATE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,1
+Phúc Nhã trung thu mua đèn cho t rước nha :((,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Lồn ba rọi,1,OFFENSIVE,2,1,2,1,HATE,OFFENSIVE,HATE,OFFENSIVE,0,1,0,1
+Ngan Anh thấy mà tức,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"dẹp mịe cái "" hội bảo vệ người tiêu dùng đi. tốn tiền",2,HATE,1,2,1,2,OFFENSIVE,HATE,OFFENSIVE,HATE,0,1,0,1
+Mỗi lần lên sóng là đeo vàng làm như giàu lắm hay sao mà khoe của thấy ghê.còn cái mặt mình nhìn chung ko có 1 chỗ nào thiện cảm hết.nhìn mặt là biết cái thứ đàn bà độc mồm độc miệng.hung dữ.nói tục chửi thề v...v tưởng z là hay lắm,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+người xung quanh nhìn nhỏ như sinh vật lạ :V,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Lưu Đức Trung lại coppy,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+#ERROR!,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Im mồm đi micky. Sủa nữa t dính lỗ đít m lại bgio,2,HATE,1,2,1,2,OFFENSIVE,HATE,OFFENSIVE,HATE,0,1,0,1
+"Khī Pacpo hôm nay đi bảo , ngày mai bán dâm nuôi đảng",2,HATE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,1
+2029 cụ liệu còn không nhỉ ....,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Đọc comment mà cười ỉ*,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Lá cờ ko chỉ mang ý Nghĩa hình ảnh nước Mỹ mà là biểu tượng của sự tự do, dân chủ, nhân quyền và thịnh vượng. Chúc mừng HongKong",0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+gào rú ngoài đường ?:>,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Chúng m cứ mong nhà tiên tri bị bệnh ak.giờ nhà tiên tri bị bệnh thì thánh chữa.mong ngài sống để đem tiếng cười cho mấy bạn trẻ vn.,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Cô minh hiếu mà hết thời là mày cũng hết đường làm ăn luôn nha con bóng đồng tháp bán dồ giả,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+"Vì tết rất ngắn nên ta mới biết quý trọng cái tết dù nó có nhạt và chán rất nhiều so với ngày xưa. Chứ nếu như ngày nào cũng là tết, thì hóa ra ngày nào cũng là một ngày bình thường. Cũng như là việc khỏa thân ra đường thì đó là một người bệnh hoạn, nhưng nếu cả thế giới đều vậy thì đó lại là một điều bình thường, ai mặc áo quần mới là đứa bệnh hoạn",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Dạo này mấy bố ts giấy phát biểu hơi nhiều, phần lớn cho thấy tư duy kiến thức quá lạc hậu, nhiệt tình cộng với sự ngu dốt thì sẽ thành phá hoại 😤",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+Nguyễn Đức Ánh khôn hơn cả họ nhà m.,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+QuynhAnh DT thấy mà tứccccc,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+chắc là quảng cáo sự kiện liên quân như năm nào chứ làm del phải táo quan thatk,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Toi gia roi co li xi cho it do song qua ngay so dtcua toi 0903976511,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Chi ba đep qua . Luc nay hoa qua . Chi goi vê cho e 1000 usd mua xi ke hut nha chi .,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Chờ em đi kiếm cái nick yahho cái thầy ơi,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+vĩ đại cái máu lồn =))),1,OFFENSIVE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,1,1,0,1
+1lủ ngu adua. Ví dụ lở có ông nội nào hút đíu thuốc rồi quăng dô ghế ngồi. Nó cháy rôi ko lẻ đi tìm nước để dập tắt? Chắc khi quay lại thì cháy mẹ hết rồi. Trang bị bình chửA cháy là để khống chế lửa mấy cu ạ. Còn thêm vụ mấy xe phải trang bị búa để khi lở rơi xuống vực or xuống nước còn lấy núa mà phá kính thoát thân. Khi trag bị là để an toàn tíng mạng nhé. Lở có ngu thì im chứ nói ra người ta biết thì nhục lắm,2,HATE,2,1,2,2,HATE,OFFENSIVE,HATE,HATE,1,0,1,1
+Hèn gì chúng nó chỉ dám nói là ko có liên quan. Cái địt mẹ mấy thằng lớn,1,OFFENSIVE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,0,0,0,1
+"Độc lập, tự do, hạnh phúc hơn 40 năm rồi mà vẫn phải ngửa tay xin tiền tư bản a. Sao đảng ta tài tình thế ... ;-)",2,HATE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,1
+Cởi bố ra cho rồi ngứa mắt á🤦‍♀️,1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+Em là một cô gái nông thôn. sống nội tâm. Trầm tính.,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"nó ra cái luật trưng dụng lấy đồ của dân mà ko có quyền đòi,chó đẻ thiệt",1,OFFENSIVE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+Cười ĩa mấy cha cmt gì k dị =)),0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"chưa chắc, có thể tăng chức nhưng lộc giảm.. đơn cử như phó chủ tịch mà sang phó bên hội đồng nhân dân chẳng hạn..",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+My Thsnjs Minh Hieu Chuc Nguoi That Binh An Vui Ve,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Tu Kim Khoa im cmm đi🤫🤫,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Anh Trung trộm vé số,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"FACE TO FACE 24/24 NHÀN CƯ VI BẤT THIỆN, THẤY NGÀI KHÔNG PHẢI DƯƠNG TÍNH NHƯNG CÓ BỀ DÊ TÍNH ĐẤY. NGÀI BIỆN GIẢI VỀ CÁI ÂM MƯU CỦA ĐẢNG DÂN CHỦ MỸ VÀ TẬP CẬN BÌNH CÓ CÁI THUYẾTPHUJC ĐẤY.",0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+"Bả chửi người ta lên mạng câu like , bả mấy là người câu like đó , kêu người này người kia ủng hộ nhiều nhiều , đi Mỹ chơi về cho mỗi đứa ngàn đô , nghe muốn đái ỉa ra một lượt cho bả coi , lên mạng ngồi bán từng chai dầu thơm kiếm lời mà nói chuyện chảnh chó.",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+Lúc chửi thì to mòm giờ thì khóc lóc năn nỉ các thứ đứa con nik còn thấy nhục dùm,2,HATE,2,1,0,2,HATE,OFFENSIVE,CLEAN,HATE,1,0,0,1
+"Con bong sao lo ve my cho 1,ooo mot nguoi do thui",0,CLEAN,2,0,2,0,HATE,CLEAN,HATE,CLEAN,0,1,0,1
+Nát bét bè bẹt 🤣,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+"Phim đell hay . net bà này ai dám sửa, bả mà có nhiều tiền là tẩy đc râu rồi",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Thằng nào kêu tao dạng háng leo rank là ăn ban nha 😣,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+dkm chung no ko tiem cho cac chau sau nay lay ai giu nuoc,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+"Móa , tài sản mấy ổng từ cướp dân mà ra ko chứ ai",2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+"Mới đọc báo thấy 33 người, vừa đi vệ sinh vào thấy bệnh nhân thứ 34 :)) Thờ tới cản kh kịp",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Kim Hà Huyền Nhi Quyên Quyên Nguyễn Thị Mỹ Cẩm ở chuồng cũng éo ai quan tâm luôn :))))),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+@Văn Tuấn Mai bạn ơi ngta bán hai loại .loại chính hãng vs lại B.dân,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Đụma chất vãi lòn há há há,1,OFFENSIVE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+"@Tủn 3K bao nhiu nghệ sĩ =]] linda với Don Nguyễn còn ai ko =]] loại 1 hay loại 2 thì cũng là đồ giả, đồ nhái, lên phường làm việc nha =]]",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Mẹ làm cx nói k làm cx nói:)) mai đại hội r đấy sủa đi:)),1,OFFENSIVE,2,0,2,1,HATE,CLEAN,HATE,OFFENSIVE,0,0,0,1
+Pé Chóa 😝😄😁,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Nhìn muốn ăn sạch luôn ák😂😂,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Như con bóng dạ.:)),1,OFFENSIVE,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,1,0,1,1
+Sao chuỵ ba thuý kiều có râu vậy chuỵ...,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+đợi công an hay cái gì đó pháp lí của nhà nước á,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Chuẩn cái stt của page. Mà cái chính mấy phim ấy éo ai biết 😄, chả ai xem.",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+củi đó,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+mấy người tận tâm với đất nước với dân tộc,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Quỳ,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Con lam doan ko chi,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+nhìn sếp ngon vl,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+chỉ có thế này mới đủ sức răn đe 😒,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Đóm mạnh vcl ☻,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+best xạo lol ý,1,OFFENSIVE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+Võ Công Hoàng cái lon má,1,OFFENSIVE,1,2,2,1,OFFENSIVE,HATE,HATE,OFFENSIVE,1,0,0,1
+Rồi sao mày làm đc củ c gì ... hay viết đọc cho hay?,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+"Bóng , kèo , rung bố nào đang vướng sâu thì tôi khuyên một câu thôi, bớt tí thời gian tìm Bảo Lyon sẽ có mấy cách cho các bố về bờ đấy.Để tôi tag hộ anh em Trần Quốc Bảo",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"D'accord, Merci TrânDân.",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+cái này nhai đi nhai lại quài chán vl ấy,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Bố đéo rảnh tiếp chuyện vs acc clone,1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Nghi Nguyen bà lanh qá à 😂😂😂,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Bò viên và panda ko thích điều này,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+🤣😂😁😀😄😃😆🤣😂may ma oi con so va🤤😝😜,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Tôi hết sức quan ngại về chn này..dm..tôi ngày cứ quan ngại,1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+"Nguyen Binh thằng kicm nó đánh đàn chẳng ra đánh, hát cũng ko dc, có ra gì đâu",2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+Ngày xưa tui làm sale nước giải khát! Nước THP bị cặn với nổi meo đầy ra ngta cất sau kho đổi lại hoài chứ gì!,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+ở ngoài tao mà gặp kiểu này t bắt lại cho anh Diệt đánh chết con cụ mày,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Nghe cai giong thick wa nhung tra biet cau chuyen ai dung ai sai nhung nghe giong rat thick ai nem da em xin chiu va xl hjjj,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Dụ khỉ đấy,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+mặt nhìn giống cái âm hộ gái nhật Ge,2,HATE,0,1,2,2,CLEAN,OFFENSIVE,HATE,HATE,0,0,1,1
+Chắc hà bá đánh rắm đấy,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Trường học thì có cái quỹ xây dựng trường trong khi trường xây tiền thuế của nhân dân trẻ em đi học từ lớp 1 đến lớp 12 có cái quỹ này,0,CLEAN,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,0,0,0,1
+"Thằng dân nào vay tiền lắm thế ? Đm nhân dân, nhân dân cái lồn!",2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+Phò thì sao ?,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Obama quay lại VN lần này, đề nghị quán giữ lại và cũng cho vào lồng kính luôn.",0,CLEAN,1,0,2,0,OFFENSIVE,CLEAN,HATE,CLEAN,0,1,0,1
+cười quài kéi dụ thấy cl xỉu ba ngày xỉu nữa =))))),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Nguyễn Minh Triết tao cười ỉa đi trước trend cả chục năm,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Ủa ng ta nói kệ ng ta chứ, k khí k giống mọi năm thì nói, ủa bị gì v, ăn cơm nhà lo chuyện thiên hạ vừa thôi chứ, ng ta chửi rủa gì chưa mà nhảy vào cào phím. Nhin giống Táo mọi năm ở đâu, mấy ba mấy má rảnh vl :))(",0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+hệ thống thủy lợi yếu kém cộng thêm Khựa chơi bẩn bựa thì lụt lội là điều tất nhiên :\,2,HATE,1,2,0,2,OFFENSIVE,HATE,CLEAN,HATE,0,1,0,1
+Linh Minnie kêu thằng tháng nghĩ di,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+"Từ khi Bác Thanh ra đi, bv ung thư Đà Nẵng đã thu tiền gởi xe và tiền điều trị. Kinh doanh chặt chém , nói thách... Chừng vài năm nữa thôi chắc về ĐN cũng có tâm trạng lo sợ như khi đi HN, SG...!!!",0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Dân chống nhưng quan chức không chống,2,HATE,2,2,0,2,HATE,HATE,CLEAN,HATE,1,1,0,1
+Dành Mấy cđl đi soi haha nè :)),0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Có đá phò tây chưa abe 🤣🤣🤣,0,CLEAN,2,0,2,0,HATE,CLEAN,HATE,CLEAN,0,1,0,1
+Đi nạo hết cái độn ngày xưa xong lại đi độn lại nên mặt nó ngày càng bị cứng lại,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Lần sau bắt gặp chụp thành quả + chủ vũng nước đái = ghép lại. Up nó lên gr cty cho đội quần luôn 😃,2,HATE,0,1,1,2,CLEAN,OFFENSIVE,OFFENSIVE,HATE,0,0,0,1
+Súc vật từ nhan sắc đến nhân cách súc phạm loài người quá đy,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+Dkm cá chết là do k biết bơi nhá đỏ đo cái loz què̉,1,OFFENSIVE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+Cả thế giới chỉ có cuốc sư là nói con di trùng chứ ai cũng nói con vi rút hết,0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+Lo ăn lo cướp tối đa thì lãnh đạo gì,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+"Bùi Thịnh qua bên trang comcom mà xem ! mà giờ bọn chúng xóa cả rồi ,làm tuyên giáo thì phải biết nói xuôi lẫn nói ngược bạn à !",0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+Kiểu đúng quy trình vkl thớt,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+dnn thay ba nhieu hok tro` tot vc :L)),0,CLEAN,1,1,2,0,OFFENSIVE,OFFENSIVE,HATE,CLEAN,0,0,0,1
+Bóng đời,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Con Minh Hiếu nó su bờ nai,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+dc vl anh ưi,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Ăn đc của doanh nghiệp mà dễ á :v sếp nào mà chả là người gỗ mũi dài =]] quy trình chỉ nằm trên biển hiệu :v vi phạm thì ko xử lý ! Làm thuê , quyền hạn ít thì phải chịu !",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+CÔ BA NHÀ NGÀN SAO NÊN Ở LANG THANG NGOÀI ĐƯỜNG,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Không có nên chửi người ta là bắt ky! Hồn láo toét miệng lưỡi quá! Khẩu nghiệp quả báo sớm lắm,2,HATE,2,0,1,2,HATE,CLEAN,OFFENSIVE,HATE,1,0,0,1
+"Sao lại bảo thằng việt , anh việt 😹",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Treo lưng lững mới hay. Giống vừa xã nghĩa vừa ""giãy chết"" vậy.",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+hahahahahahahahhahahahahahah.. nực cười. :v,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Cô giàu có j kệ cô chứ nữa cô chết đéo người đội tan giàu cở nào cở alibaba chưa mà nói chuyện kinh người rồi 👎,2,HATE,2,2,0,2,HATE,HATE,CLEAN,HATE,1,1,0,1
+mặt kitz giống bò viên thế,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Nguyễn Hương Giang đúng thật bọn nước ngoài quá ngây thơ ko bt j hết,2,HATE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,1
+Bấp bênh vl thế,1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+Nhìn xấu vãi nhìn cái mặt vẫn còn dẫn og đi phẫu thuật rồi gì còn xấu còn như đàn og,2,HATE,2,1,1,2,HATE,OFFENSIVE,OFFENSIVE,HATE,1,0,0,1
+Biệt tài trả lời xong chẳng biết trần dần nói gì. Vũ Hoàng Lân thiếu người để kiếm viu đi phỏng vấn người điên.,2,HATE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,1
+Bọn này luôn gây hiệu ứng đám đông để nôi tiếng . Ngứa dai. Moi người còn đang lo chông dịch lo cơm áo gạo tiền đủ thứ phải lo. Làm loạn để mọi người chú ý. Không khác gì một con vi rút luôn luôn gây mệt mỏi.,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+abe ochco =))),2,HATE,0,0,0,2,CLEAN,CLEAN,CLEAN,HATE,0,0,0,1
+Tạ Bích Loan trốn đâu mất rồi.,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Đéo BTW gì về cô nói cô chẵn ??,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+"Lưu ý cho các thanh niên tham gia page: Add (2 chữ đờ) là cộng. Còn Ad (1 chữ đờ thôi) mới là viết tắt của admin. Có một ông viết \""add\"" cái là y rằng sau đấy cả một cồng đồng \""add\"" theo 😥",0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Linh Phan bảo thằng bình tránh xa mình ra nó đi ấp với grab rồi,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+"Nhìn anh chíp song phát bùm , mất mẹ tuổi thơ",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Page này của việt tân à ? Toàn đấy nz đến lật đổ xhcn là sao ?,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Khổ, làm ăn bố láo bị tẩy chay thì có mấy thành phần bợ đít chạy theo: ""người Việt dùng hàng Việt là yêu nước"", ""DN Việt đóng ngàn tỷ tiền thuế bị dập"".",1,OFFENSIVE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+Chi ôi ko co tien lay gi lam chi,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Tiêu Chảy Cấp e đồng ý với ý kiến của bác,cmt của e bên kia cũng có vài thanh niên tay nhanh hơn não,vào một cái là trách móc nhà nc thế này thế kia ngay đc,thử hỏi k có nhà nc một ngày thôi xem chúng nó có còn ngồi yên mà bình tĩnh ấn phím k?với mấy thanh niên kiểu đấy tốt nhất cứ kệ cmc nó đi bác à,rồi xem chúng nó làm đc cái gì mà chúng nó trách nhà nc",0,CLEAN,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,0,0,0,1
+"Hieu Pham Trong bắt trend nhanh vl.... Mà @hieu biểu cảm miệng hình chữ 0 nữa =,))",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"nguyên nhân cá chết là do cá ngừng thở, đã tìm ra dấu hiệu khi cá chết là cá không còn hoạt động, nguồn nước nới cá sống bị ô nhiễm là do chẩt bẩn, kết thúc họp báo :v",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+quản lý khôn vậy để fan cứng lấy đi :)),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Nguyễn Long vlin thật lun á bọn vô ý thức,2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+chỉ để kiếm chút tiền bằng cách vá xe thay lốp ...người ta sẵn sàng giết người !,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"cái này nta gọi là trào lưu phê phán hay gì điển hình ở văn học nhỉ, như truyện xuân tóc đỏ ấy",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Bọn rẻ tiền này mà nhà nước muốn đập thì chúng nó chết từ vài năm trc rồi,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Chứ dân thường có gì để ng khác đút lót ????,0,CLEAN,1,0,1,0,OFFENSIVE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+Tô Ngọc Cầm lq quảng cái chứ có phải táo thật đâu,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Ở mỹ có xả súng,khủng bố,hiếp dâm,nghèo đói,thuế thừa kế 40%,bị cảnh sát đàn áp lạm quyền",2,HATE,2,0,1,2,HATE,CLEAN,OFFENSIVE,HATE,1,0,0,1
+Nguyễn Quốc Tùng Anh tội cho một ng bạn của cta :(,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Long Nguyễn khs lợn, gà, bò, dê ăn đủ mà lại chừa chó :))) thương động vật thì nhịn ăn mẹ đi nhỉ.",0,CLEAN,1,2,2,0,OFFENSIVE,HATE,HATE,CLEAN,0,0,0,1
+Nặng vc 😃,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Chính phủ Hàn quốc hoặc đông lào said:\""",0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Chó nhà căng nhau rồi hả,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Bọn đức mặc quần áo lính băn tỉa thì sao ko thấy ai nói nhỉ,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Đ’ nói nhiều cái thằng quốc khánh,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Luna Blue nộp hồ sơ nhanh,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Kéo xuống phía dưới thấy có tin bác bỏ tin sách giáo khoa rồi,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Đây là chú bộ đội, đéoo phải ch ó CA? bộ đội đéoo muốn làm cũng bắt buộc phải làm thôi.",2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Nhân danh fan cứng và theo kinh nghiệm 18năm ăn mì tôm thì đây là mì giả .vì mì thật thì làm đéo gì có tôm . độ mixi tiêu thụ hàng giả t báo Công an,0,CLEAN,2,1,2,0,HATE,OFFENSIVE,HATE,CLEAN,0,0,0,1
+Nhiều bạn thắc mắc hỏi đảng cộng sản có được tham gia tranh cử ko... Thì đây bà này chính là ứng cử viên của đảng cộng sản đây,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Diễn tập gì nữa quay xong rồi. Đang biên tập để tết chiếu rồi.,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+chuẩn vlon anh ưiii,0,CLEAN,1,0,1,0,OFFENSIVE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+"Khiêm tốn quá rồi a ơi.sau này nhỡ thành Tùng Sói Mtp thì sao.., khỏi cần stream . Đóng quảng cáo đc rồi. Hihi cố lên a. Reafun núm bỏ oằn",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Mặt như đàn ông :))),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Đéo tin.chả nhẽ nó để lộ liễu như thế này á hả,1,OFFENSIVE,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+Việt Nam cố gắng lên tất cả cùng chung sức thì dịch bệnh gì cũng sẽ vượt qua để cho bọn Hàn Quốc ngu ngục sướng mà không biết điều phải hối hận khi xem thường Việt Nam 💪💪💪🇲🇦🇲🇦🇲🇦,2,HATE,0,2,0,2,CLEAN,HATE,CLEAN,HATE,0,1,0,1
+BÀ THÁI ANH VĂN RẤT GIẢN DỊ VÀ GẦN GŨI VỚI DÂN _ NHƯNG RẤT KIÊN TRUNG _KIÊN CƯỜNG TRƯỚC KẺ THÙ _ BÀ LÀ TẤM GƯƠNG SÁNG CHO RẤT NHIỀU ĐỨA HÈN VỚI GIẶC ÁC VỚI DÂN THAM HƠN SÚC VẬT SOI VÀO ĐỂ THAY TÂM ĐỔI TÍNH,2,HATE,2,2,0,2,HATE,HATE,CLEAN,HATE,1,1,0,1
+"Bac hai nay tang cho no con virus chinh phu my bot di tien cua lunatic man nay , nguoi dan viet nam luu vong do ho then",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+H toàn bọn béo ú ngu học làm lớn,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+không chú nào quỳ bố nó xuống nước cho ổng dẫm lên lưng bước qua...như vậy có thể mau lên chức hay sớm được chiếu cố hơn! quan nhà sản có khác...bị khuyết tật!,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+ONG NAY CO THEO NHU QUAN KHG VAY????? PHO BOLSA,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Đẹp ik chang cái thẹp,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Bake ơi là bake đm đi đâu cũng bị chửi vậy từ miền nam tụi t chửi chưa xuể thì ra nước ngoài nó cho vào danh sách đen cấm được xin visa? Về bển ở đi tụi m thích phá gì thì phá. Khỉ rừng vừa thôi ?,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Phạm Văn Lộc phát biểu hay nhưng mà là “yên nghỉ” nha dm😞,1,OFFENSIVE,0,1,0,1,CLEAN,OFFENSIVE,CLEAN,OFFENSIVE,0,1,0,1
+"Chúng nó bỏ chạy thế còn hơn nó quay lại đàn áp. Trên sách vở lý thuyết thì chúng nó nghĩ chúng nó đang làm việc cao cả và kẻ trước mặt là bọn phản động , nhưng thực tế phũ phàng là trước mặt chúng nó toàn là bà con nông dân thử hỏi làm gì còn nhuệ khí mà đàn áp.",2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Nghe hoai ma khong chan.,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Em đam mê chơi ma tuý mà em đéo có tiền anh ah,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+"Tiên sư thằng nào nói toàn thực phẩm sạch. Rau tưới nhớt, thuốc kích phọt, chất tạo nạc, hàn the, thịt bơm hóa chất, trái cây tẩm hóa chất, ...vân vân và vân vân...mấy thằng nhiều tiền như chúng mày thì đâu biết người dân đang ăn gì, uống gì. Sao mà lại lắm chó thế.",2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Edg cmnr,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Cach noi chuyen NO wa,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Nhữ Mạnh Tiệp vào giải thích,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Ngu thì chết, đâu phải ko có suy nghĩ đúng sai, chỉ do ko có ý thức.",1,OFFENSIVE,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+"Tôi không chạy cũng không xin, không thoái thác bất cứ nhiệm vụ nào Đảng và nhà nước đã phó thác , thế thì có cái căng củ cọt gì mà tôi phải tuyên thệ .",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Đâu đó giới trẻ ở xứ đông lào chiều nay,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Kệ cụ mày,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Cưng vl,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Nguyễn Văn Quý haha mắc cười vl sao đéo ai haha vậy,0,CLEAN,1,0,1,0,OFFENSIVE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+Vũ Khắc Hoàng ui chỏm râu xinh xẻo,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Coi muốn cười muốn ỉa luôn z trời đmmmm,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+hỏg hết cả tai r -))) :),0,CLEAN,1,0,1,0,OFFENSIVE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+song cham lai,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Đăng Thảo đầu tư 300 tóc giả vậy chứ sao, định để tóc này các bác tưởng bị điên mừng lì xì nhiều hơn à)))",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Khi mà nỗi lo cơm áo gạo tiền nó đè lên vai thì tết càng ngày nó càng nhạt dần,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"ĐN đúng là TP gương mẫu, khổ cho cái SG vs HN",0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+"Biết là ko nên gây hoang mang nhưng cũng nên lấy đó mà đề phòng hơn, ko chủ quan đc đâu, bây giờ ad lên tivi chống covid chắc sẽ hạnh phúc lắm 😄",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Thối nát quá r!!!!!!!!!!!!,1,OFFENSIVE,1,2,1,1,OFFENSIVE,HATE,OFFENSIVE,OFFENSIVE,1,0,1,1
+Mai Nam Hải cgai nó cx ra ngoài tìm trai đấy anh :)) anh nên ra ngoài tìm gái đi,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Có người bên trong mà bê hộp quà như bê cái kẹo vậy,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Cj đẹp ghia ak, đi thi hoa hậu đi cj",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Thùy Trang Lọt tai bạn để được gì, lọt top là được rồi :)))",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Chúc mừng ngài đã trở lại. Sợ ngài chết mất xác ko ai diễn hề cho chúng con. Tạ ơn chúa đã bảo vệ ngài.,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Đeo cái vòng này rồi thì Phật cũng méo độ nổi anh đâu kakaka.,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Đụ mẹ. Mang tiếng việt kiều. Có cái loz thúi rùm. Có quần què gì,2,HATE,2,1,2,2,HATE,OFFENSIVE,HATE,HATE,1,0,1,1
+Giống đầu cùa cầu thủ tot,0,CLEAN,2,1,1,0,HATE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+T Chưa bao giờ coi vũ khắc tiệp là một nghệ sĩ cả.,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Đậu phộng...,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Quần của bad boi hay gì,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Cao dau con 3 vang ngoc truoc. Cao con linh ca loc sau,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Bóng già,2,HATE,2,1,2,2,HATE,OFFENSIVE,HATE,HATE,1,0,1,1
+Ánh sáng của Đảng :)),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Uh cần lồn gì phải lịch sự,1,OFFENSIVE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Thôi bớt ngựa ông... đừng đi tùm lum để khéo mắc bệnh rồi cách li... là dân việt nam mừng lắm rồi,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Vựa lúa cũa cả thế giới....,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+24h vẩn trôi nhanh. .nhanh gì ??? Bộ m nhanh hơn ng khác ak :),0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Thoi bot xam lom di nhin cach an mac beo qua dzo,1,OFFENSIVE,2,2,2,1,HATE,HATE,HATE,OFFENSIVE,0,0,0,1
+Chị dùng kem gì mà da mặt chị dẹp quá.,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Mac Ngoc Anh mình cũng tên Nhung tuy mình k giàu nhưng mình có não 😞,0,CLEAN,2,0,1,0,HATE,CLEAN,OFFENSIVE,CLEAN,0,1,0,1
+"Đấu đá nhau khốc liệt,giã dối hơn cả XH Đen.vì có quyền điều khiển đc dư luận qua báo chí",1,OFFENSIVE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+cắn đứt long lone??,1,OFFENSIVE,1,0,1,1,OFFENSIVE,CLEAN,OFFENSIVE,OFFENSIVE,1,0,1,1
+Sinh ư nghệ. Tử ư nghệ. Sống vì nghề mà chết cũng vì nghề. Trân trọng lắm.,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Đợi Đợi Đợi con cặc thích câu này v*l 😂,1,OFFENSIVE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,1,1,0,1
+ngu thì,1,OFFENSIVE,2,1,1,1,HATE,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Cho cục gạch vào cái kính,1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+4 sao nền nhũ đỏ là thượng tượng?,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Idol. Viết vậy là chết con đĩ mẹ người ta rồi,1,OFFENSIVE,2,2,1,1,HATE,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+Bên ngoài là phát triển doanh nghiệp sản xuất ô tô trong nước nhưng bản chất thật sự là ..... Cướp tiền 1 cách công khai để đút vào túi mình.,2,HATE,0,1,1,2,CLEAN,OFFENSIVE,OFFENSIVE,HATE,0,0,0,1
+Tao cười tao ỉa. Mới hôm nào phán: Mày nhắm mày chơi lợi chị em tao hông?,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Con nay no đien roi,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+"Nhok Lầy cái nick thì clone, avatar thì đéo dám để ảnh thật :v gáy cũng kinh đấy! Thằng trẻ con vô văn hoá!",2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Trần Thị Nhung BGD phản hồi cmt của Nhung😗,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Tấc nhiêng là chúng cháu còn được coi hài dài dài. Tấc nhiêng là nhìn nhà tiêng tri mũi quặp tai to,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Cô La nhất nhất nhất nhất cô ơi...! Khoái câu clip trc “ xả tóc xụ xụ như ma đụ đống rơm” z🤣🤣🤣🤣🤣🤣,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Muốn phản ak!!! Lên phường :)))),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Đm nợ cộng sản,chính xác là tàu ngập cmn đầu ra rồi :)))) dân mỹ nó chửi như hát hay :)) ngồi ấy mà ẳng",2,HATE,2,1,2,2,HATE,OFFENSIVE,HATE,HATE,1,0,1,1
+Lỗi này là do lửa cháy to quá nhé.,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Nguyễn Ngọc Trinh cố tình k hiểu vấn đề hay k hiểu vấn đề v bạn , ở bên Anh ngta k chịu cho xét nghiệm , ngta bắt tự cách ly ở nhà , quốc tịch việt nam thì về việt nam chữa trị , đã làm đúng thủ tục rồi mà cứ sồn sồn lên",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+._. Má cho NGÀN LIKEE,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Né rồi sao mà học , học ngu sao :))",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+trơ trẽn vkl 💩,1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Dương Tiến Đạt bạn ấy ng tuyên quang đâu chung thành phố,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Khuyên các em là em nào học lực trung bình ham chơi mà đỏ chép đc bài thì cũng vào mấy trường trung trung thôi , vào mấy trường khó đéo ra được trường đâu , như a chẳng hạn :((",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Thông minh. Biết là đem lên cao để làm con chốt thí mạng nên rút liền,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+khịa cực mạnh,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Trưa nóng 2 bố con làm tí cỏ ăn cho nó ngon, ngũ cho nó đúng bữa :))",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Mất fancung rồi anh ưiiii,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Cương Đặng m chắc là dân miền ngoài r mở miệng là thịt chó , chúng m đeo có tình thương động vật",2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Tốt nhất là bỏ,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Tiền thấy ham,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+ai kêu đi kím chuyện đá xéo minh hiếu trong khi ngta dell dụng j đến mình,1,OFFENSIVE,2,0,0,1,HATE,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+Các nhà máy nhiệt điện vùng Đông bắc.hãy nghĩ xem 3 cột khói gần nhau kia cùng hoạt động,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Chó vàng đéo cắn để rồi thành cầu 2 chiều à :v đm cái gì đúng cái gì sai phải biết chớ .,2,HATE,2,1,2,2,HATE,OFFENSIVE,HATE,HATE,1,0,1,1
+"Tôi nghĩ ""lỗi"" ""ân hận"" ""sai lầm"" bla bla bla các thứ không tồn tại trong từ điển của những kẻ đó.",0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+bts cc,2,HATE,2,1,1,2,HATE,OFFENSIVE,OFFENSIVE,HATE,1,0,0,1
+Tóc đẹp vai lon :)),1,OFFENSIVE,0,2,1,1,CLEAN,HATE,OFFENSIVE,OFFENSIVE,0,0,1,1
+Nghe sợ quá. Thôi đi du lịch cho đỡ sợ 😇😇,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Sao tụi bây toàn chửi nhau mà ko thấy làm gì hết,cao lông nó chưa hay nói cho vui",1,OFFENSIVE,2,0,2,1,HATE,CLEAN,HATE,OFFENSIVE,0,0,0,1
+Đào Mạnh An chưa đọc bài post mà tay nhanh hơn não vô cmt hả :(,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Dành cho lũ quan ngại,2,HATE,0,1,0,2,CLEAN,OFFENSIVE,CLEAN,HATE,0,0,0,1
+Lê Quốc Triệu thấy cgi quen k,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Ong nay ma biet j troi,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+"Đó cũng là 1 cách để khách du lịch 1 đi kg trở lại.....Đáng buồn thay. Kêu trời kg thấu, kêu đất kg nghe......",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Dân InDo thì m nge làm lol gì??? K thích thì câm họng lại ok chưa lên đây sủa làm cc gì.,2,HATE,1,2,2,2,OFFENSIVE,HATE,HATE,HATE,0,1,1,1
+Chậm thoiiii,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Bọn Anh này còn bị nhiều, với cái kiểu xem thường dịch bệnh này thì sắp rồi,bọn nó còn kì thị cả đeo khẩu trang mà, ng bệnh có triệu chứng thì khám qua loa",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Quần Đùi Hoa, tiến Tien Saker, Trọng Quang Shigemitsu",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Khiem Huynh Đọc cmt của bác mà đéo nhịn dc cười🤣,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Đã ngu còn hay phát biểu,1,OFFENSIVE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,1,1,0,1
+Chị ấy đúng là người vừa có tiền lại không có não. Nhà nước nên lập danh sách gửi cho hàng không cấm vận những ng đang trong thời gian cách ly để họ không di chuyển khỏi khu vực cách ly nhỉ. Và nên sử phạt thật nặng những trường hợp ntn lần sau khỏi tái phạm nữa,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+Trường Giang bạn làm như Nhung là con nít =))))),0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Thế Vinh linh vật thờ là con quỷ dữ :Đ,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Truồng từ tử vô hại mà .!,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Dm muốn tán vô họng nó gê...đóng thuế để cho tụi nó đi nhậu á,2,HATE,2,2,1,2,HATE,HATE,OFFENSIVE,HATE,1,1,0,1
+Khôn như a người tày xích đầy ngoài cửa 😂😂,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Z đay la ai,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Hương Thảo fish sauce :)) chứ watar mắm là éo gì,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Sao tao thấy toàn mất đứa con nít vào cmt linh tinh 🤦‍♀️,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Củ kỉ xấu xí để mầm chi,1,OFFENSIVE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+Nhiệt điện. Thì tro lò thải ra. Luyện thép thì sĩ lò thải ra. Khi các ông ký với nhau là đổ đi đâu hay mang về đất nước họ xử lý. Hay là đổ trên đất nước Việt Nam! Giờ biết kêu ai.,0,CLEAN,2,2,1,0,HATE,HATE,OFFENSIVE,CLEAN,0,0,0,1
+Hoang mang,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+"Nói chứ những ng chống cộng cũng khổ lắm, vì ng ta khổ nên ng ta mới trách, trách chế độ, trách những ai làm họ khổ. Cuộc sống mà, đâu phải ai cũng may mắn như nhau, đời chỉ sống đc một lần, chẳng lẻ vì mình khổ mà đành dành phần đời còn lại để trách. Trách thì đã đành, nhưng có trách thì cuộc sống họ vẫn khổ, vẫn tiếc nuối cho những điều ko may đến với họ. Ở cái tuổi gần đất xa trời rồi thì hiểu.",0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+có học thức chỉ tiếc văn hoá quá kém ...ý thức thua cả một con chó,1,OFFENSIVE,1,2,2,1,OFFENSIVE,HATE,HATE,OFFENSIVE,1,0,0,1
+Nói gì thì nói người ta cũng giỏi đi =))) ông phân thích được như thế là ông giỏi đấy thế ông làm theo đi làm được thì giàu thì sướng ngồi phán xét người ta làm cái đ gì để người khác học mất đấy =)))),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Đền, miếu ... đâu phải cứ muốn là xây được đâu. Theo tôi thì Bác Linh đã sai trước vì không am hiểu luật pháp , Bác có thể trùng tu cải tạo thì được còn việc xây dựng thì phải dựa trên nhu cầu tín ngưỡng của người dân xung quanh và được chính quyền đị",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+gã tâm thần.răng long râu rụng,2,HATE,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,0,0,0,1
+Me ba so 1,0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+"Hưmmm , năm cuối rồi 🙁",0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+"Sao mv lần này không có ca sĩ gì mà cầm cây đàn dài dài đứng nhúng nhúng ta, chắc là ca sĩ đó nổi tiếng quá lần này jack k mời được chứ gì,giận jack ghê",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Ủa thằng cuối là thằng đệm đàn mà, ca sĩ gì bay",0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Mieng c qui nay chac co doi k,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"báo cáo có thế lực thù địch nói xấu tổ chức, cần bao vây và vô hiệu hoá ngay ! hehe",0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Ông này tốt đẹp gì, đi đêm qua lại giữa Mỹ và polpot, ông ta cứ xoay giữa hai trục Mỹ và polpot, gió chiều nào ông ta ngã chiều đó, ngư ông đắc lợi ...Cái chết của hàng triệu người cam trong ít năm ngắn ngủi polpot cầm quyền có tội rất lớn của ông ta.",2,HATE,2,0,2,2,HATE,CLEAN,HATE,HATE,1,0,1,1
+Nó bị què ko làm thế đi kieu gi dc,0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Có mấy đứa sợ thì thôi đừng có đú trang chủ liên minh nó đưa ra mà sợ còn mấy cái link ngu thì lại vào,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Xahoi gio ai nay co tien .nui tay nui nam...lam nay lam kia.giau co khac.ngeo nhu minh kiem 10ngan an banh mi hk co...,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+ôi a dg nhai bcs rùi đấy,1,OFFENSIVE,0,0,0,1,CLEAN,CLEAN,CLEAN,OFFENSIVE,0,0,0,1
+15:03 Cuoi ia,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Hài vcl. Buồn mà xem video của Thầy là muốn tự tử :)),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Moi lam tu thien.ma chui nguoi ta.coi chug chet đoc vy hen con beđe mat nhu đau trau,2,HATE,0,2,2,2,CLEAN,HATE,HATE,HATE,0,1,1,1
+vâng....là dân địa phương :v xác minh là có thật :v,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+Có nhiều thằng mồm thì đòi cứu cá mà tay thì xả rác ra biển thì chả ngộ :3,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Nguyễn Văn Nhã be bé cái mồm thôi bọn châu chấu nó có thể xuất hiện bất cứ đâu nhé =)),0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Ngủi thấy mùi đi tù,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+chi oi cap chung dai e no bu co cai thao lam cho nho duoc ko chi,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+Trần Huỳnh Như bạn dơ quá đi😅,2,HATE,1,0,2,2,OFFENSIVE,CLEAN,HATE,HATE,0,0,1,1
+Đảng đã cho ta một mùa xuân đầy thất vọng!,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+"Cái này là nó cắt giảm nhan sự mà chọn ng làm lâu k ak, sau dich tuyên ng mới vào, lương giảm dc vi ng moi, đơn giản dễ hiu",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Đây là fir :v đéo phả không phận :v ngu thì cũng vừa vừa phai phải thôi chứ :v,1,OFFENSIVE,0,1,1,1,CLEAN,OFFENSIVE,OFFENSIVE,OFFENSIVE,0,1,1,1
+Xạo xạo làm youtube kiếm tiền chứ liệu gì,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Đúng ngay cái ngày chơi gặp bọn trẻ trâu phá game :v :v,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+đoạn đầu tưởng thầy cướp giật đồ,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Nghic nó chán :)),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Quý vị đừng mong Việt nam phát triển nhé. Nhìn sơ sơ cũng thấy tụi nó coi chế độ là quan trọng chứ ko phải đất nước, dẫn chứng nhẹ cái nè: CHXHCN VN đặt tên nước cũng phải đặt cái quái thái xhcn lên trước rồi mới đến Việt Nam, nghĩa là chế độ trước rồi",2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+"từ dịch này thấy ý thức người nhật xăng đổ nửa bình, nhưng giấy vệ sinh không thể thiếu. không hy sinh bản thân để cứu người khác, nhưng dính dịch thì kéo nhiều người dính theo.",2,HATE,0,2,0,2,CLEAN,HATE,CLEAN,HATE,0,1,0,1
+Nguyễn Đức nhìn dị vcđ ra đẹp đ đâu,0,CLEAN,0,2,1,0,CLEAN,HATE,OFFENSIVE,CLEAN,1,0,0,1
+Phò cũng có phò yêu nước chứ 😂,0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+Mua sắt vụn về làm phương tiện chiến đấu! Đắng lòng,1,OFFENSIVE,0,0,1,1,CLEAN,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+Bữa sau chị chặn đường chị đánh cười ỉa,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Ngo BoiNgoc giống bên Úc lợn. Tự cách ly nên mới có chuyện dương tính vẫn đi siêu thị shopping. Đang chờ kqua xét nghiệm vẫn đi hoà nhạc 🤣 vl dân chủ. Nghĩ nó chán,2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+Có gì mà nguỵ biện. Nghĩ tí là ra ấy mà 😘,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+nước mĩ văn minh mà sao có thể tồn tại mấy thành phần như vậy lên nói chuyện...?,0,CLEAN,0,1,2,0,CLEAN,OFFENSIVE,HATE,CLEAN,1,0,0,1
+*ĐÚNG NÓ..,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Quang Minh best xiaolin :v,0,CLEAN,2,2,2,0,HATE,HATE,HATE,CLEAN,0,0,0,1
+Trend như con cật cũng đi đú,1,OFFENSIVE,1,1,2,1,OFFENSIVE,OFFENSIVE,HATE,OFFENSIVE,1,1,0,1
+trong khi tao đang đau đầu vì nợ nần thì chúng mày chỉ nghỉ đến việc đit nhau thôi à,2,HATE,0,0,1,2,CLEAN,CLEAN,OFFENSIVE,HATE,0,0,0,1
+"Nè bạn ơi, bán hàng fake thì ko nói, nhiều ng bán lắm bạn, quan trong là bán hàng mà ko biết điều nên ng ta ghét thôi",0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Đã vội quên nhanh lời Cụ Thiệu,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Đường lối của Đảng 😂,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+gê quó òhh,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Cu Tuấn,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Quá chán,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Hoàng Khánh Huyền thôi cái này chết đấy:v,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Thầy éo đi show nữa ak 😄,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+chậm con cặc,1,OFFENSIVE,1,2,2,1,OFFENSIVE,HATE,HATE,OFFENSIVE,1,0,0,1
+Đủ Thứ Thích Ad đăng bài này cũng là Bồn Kỳ Lắc nè nè nè 🙂,2,HATE,2,2,0,2,HATE,HATE,CLEAN,HATE,1,1,0,1
+"Thì kệ QH chứ ,quan tâm đến chuyện tc ngta làm gì",0,CLEAN,1,1,1,0,OFFENSIVE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Nhai kẹo cao su.,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Đg leen thjeen đường đó,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Cho con Nhung đó trả 400 tỷ lại cho đất nước,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Bọn này đã kí hợp đồng bán biển giờ kí thêm hợp đồng bán đất,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"đảng csvn không bị Mỹ mua, mà bị TQ sai khiến như sai tôi mọi, có đập tét mỏ thì cũng ráng cắn răng dạ dạ... ""16 vàng 4 tốt""",2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+con nao vay ???????????,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Có thể là do thế lực thù địch lợi dụng những hôm đêm tối đã ra đào bới bờ kè, khiến cho bờ kè bị sạt lở. Đây là 1 trong những chiêu trò kích động người dân của bè lũ phản động. :3",2,HATE,0,0,2,2,CLEAN,CLEAN,HATE,HATE,0,0,1,1
+cakhia cực mạnh :)),0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+20/10 em tăng abe một bó nhan nhé!,0,CLEAN,0,2,2,0,CLEAN,HATE,HATE,CLEAN,1,0,0,1
+"Đúng ! vô cùng biết ơn lịch sử ngôn ngữ nước nhà và Ngài Alexsandre de Rhodes nhưng công minh mà nói, vì muốn thâm nhập dể dàng vào dân tộc Việt Nam để truyền đạo, các linh mục thời ấy đã dựa vào âm ngữ (giọng nói ) đặc thù của dân Việt, nó khác hoàn",0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+Ns vậy lại xúc phạm cái đầu b**i 😐,2,HATE,0,2,1,2,CLEAN,HATE,OFFENSIVE,HATE,0,1,0,1
+vụ này dạo này lắng xuốg r mà. nay s lại v. ai ở đó. nói ae biết cái coi. hóg qá chừg hà -_-,0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+Thôi chờ Mỹ giải phóng xong ta ra xin lại vậy. Kkk,0,CLEAN,1,0,0,0,OFFENSIVE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Biet the dung quay lai 💔,0,CLEAN,1,1,0,0,OFFENSIVE,OFFENSIVE,CLEAN,CLEAN,0,0,1,1
+"Trâu bò chứ ko phải người mà. 🤔 Sức chịu đựng của dân thủ đô thật đáng ngưỡng mộ. Hàng ngày họ hít thủy ngân, bụi mịn ô nhiễm, uống nước thải qua đường ống làm bằng vật liệu phế thải trung quốc (ống nước bể mấy chục lần), ăn thực phẩm chứa chất độc hại",1,OFFENSIVE,2,0,2,1,HATE,CLEAN,HATE,OFFENSIVE,0,0,0,1
+May quá đéo có tiền mua xe,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Thiều Thị Thanh Nga 🤭 thế mà cái kết ko có hậu cho hệ sinh thái j cả, ức chế vãi",0,CLEAN,2,1,1,0,HATE,OFFENSIVE,OFFENSIVE,CLEAN,0,0,0,1
+Nhỏ kkk đi chỗ khác dởi mau lên,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+"Ơn giời bác đây rồi , mong bác ko bị để còn tiên tri cho chúng cháu, bác nhớ ở nhà nhé ko là covis nó hốt bác đấy, xã hội chủ nghĩa muôn năm cộng sản muôn năm",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Thế mấy người lây cho nhau, thì lây từ ai",0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Tất cả đầu ổn ngoại trừ cái mặt của nhân vật nam 🤣💩,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Lê Văn Quật nhớ thời ffq :)),0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Tui puồn gke ợ 🤧,0,CLEAN,0,0,1,0,CLEAN,CLEAN,OFFENSIVE,CLEAN,1,1,0,1
+Con trai cũng tưởng mình là hoàng tử đấy thôi cũng có thằng bắt con gái đợi hết mẹ tuổi thanh xuân rồi cho câu anh yêu người khác rồi chia tay :),0,CLEAN,0,0,2,0,CLEAN,CLEAN,HATE,CLEAN,1,1,0,1
+"Bọn anh nó đợi người chết bằng bệnh cúm ấy mới quan tâm, qua bên đó đeo khẩu trang nó kỳ thị khỏi nói",0,CLEAN,2,0,0,0,HATE,CLEAN,CLEAN,CLEAN,0,1,1,1
+Chịch xã giao đêêêêê,1,OFFENSIVE,1,1,0,1,OFFENSIVE,OFFENSIVE,CLEAN,OFFENSIVE,1,1,0,1
+Hạnh Hana thiệt chứ clip hay thì share về mà coi. Ăn rồi nhai thuyết phục mãi cay thiệt.,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Con mèo kêu meo meo,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Nha tien tri co gang manh khoe, de sau nay ve viet nam cung tau hai voi bac trong lu nhek",0,CLEAN,2,0,2,0,HATE,CLEAN,HATE,CLEAN,0,1,0,1
+Ngày xưa Đảng Quốc Sư chưa có râu mà giờ có râu rồi chắc là tiên tri vũ trụ này ko bao giờ chết 💀 🤣 😂,0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+Hôm lọ tao đọc cmt còn có thằng bảo. Đã là đam mê thì kể cả có bán đất bán nhà thì vẫn cần phải làm để phục vụ đam mê và nó chửi tao hiểu cc gì về đam mê :)),0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+shib na takka I.n lib HISÜD👍👍,0,CLEAN,0,1,0,0,CLEAN,OFFENSIVE,CLEAN,CLEAN,1,0,1,1
+Nát từ trong ra ngoài 😏😏😏,0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Khẩu nghiệp quá. Con cháu nghe xấu hổ chết.,1,OFFENSIVE,2,0,1,1,HATE,CLEAN,OFFENSIVE,OFFENSIVE,0,0,1,1
+thu xếp thằng này giùm thầy =)),0,CLEAN,0,2,0,0,CLEAN,HATE,CLEAN,CLEAN,1,0,1,1
+"Nói năng :)) gớm, cách li ảnh hưởng đến công việc thật, nhưng k cách ly ảnh hưởng đến cả đất nước, cả mạng người đấy anh ạ :)) dăm ba cái ngột ngạt :))",0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+"Thực sự thì họ chỉ hơn chúng ta về ý thức thôi mà, thứ đã làm cho người Nhật trở nên vĩ đại. Ở VN mn bị ảo tưởng về 1 dân tộc vĩ đại là do dc thứ ánh sáng gì đó chiếu xuyên qua tim và là đất nước có những người ""ngoài hành tinh"" dùng tay ko quật ngã UH1, tắt động cơ máy bay ẩn trong mây, đút đầu vào lỗ châu mai,.. Chỉ có trên thiên đường mới có những vị thần như thế",0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1
+"Đúng rồi, nhìn có ria mép , với mặt giống đàn ông vcl :v",0,CLEAN,0,1,1,0,CLEAN,OFFENSIVE,OFFENSIVE,CLEAN,1,0,0,1
+Chưa chắc Mỹ bị nhiễm virus corona Vũ hán (của virus Trung CỘNG) nhiều hơn Mỹ.,0,CLEAN,2,2,0,0,HATE,HATE,CLEAN,CLEAN,0,0,1,1

@@ -1,2 +1,2 @@
 model,best_epoch,best_dev_f1,accuracy,precision_macro,recall_macro,f1_macro,vocab_size,max_len,batch_size,embed_dim,hidden_dim,num_layers
-BiLSTM,11,0.6237,0.8293,0.5895,0.6512,0.615,8681,47,64,300,128,2
+BiLSTM,8,0.6194,0.8288,0.5899,0.6494,0.6146,8331,256,128,300,128,2

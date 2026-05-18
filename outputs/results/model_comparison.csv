@@ -1,0 +1,5 @@
+model,accuracy,precision_macro,recall_macro,f1_macro
+PhoBERT,0.8479,0.6291,0.6877,0.6503
+SVM,0.8622,0.648,0.6324,0.6395
+DeBERTa,0.8566,0.6366,0.6425,0.6386
+BiLSTM,0.8288,0.5899,0.6494,0.6146
