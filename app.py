@@ -16,7 +16,6 @@ import torch.nn as nn
 from pyvi import ViTokenizer
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from torch.utils.data import DataLoader, Dataset
-from transformers import AutoTokenizer
 
 warnings.filterwarnings("ignore")
 
@@ -24,7 +23,7 @@ st.set_page_config(
     page_title="DLNLP Demo",
     page_icon="🧠",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="collapsed",
 )
 
 PROJECT_ROOT = Path(__file__).resolve().parent
@@ -37,6 +36,8 @@ PHOBERT_DIR = MODEL_DIR / "phobert_base"
 LABEL_MAP = {0: "CLEAN", 1: "OFFENSIVE", 2: "HATE"}
 LABEL_VI = {0: "Bình thường", 1: "Công kích", 2: "Thù ghét"}
 LABEL_COLOR = {0: "#16a34a", 1: "#f59e0b", 2: "#dc2626"}
+LABEL_BG = {0: "#dcfce7", 1: "#ffedd5", 2: "#fee2e2"}
+LABEL_TEXT = {0: "#14532d", 1: "#7c2d12", 2: "#7f1d1d"}
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -189,7 +190,8 @@ def load_phobert_artifacts() -> Optional[Dict[str, Any]]:
         return None
 
     try:
-        from transformers import AutoModelForSequenceClassification
+        from transformers.models.auto.modeling_auto import AutoModelForSequenceClassification
+        from transformers.models.auto.tokenization_auto import AutoTokenizer
 
         tokenizer = AutoTokenizer.from_pretrained(model_dir)
         model = AutoModelForSequenceClassification.from_pretrained(model_dir).to(DEVICE)
@@ -291,107 +293,303 @@ def predict_svm(text: str, artifacts: Tuple[Any, Any]):
     cleaned = clean_text(text)
     features = vectorizer.transform([cleaned])
     pred_id = int(model.predict(features)[0])
-    return pred_id
+
+    if hasattr(model, "predict_proba"):
+        probs = model.predict_proba(features)[0]
+    elif hasattr(model, "decision_function"):
+        scores = model.decision_function(features)
+        if np.ndim(scores) == 1:
+            scores = np.column_stack([-scores, scores])
+        probs = torch.softmax(torch.tensor(scores, dtype=torch.float32), dim=1).squeeze(0).detach().cpu().numpy()
+    else:
+        probs = None
+
+    return pred_id, probs
 
 
-def label_card(label_id: int, title: str, subtitle: str, prob: Optional[float] = None):
-    color = LABEL_COLOR.get(label_id, "#334155")
-    probability_text = f"{prob:.2%}" if prob is not None else ""
+def top2_labels(probs: Optional[np.ndarray]) -> str:
+    if probs is None:
+        return "Top 2: N/A"
+
+    probs = np.asarray(probs, dtype=float)
+    if probs.size == 0:
+        return "Top 2: N/A"
+
+    order = probs.argsort()[::-1][:2]
+    parts = [f"{LABEL_MAP.get(int(index), 'Unknown')} {probs[int(index)]:.1%}" for index in order]
+    return f"Top 2: {' | '.join(parts)}"
+
+
+def _safe_label_id(label_id: Optional[int]) -> Optional[int]:
+    if label_id is None:
+        return None
+    try:
+        label_id = int(label_id)
+    except Exception:
+        return None
+    return label_id if label_id in LABEL_MAP else None
+
+
+def _format_confidence(conf: Optional[float]) -> str:
+    if conf is None:
+        return "N/A"
+    try:
+        return f"{float(conf) * 100:.1f}%"
+    except Exception:
+        return "N/A"
+
+
+def confidence_from_probs(pred_id: Optional[int], probs: Optional[np.ndarray]) -> Optional[float]:
+    safe_id = _safe_label_id(pred_id)
+    if safe_id is None or probs is None:
+        return None
+    try:
+        probs = np.asarray(probs, dtype=float)
+        if probs.size == 0:
+            return None
+        return float(probs[safe_id])
+    except Exception:
+        return None
+
+
+def majority_vote(pred_ids: list[int]) -> int:
+    valid = [pred for pred in pred_ids if pred in LABEL_MAP]
+    if not valid:
+        return 0
+    return Counter(valid).most_common(1)[0][0]
+
+
+def consensus_status(pred_ids: list[int]) -> bool:
+    valid = [pred for pred in pred_ids if pred in LABEL_MAP]
+    if len(valid) <= 1:
+        return True
+    return len(set(valid)) == 1
+
+
+def render_model_card(model_name: str, label_id: Optional[int], confidence: Optional[float], *, available: bool):
+    safe_id = _safe_label_id(label_id)
+    if not available:
+        label_code = "-"
+        label_primary = "KHÔNG KHẢ DỤNG"
+    elif safe_id is None:
+        label_code = "-"
+        label_primary = "CHƯA DỰ ĐOÁN"
+    else:
+        label_code = LABEL_MAP[safe_id]
+        label_primary = label_code
+
+    bg = "#f1f5f9" if safe_id is None else LABEL_BG[safe_id]
+    border = "#94a3b8" if safe_id is None else LABEL_COLOR[safe_id]
+    text = "#0f172a" if safe_id is None else LABEL_TEXT[safe_id]
+
+    conf_text = _format_confidence(confidence) if available and safe_id is not None else "N/A"
+
     st.markdown(
         f"""
-        <div class="result-card" style="border-left: 6px solid {color};">
-            <div class="result-title">{title}</div>
-            <div class="result-subtitle">{subtitle}</div>
-            <div class="result-badge" style="background: {color};">{LABEL_MAP.get(label_id, 'Unknown')}</div>
-            <div class="result-prob">{probability_text}</div>
+        <div class="model-card" style="background: {bg}; border: 1px solid rgba(148,163,184,0.35);">
+            <div class="model-card__head">
+                <div class="model-card__name">{model_name}</div>
+                <div class="model-card__status">{'Sẵn sàng' if available else 'Thiếu artifact'}</div>
+            </div>
+            <div class="model-card__label" style="color: {text};">{label_primary}</div>
+            <div class="model-card__meta">
+                <span class="pill" style="border-color:{border}; color:{border};">{label_code}</span>
+                <span class="confidence">Độ tin cậy: <b>{conf_text}</b></span>
+            </div>
         </div>
         """,
         unsafe_allow_html=True,
     )
 
 
-st.markdown(
-    """
-    <style>
-    .stApp {
-        background:
-            radial-gradient(circle at top left, rgba(59, 130, 246, 0.16), transparent 32%),
-            radial-gradient(circle at top right, rgba(16, 185, 129, 0.12), transparent 28%),
-            linear-gradient(180deg, #f8fafc 0%, #eef2ff 100%);
-    }
-    .hero {
-        padding: 1.4rem 1.5rem;
-        border-radius: 24px;
-        background: rgba(255, 255, 255, 0.88);
-        border: 1px solid rgba(148, 163, 184, 0.25);
-        box-shadow: 0 18px 40px rgba(15, 23, 42, 0.08);
-        margin-bottom: 1rem;
-    }
-    .hero h1 {
-        margin: 0;
-        font-size: 2.05rem;
-        color: #0f172a;
-    }
-    .hero p {
-        margin: 0.4rem 0 0 0;
-        color: #475569;
-        font-size: 1rem;
-        line-height: 1.55;
-    }
-    .result-card {
-        padding: 1rem 1rem 0.9rem 1rem;
-        border-radius: 18px;
-        background: rgba(255, 255, 255, 0.92);
-        box-shadow: 0 12px 26px rgba(15, 23, 42, 0.07);
-        min-height: 140px;
-    }
-    .result-title {
-        font-size: 0.86rem;
-        font-weight: 700;
-        color: #475569;
-        letter-spacing: 0.04em;
-        text-transform: uppercase;
-    }
-    .result-subtitle {
-        color: #64748b;
-        margin-top: 0.3rem;
-        margin-bottom: 0.7rem;
-        font-size: 0.92rem;
-    }
-    .result-badge {
-        display: inline-block;
-        padding: 0.35rem 0.75rem;
-        border-radius: 999px;
-        color: white;
-        font-weight: 700;
-        margin-bottom: 0.45rem;
-    }
-    .result-prob {
-        color: #0f172a;
-        font-weight: 700;
-        font-size: 1.1rem;
-    }
-    .small-panel {
-        padding: 0.9rem 1rem;
-        border-radius: 18px;
-        background: rgba(255, 255, 255, 0.9);
-        border: 1px solid rgba(148, 163, 184, 0.2);
-        box-shadow: 0 8px 22px rgba(15, 23, 42, 0.06);
-        margin-bottom: 0.8rem;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+def render_final_conclusion(label_id: int, confidence: Optional[float] = None, note: Optional[str] = None):
+    safe_id = _safe_label_id(label_id) or 0
+    bg = LABEL_BG[safe_id]
+    border = LABEL_COLOR[safe_id]
+    text = LABEL_TEXT[safe_id]
+    conf_text = _format_confidence(confidence)
+    note_html = "" if not note else f"<div class='final-note'>{note}</div>"
+
+    st.markdown(
+        f"""
+        <div class="final-card" style="background:{bg}; border: 1px solid rgba(148,163,184,0.35);">
+            <div class="final-card__head">
+                <div class="final-card__title">Kết luận cuối</div>
+                <span class="pill" style="background:{border}; color:white; border-color:{border};">{LABEL_MAP[safe_id]}</span>
+            </div>
+            <div class="final-card__label" style="color:{text};">{LABEL_MAP[safe_id]}</div>
+            <div class="final-card__meta">Độ tin cậy (tham khảo): <b>{conf_text}</b></div>
+            {note_html}
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
+def inject_ui_css():
+    st.markdown(
+        """
+        <style>
+        .stApp {
+            background: linear-gradient(180deg, #f8fafc 0%, #eef2ff 100%);
+        }
+        .block-container {
+            padding-top: 1.2rem;
+            padding-bottom: 2.2rem;
+        }
+
+        section[data-testid="stSidebar"] .block-container {
+            padding-top: 1.2rem;
+        }
+        .sidebar-card {
+            padding: 0.9rem 0.95rem;
+            border-radius: 18px;
+            background: rgba(255, 255, 255, 0.9);
+            border: 1px solid rgba(148, 163, 184, 0.25);
+        }
+        .status-row {
+            display: flex;
+            justify-content: space-between;
+            gap: 0.6rem;
+            margin: 0.3rem 0;
+            font-size: 0.92rem;
+            color: #0f172a;
+        }
+        .status-row span {
+            color: #475569;
+        }
+
+        .hero {
+            padding: 1.15rem 1.25rem;
+            border-radius: 22px;
+            background: rgba(255, 255, 255, 0.92);
+            border: 1px solid rgba(148, 163, 184, 0.25);
+            box-shadow: 0 18px 40px rgba(15, 23, 42, 0.08);
+            margin-bottom: 1rem;
+        }
+        .hero h1 {
+            margin: 0;
+            font-size: 1.85rem;
+            color: #0f172a;
+        }
+        .hero p {
+            margin: 0.4rem 0 0 0;
+            color: #475569;
+            font-size: 1rem;
+            line-height: 1.55;
+        }
+
+        .model-card {
+            padding: 1.0rem 1.05rem;
+            border-radius: 18px;
+            box-shadow: 0 10px 26px rgba(15, 23, 42, 0.06);
+            min-height: 140px;
+        }
+        .model-card__head {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            gap: 0.8rem;
+            margin-bottom: 0.55rem;
+        }
+        .model-card__name {
+            font-size: 0.95rem;
+            font-weight: 800;
+            color: #0f172a;
+            letter-spacing: 0.02em;
+        }
+        .model-card__status {
+            font-size: 0.82rem;
+            color: #64748b;
+        }
+        .model-card__label {
+            font-size: 1.25rem;
+            font-weight: 900;
+            margin-bottom: 0.55rem;
+        }
+        .model-card__meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 0.8rem;
+            flex-wrap: wrap;
+        }
+        .pill {
+            display: inline-flex;
+            align-items: center;
+            border: 1px solid rgba(148, 163, 184, 0.35);
+            border-radius: 999px;
+            padding: 0.18rem 0.55rem;
+            font-weight: 800;
+            font-size: 0.82rem;
+            background: rgba(255, 255, 255, 0.5);
+        }
+        .confidence {
+            color: #0f172a;
+            font-size: 0.9rem;
+        }
+
+        .final-card {
+            padding: 1.15rem 1.2rem;
+            border-radius: 20px;
+            box-shadow: 0 16px 34px rgba(15, 23, 42, 0.09);
+        }
+        .final-card__head {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 0.8rem;
+            margin-bottom: 0.45rem;
+        }
+        .final-card__title {
+            font-size: 1.0rem;
+            font-weight: 900;
+            color: #0f172a;
+        }
+        .final-card__label {
+            font-size: 1.55rem;
+            font-weight: 950;
+            margin-bottom: 0.25rem;
+        }
+        .final-card__meta {
+            color: #334155;
+            font-size: 0.95rem;
+        }
+        .final-note {
+            margin-top: 0.6rem;
+            color: #475569;
+            font-size: 0.92rem;
+            line-height: 1.55;
+        }
+
+        div[data-testid="stTextArea"] textarea {
+            border-radius: 16px;
+        }
+
+        button[data-testid="baseButton-primary"] {
+            border-radius: 14px !important;
+            padding: 0.55rem 1rem !important;
+            border: 1px solid rgba(59, 130, 246, 0.35) !important;
+            background: linear-gradient(90deg, #2563eb 0%, #4f46e5 100%) !important;
+            color: white !important;
+            font-weight: 800 !important;
+        }
+        button[data-testid="baseButton-secondary"] {
+            border-radius: 14px !important;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
+inject_ui_css()
 
 st.markdown(
     """
     <div class="hero">
         <h1>Phân loại bình luận độc hại tiếng Việt</h1>
-        <p>
-            Giao diện demo để nhập một câu bất kỳ, sau đó so sánh dự đoán từ TF-IDF + SVM, BiLSTM,
-            và PhoBERT nếu mô hình đã sẵn sàng. Toàn bộ model được đọc từ các file đã lưu trong workspace.
-        </p>
+        <p>Nhập một bình luận bất kỳ và so sánh dự đoán từ 3 mô hình: TF‑IDF + SVM, BiLSTM và PhoBERT.</p>
     </div>
     """,
     unsafe_allow_html=True,
@@ -410,27 +608,32 @@ bilstm_available = models["bilstm"] is not None
 phobert_available = models["phobert"] is not None
 
 with st.sidebar:
-    st.markdown("### Trạng thái demo")
-    st.write(f"**Thiết bị:** {DEVICE}")
-    st.write(f"**SVM:** {'Sẵn sàng' if svm_available else 'Thiếu file'}")
-    st.write(f"**BiLSTM:** {'Sẵn sàng' if bilstm_available else 'Thiếu file'}")
-    st.write(f"**PhoBERT:** {'Sẵn sàng' if phobert_available else 'Chưa có model hoàn chỉnh'}")
+    st.markdown("### Demo")
+    st.markdown(
+        f"""
+        <div class="sidebar-card">
+            <div class="status-row"><b>Thiết bị</b><span>{DEVICE}</span></div>
+            <div class="status-row"><b>SVM</b><span>{'Sẵn sàng' if svm_available else 'Thiếu artifact'}</span></div>
+            <div class="status-row"><b>BiLSTM</b><span>{'Sẵn sàng' if bilstm_available else 'Thiếu artifact'}</span></div>
+            <div class="status-row"><b>PhoBERT</b><span>{'Sẵn sàng' if phobert_available else 'Thiếu artifact'}</span></div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
-    st.markdown("### Văn bản mẫu")
-    if "input_text" not in st.session_state:
-        st.session_state["input_text"] = ""
+    st.markdown("\n")
+    with st.expander("Văn bản mẫu", expanded=True):
+        if "input_text" not in st.session_state:
+            st.session_state["input_text"] = ""
 
-    for label, sample_text in SAMPLES.items():
-        if st.button(label, use_container_width=True):
-            st.session_state["input_text"] = sample_text
+        for label, sample_text in SAMPLES.items():
+            if st.button(label, use_container_width=True):
+                st.session_state["input_text"] = sample_text
 
-    st.markdown("### Ghi chú")
-    st.caption("Notebook chỉ dùng để train và lưu artifact. Ứng dụng này đọc lại file đã lưu để demo dự đoán.")
-
-left_col, right_col = st.columns([1.35, 0.95], gap="large")
+left_col, right_col = st.columns([1.4, 1.0], gap="large")
 
 with left_col:
-    st.markdown("### Nhập nội dung cần kiểm tra")
+    st.markdown("### Nhập nội dung")
     input_text = st.text_area(
         "Nội dung bình luận",
         key="input_text",
@@ -439,143 +642,122 @@ with left_col:
         label_visibility="collapsed",
     )
 
-    action_col, helper_col = st.columns([0.25, 0.75])
+    action_col, helper_col = st.columns([0.33, 0.67], gap="medium")
     with action_col:
         predict_clicked = st.button("Dự đoán", use_container_width=True, type="primary")
     with helper_col:
         if st.button("Xóa nội dung", use_container_width=True):
             st.session_state["input_text"] = ""
+            st.session_state.pop("last_results", None)
+            st.session_state.pop("last_vote", None)
             st.rerun()
 
-    st.markdown("### Chuẩn hóa đầu vào")
     cleaned_preview = clean_text(input_text)
     segmented_preview = segment_text(cleaned_preview)
-    preview_col1, preview_col2 = st.columns(2)
-    with preview_col1:
-        st.markdown("**Text sau làm sạch**")
+
+    with st.expander("Tiền xử lý đầu vào", expanded=False):
+        st.markdown("**Văn bản sau chuẩn hóa**")
         st.code(cleaned_preview or "(trống)")
-    with preview_col2:
-        st.markdown("**Text sau tách từ**")
+        st.markdown("**Văn bản sau tách từ**")
         st.code(segmented_preview or "(trống)")
 
 with right_col:
-    st.markdown("### Tổng quan mô hình")
-    c1, c2, c3 = st.columns(3)
-    with c1:
-        st.metric("SVM", "Sẵn sàng" if svm_available else "Thiếu")
-    with c2:
-        st.metric("BiLSTM", "Sẵn sàng" if bilstm_available else "Thiếu")
-    with c3:
-        st.metric("PhoBERT", "Sẵn sàng" if phobert_available else "Thiếu")
+    st.markdown("### Kết quả dự đoán")
 
-    st.markdown("### Dự đoán nhanh")
-    if not input_text.strip():
-        st.info("Nhập một bình luận rồi bấm **Dự đoán** để xem kết quả.")
-    elif predict_clicked:
-        results = []
+    if "last_results" not in st.session_state:
+        st.session_state["last_results"] = None
+    if "last_vote" not in st.session_state:
+        st.session_state["last_vote"] = None
+
+    if predict_clicked and input_text.strip():
+        results: Dict[str, Dict[str, Any]] = {
+            "svm": {"name": "TF‑IDF + SVM", "available": svm_available, "pred": None, "probs": None},
+            "bilstm": {"name": "BiLSTM", "available": bilstm_available, "pred": None, "probs": None},
+            "phobert": {"name": "PhoBERT", "available": phobert_available, "pred": None, "probs": None},
+        }
 
         if svm_available:
-            svm_pred = predict_svm(input_text, models["svm"])
-            results.append(("TF-IDF + SVM", svm_pred, None))
-        else:
-            results.append(("TF-IDF + SVM", -1, None))
+            pred, probs = predict_svm(input_text, models["svm"])
+            results["svm"].update({"pred": pred, "probs": probs})
 
         if bilstm_available:
-            bilstm_pred, bilstm_probs = predict_bilstm(input_text, models["bilstm"])
-            results.append(("BiLSTM", bilstm_pred, float(bilstm_probs[bilstm_pred])))
-        else:
-            results.append(("BiLSTM", -1, None))
+            pred, probs = predict_bilstm(input_text, models["bilstm"])
+            results["bilstm"].update({"pred": pred, "probs": probs})
 
         if phobert_available:
-            phobert_pred, phobert_probs = predict_phobert(input_text, models["phobert"])
-            results.append(("PhoBERT", phobert_pred, float(phobert_probs[phobert_pred])))
-        else:
-            results.append(("PhoBERT", -1, None))
+            pred, probs = predict_phobert(input_text, models["phobert"])
+            results["phobert"].update({"pred": pred, "probs": probs})
 
-        valid_votes = [pred for _, pred, _ in results if pred in LABEL_MAP]
-        if valid_votes:
-            vote = Counter(valid_votes).most_common(1)[0][0]
-        else:
-            vote = 0
+        preds_for_vote = [
+            results["svm"]["pred"],
+            results["bilstm"]["pred"],
+            results["phobert"]["pred"],
+        ]
+        preds_for_vote = [p for p in preds_for_vote if p is not None]
+        vote = majority_vote([int(p) for p in preds_for_vote]) if preds_for_vote else 0
 
-        top_left, top_mid, top_right = st.columns(3)
-        with top_left:
-            label_card(vote, "Kết luận gợi ý", "Theo đa số mô hình", None)
-        with top_mid:
-            label_card(results[0][1], "SVM", "Mô hình nền tảng", results[0][2])
-        with top_right:
-            label_card(results[1][1], "BiLSTM", "Mô hình tuần tự", results[1][2])
+        st.session_state["last_results"] = results
+        st.session_state["last_vote"] = vote
 
-        if phobert_available:
-            st.markdown("### PhoBERT")
-            phobert_row = results[2]
-            label_card(phobert_row[1], "PhoBERT", "Mô hình ngữ cảnh", phobert_row[2])
-        else:
-            st.warning("PhoBERT chưa có artifact hoàn chỉnh nên app bỏ qua phần dự đoán này.")
+    results = st.session_state.get("last_results")
+    vote = st.session_state.get("last_vote")
 
-        st.markdown("### Giải thích nhanh")
-        if vote == 0:
-            st.success("Hệ thống nghiêng về bình thường / không độc hại.")
-        elif vote == 1:
-            st.warning("Hệ thống nghiêng về công kích / tiêu cực.")
-        else:
-            st.error("Hệ thống nghiêng về nội dung thù ghét / độc hại nặng.")
-
-        summary_rows = []
-        for model_name, pred_id, prob in results:
-            if pred_id in LABEL_MAP:
-                summary_rows.append(
-                    {
-                        "Mô hình": model_name,
-                        "Nhãn dự đoán": LABEL_VI.get(pred_id, LABEL_MAP[pred_id]),
-                        "Mã nhãn": LABEL_MAP[pred_id],
-                        "Xác suất / độ tin cậy": None if prob is None else round(prob, 4),
-                    }
-                )
-            else:
-                summary_rows.append(
-                    {
-                        "Mô hình": model_name,
-                        "Nhãn dự đoán": "Không khả dụng",
-                        "Mã nhãn": "-",
-                        "Xác suất / độ tin cậy": "-",
-                    }
-                )
-
-        st.dataframe(pd.DataFrame(summary_rows), use_container_width=True, hide_index=True)
+    cards = st.columns(3, gap="large")
+    if results is None:
+        with cards[0]:
+            render_model_card("TF‑IDF + SVM", None, None, available=svm_available)
+        with cards[1]:
+            render_model_card("BiLSTM", None, None, available=bilstm_available)
+        with cards[2]:
+            render_model_card("PhoBERT", None, None, available=phobert_available)
+        st.info("Nhập một bình luận và bấm **Dự đoán** để xem kết quả.")
     else:
-        st.info("Bấm **Dự đoán** để chạy các mô hình đã lưu trên văn bản hiện tại.")
+        svm_pred = results["svm"]["pred"]
+        bilstm_pred = results["bilstm"]["pred"]
+        phobert_pred = results["phobert"]["pred"]
 
-st.markdown("---")
-st.markdown("### Cấu trúc dữ liệu được dùng")
-info_col1, info_col2, info_col3 = st.columns(3)
-with info_col1:
-    st.markdown(
-        f"""
-        <div class="small-panel">
-        <strong>Input</strong><br/>
-        `data/raw` → notebook 1 → `data/processed`
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
-with info_col2:
-    st.markdown(
-        f"""
-        <div class="small-panel">
-        <strong>Model</strong><br/>
-        `outputs/models` chứa SVM, BiLSTM và PhoBERT
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
-with info_col3:
-    st.markdown(
-        f"""
-        <div class="small-panel">
-        <strong>Kết quả</strong><br/>
-        `outputs/results` và `outputs/figures` lưu báo cáo
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+        svm_conf = confidence_from_probs(svm_pred, results["svm"]["probs"])
+        bilstm_conf = confidence_from_probs(bilstm_pred, results["bilstm"]["probs"])
+        phobert_conf = confidence_from_probs(phobert_pred, results["phobert"]["probs"])
+
+        with cards[0]:
+            render_model_card("TF‑IDF + SVM", svm_pred, svm_conf, available=bool(results["svm"]["available"]))
+        with cards[1]:
+            render_model_card("BiLSTM", bilstm_pred, bilstm_conf, available=bool(results["bilstm"]["available"]))
+        with cards[2]:
+            render_model_card("PhoBERT", phobert_pred, phobert_conf, available=bool(results["phobert"]["available"]))
+
+        st.caption("Diễn giải nhãn: CLEAN = Bình thường · OFFENSIVE = Công kích · HATE = Thù ghét")
+
+        pred_ids = [
+            int(svm_pred) if svm_pred is not None else -1,
+            int(bilstm_pred) if bilstm_pred is not None else -1,
+            int(phobert_pred) if phobert_pred is not None else -1,
+        ]
+        is_consensus = consensus_status(pred_ids)
+
+        st.markdown("\n")
+        if not is_consensus:
+            st.warning("Đây là trường hợp khó, các mô hình đưa ra dự đoán khác nhau.")
+
+        st.markdown("\n")
+        note = "Theo nguyên tắc đa số phiếu từ các mô hình khả dụng." if vote is not None else None
+        final_label = int(vote or 0)
+        final_conf_candidates: list[float] = []
+        for pred, conf in (
+            (svm_pred, svm_conf),
+            (bilstm_pred, bilstm_conf),
+            (phobert_pred, phobert_conf),
+        ):
+            if pred is None or conf is None:
+                continue
+            try:
+                if int(pred) == final_label:
+                    final_conf_candidates.append(float(conf))
+            except Exception:
+                continue
+
+        final_conf = float(np.mean(final_conf_candidates)) if final_conf_candidates else None
+        render_final_conclusion(final_label, final_conf, note)
+
+        st.caption("Độ tin cậy là xác suất lớp dự đoán (nếu mô hình có cung cấp).")

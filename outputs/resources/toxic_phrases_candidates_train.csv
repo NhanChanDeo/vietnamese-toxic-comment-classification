@@ -29,6 +29,7 @@ phản động,28,9,2,train
 nó,28,3,1,train
 chui,26,4,1,train
 cl,26,2,1,train
+<<<<<<< HEAD
 xạo lồn,24,7,2,train
 địt mẹ,24,6,2,train
 lon,23,3,1,train
@@ -673,10 +674,757 @@ chết me,2,7,2,train
 3/// xỏ lá,2,10,3,train
 hán gian,2,8,2,train
 khon nan,2,8,2,train
+=======
+địt mẹ,24,6,2,train
+xạo lồn,24,7,2,train
+má,23,2,1,train
+lon,23,3,1,train
+tụi nó,23,6,2,train
+đcm,21,3,1,train
+óc chó,21,6,2,train
+khùng,20,5,1,train
+con chó,20,7,2,train
+ỉa,19,2,1,train
+bố,19,2,1,train
+chúng,19,5,1,train
+dell,18,4,1,train
+nhục,18,4,1,train
+khẩu nghiệp,17,11,2,train
+cướp,17,4,1,train
+khung,17,5,1,train
+loz,17,3,1,train
+méo,16,3,1,train
+xl,16,2,1,train
+giết,16,4,1,train
+clm,16,3,1,train
+đánh,16,4,1,train
+vãi,16,3,1,train
+cứt,16,3,1,train
+bê đê,15,5,2,train
+cmn,15,3,1,train
+mất dạy,15,7,2,train
+tù,15,2,1,train
+cmnr,14,4,1,train
+xấu,14,3,1,train
+đái,14,3,1,train
+bắn,14,3,1,train
+tham nhũng,14,10,2,train
+mồm,14,3,1,train
+cặc,14,3,1,train
+nứng,13,4,1,train
+chết mẹ,13,7,2,train
+chả,13,3,1,train
+điên,13,4,1,train
+trẻ trâu,12,8,2,train
+con mẹ,12,6,2,train
+vkl,12,3,1,train
+thối nát,12,8,2,train
+dơ,12,2,1,train
+xạo lol,12,7,2,train
+xạo,12,3,1,train
+đứa,12,3,1,train
+cu,12,2,1,train
+thằng chó,11,9,2,train
+vc,11,2,1,train
+thằng ngu,11,9,2,train
+dkm,11,3,1,train
+máu lồn,11,7,2,train
+qq,11,2,1,train
+con bóng,11,8,2,train
+loại,11,4,1,train
+bọn nó,11,6,2,train
+thằng,11,6,1,train
+cút,10,3,1,train
+đkm,10,3,1,train
+mỏ,10,2,1,train
+địt,10,3,1,train
+cm,10,2,1,train
+tụi,10,3,1,train
+bán nước,10,8,2,train
+tụi bây,10,7,2,train
+xàm,10,3,1,train
+đmm,9,3,1,train
+xàm lồn,9,7,2,train
+con bò,9,6,2,train
+thần kinh,9,9,2,train
+deo,9,3,1,train
+láo,9,3,1,train
+cắn,9,3,1,train
+vcc,9,3,1,train
+quần què,9,8,2,train
+tâm thần,9,8,2,train
+tao lao,9,7,2,train
+đb,9,2,1,train
+vãi lồn,8,7,2,train
+lũ chó,8,6,2,train
+trung cộng,8,10,2,train
+xàm lol,8,7,2,train
+bắc kỳ,8,6,2,train
+khốn nạn,8,8,2,train
+đập,8,3,1,train
+đụ má,8,5,2,train
+tởm,8,3,1,train
+mẹ nó,8,5,2,train
+ghét,8,4,1,train
+bò đỏ,8,5,2,train
+đít,8,3,1,train
+con cặc,8,7,2,train
+3///,8,4,1,train
+đấm,7,3,1,train
+dlv,7,3,1,train
+bà,7,2,1,train
+bóng,7,4,1,train
+tay nhanh hơn não,7,17,4,train
+tào lao,7,7,2,train
+bố láo,7,6,2,train
+ngáo,7,4,1,train
+cho,7,3,1,train
+buồi,7,4,1,train
+đụ,7,2,1,train
+cái,7,3,1,train
+ghê,7,3,1,train
+hại,7,3,1,train
+ccc,7,3,1,train
+vailon,7,6,1,train
+dân đen,7,7,2,train
+mat day,7,7,2,train
+clg,7,3,1,train
+tử hình,7,7,2,train
+chán,6,4,1,train
+cức,6,3,1,train
+con di,6,6,2,train
+mày,6,4,1,train
+lừa,6,3,1,train
+lão,6,3,1,train
+me,6,2,1,train
+khủng bố,6,8,2,train
+đàn áp,6,6,2,train
+cmm,6,3,1,train
+đeo,6,3,1,train
+giang hồ,6,8,2,train
+hèn,6,3,1,train
+lone,6,4,1,train
+ẳng,6,3,1,train
+mịa,6,3,1,train
+lôn,6,3,1,train
+ngu vl,6,6,2,train
+chó hùa,6,7,2,train
+sml,6,3,1,train
+thang,6,5,1,train
+lozz,6,4,1,train
+toang,6,5,1,train
+vô học,6,6,2,train
+ăn,6,2,1,train
+con điên,6,8,2,train
+chịch,6,5,1,train
+hắn,6,3,1,train
+ngu dốt,6,7,2,train
+tụi m,6,5,2,train
+câm,6,3,1,train
+đám,6,3,1,train
+súc vật,6,7,2,train
+sàm,6,3,1,train
+nhảm,6,4,1,train
+nổ,6,2,1,train
+ml,6,2,1,train
+dcm,6,3,1,train
+chúng m,6,7,2,train
+giả tạo,6,7,2,train
+ma,6,2,1,train
+tàu cộng,6,8,2,train
+đụ mẹ,6,5,2,train
+thối,5,4,1,train
+tàu khựa,5,8,2,train
+ba que,5,6,2,train
+khựa,5,4,1,train
+chet,5,4,1,train
+má nó,5,5,2,train
+háng,5,4,1,train
+bede,5,4,1,train
+đầu buồi,5,8,2,train
+im mẹ mồm,5,9,3,train
+mù,5,2,1,train
+thằng chó,5,11,2,train
+sủa,5,4,1,train
+sao lon,5,7,2,train
+bú,5,2,1,train
+dmcs,5,4,1,train
+dien,5,4,1,train
+mầy,5,3,1,train
+hùa,5,3,1,train
+não phẳng,5,9,2,train
+tk,5,2,1,train
+cặn bã,5,6,2,train
+bọn chúng,5,9,2,train
+ác,5,2,1,train
+thằng điên,5,10,2,train
+du ma,5,5,2,train
+mụ,5,2,1,train
+ấu dâm,5,6,2,train
+quả báo,5,7,2,train
+đhs,5,3,1,train
+ch!ch,5,5,1,train
+con cu,5,6,2,train
+l*n,5,3,1,train
+nô lệ,5,5,2,train
+phò,5,3,1,train
+con mẹ mày,5,10,3,train
+fake,5,4,1,train
+vãi l,5,5,2,train
+mẹ mồm,5,6,2,train
+bố m,5,4,2,train
+bọn,5,4,1,train
+nghiệp,5,6,1,train
+đốt,5,3,1,train
+chửi,5,5,1,train
+ỉa,5,3,1,train
+nát,4,3,1,train
+ích kỷ,4,6,2,train
+bon,4,3,1,train
+bỏ mẹ,4,5,2,train
+mat dai,4,7,2,train
+khịa,4,4,1,train
+con cac,4,7,2,train
+tự nhục,4,7,2,train
+cẩu,4,3,1,train
+ngáo đá,4,7,2,train
+bọn chó,4,7,2,train
+gà,4,2,1,train
+đ',4,2,1,train
+bố mày,4,6,2,train
+đú,4,2,1,train
+không có não,4,12,3,train
+bẩn,4,3,1,train
+nhồi sọ,4,7,2,train
+trẩu,4,4,1,train
+mài,4,3,1,train
+bò,4,2,1,train
+thăng,4,5,1,train
+đu me,4,5,2,train
+bóng già,4,8,2,train
+vo van hoa,4,10,3,train
+địt mẹ m,4,8,3,train
+đuổi,4,4,1,train
+bất chấp,4,8,2,train
+đmcs,4,4,1,train
+khinh,4,5,1,train
+giả,4,3,1,train
+địt cụ,4,6,2,train
+con đàn bà,4,10,3,train
+xạo l,4,5,2,train
+dâm loạn viên,4,13,3,train
+lú,4,2,1,train
+loạn,4,4,1,train
+sân si,4,6,2,train
+bưng bô,4,7,2,train
+câu like,4,8,2,train
+thủ dâm,4,7,2,train
+hiếp,4,4,1,train
+vãi lol,4,7,2,train
+đạo nhái,4,8,2,train
+con đĩ,4,6,2,train
+trốn,4,4,1,train
+chết,4,5,1,train
+bụng phệ,4,8,2,train
+đớp,4,3,1,train
+chém,4,4,1,train
+no banh xac,4,11,3,train
+lạc hậu,4,7,2,train
+thượng đẳng,4,11,2,train
+đ*,4,2,1,train
+tụi mày,4,7,2,train
+tự tử,4,5,2,train
+l**,4,3,1,train
+kệ mẹ,4,5,2,train
+sua,4,3,1,train
+lạy,4,3,1,train
+xaolol,4,6,1,train
+đ m,4,3,2,train
+nghiệp quật,4,11,2,train
+đéo,4,4,1,train
+chó,4,4,1,train
+vô dụng,4,7,2,train
+tục,4,3,1,train
+phá hoại,4,8,2,train
+sl,4,2,1,train
+xạo loz,4,7,2,train
+hãm,4,3,1,train
+không có ý thức,3,15,4,train
+con thần kinh,3,13,3,train
+mồ tổ cha mày,3,13,4,train
+thg,3,3,1,train
+dmm,3,3,1,train
+mõm,3,3,1,train
+dlike,3,5,1,train
+xamlol,3,6,1,train
+trơ trẽn,3,8,2,train
+3 que,3,5,2,train
+đĩ,3,2,1,train
+lật đổ,3,6,2,train
+hoang tưởng,3,11,2,train
+ngu si,3,6,2,train
+tự ái,3,5,2,train
+độc tài,3,7,2,train
+tàn ác,3,6,2,train
+bake,3,4,1,train
+đu càng,3,7,2,train
+chúng bây,3,10,2,train
+bậy,3,3,1,train
+bần,3,3,1,train
+con ml,3,6,2,train
+lũ mọi rợ,3,9,3,train
+óc cức,3,6,2,train
+vãi đái,3,7,2,train
+gian dối,3,8,2,train
+xao lol,3,7,2,train
+kinh,3,4,1,train
+biến,3,4,1,train
+tiêu diệt,3,9,2,train
+cac,3,3,1,train
+lủ,3,2,1,train
+ông nội,3,7,2,train
+ăn cướp,3,7,2,train
+biến thái,3,9,2,train
+lòi,3,3,1,train
+chửi bậy,3,8,2,train
+đcmm,3,4,1,train
+ngao da,3,7,2,train
+bọn khựa,3,8,2,train
+nhuc,3,4,1,train
+gáy,3,3,1,train
+địt con mẹ,3,10,3,train
+vãi lon,3,7,2,train
+câm mồm,3,7,2,train
+đéo có não,3,10,3,train
+tụi tao,3,7,2,train
+chó vàng,3,8,2,train
+ghet,3,4,1,train
+chưi,3,4,1,train
+ăn bám,3,6,2,train
+phản lại cái động,3,17,4,train
+con ngu,3,7,2,train
+quái,3,4,1,train
+ảo tưởng,3,8,2,train
+cut,3,3,1,train
+cave,3,4,1,train
+linh tinh,3,9,2,train
+quỳ,3,3,1,train
+vãi nồi,3,7,2,train
+duma,3,4,1,train
+fuck,3,4,1,train
+đit,3,3,1,train
+nhai lại,3,8,2,train
+nằm vùng,3,8,2,train
+lợn,3,3,1,train
+nhục mặt,3,8,2,train
+đầu bùi,3,7,2,train
+đéoo,3,4,1,train
+chó đẻ,3,6,2,train
+bú cu,3,5,2,train
+vớ vẩn,3,6,2,train
+xử bắn,3,6,2,train
+lôi,3,3,1,train
+mọi rợ,3,6,2,train
+dam,3,3,1,train
+tham ô,3,6,2,train
+trộm cướp,3,9,2,train
+thiếu ý thức,3,12,3,train
+chó má,3,6,2,train
+bom,3,3,1,train
+liếm,3,4,1,train
+3/,3,2,1,train
+hoang tuong,3,11,2,train
+ngu vcl,3,7,2,train
+wtf,3,3,1,train
+hỗn,3,3,1,train
+thể loại,3,8,2,train
+đểu,3,3,1,train
+mẹ mày,3,6,2,train
+xỉu,3,3,1,train
+xác,3,3,1,train
+dái,3,3,1,train
+đếch,3,4,1,train
+vẹo,3,4,1,train
+bả,3,2,1,train
+đme,3,3,1,train
+khuyết tật,3,10,2,train
+khóc lóc,3,8,2,train
+tay sai,3,7,2,train
+xiên,3,4,1,train
+sạo lồn,3,7,2,train
+sạo lol,3,7,2,train
+đậu má,3,6,2,train
+cô hồn,3,6,2,train
+del,3,3,1,train
+xao lon,3,7,2,train
+mấy thằng,3,9,2,train
+con mẹ nó,3,9,3,train
+vlon,3,4,1,train
+bắt,3,3,1,train
+bac ky,3,6,2,train
+ditme,3,5,1,train
+hiếp dâm,3,8,2,train
+nhục,3,5,1,train
+clmm,3,4,1,train
+cái lồn mẹ,3,10,3,train
+cướp giật,3,9,2,train
+be de,3,5,2,train
+ý thức như đb,3,13,4,train
+củ cặc,3,6,2,train
+bóng dơ,3,7,2,train
+lũ súc sinh,3,11,3,train
+côn đồ,3,6,2,train
+con bóng già,3,12,3,train
+con quỷ,3,7,2,train
+dạng háng,3,9,2,train
+tml,3,3,1,train
+khau nghiep,3,11,2,train
+sợ,3,2,1,train
+thằng già,3,9,2,train
+chưởi,3,5,1,train
+ass,3,3,1,train
+cứt,3,4,1,train
+kém,3,3,1,train
+vãi loz,3,7,2,train
+bã,3,2,1,train
+phá,3,3,1,train
+ăn hôi,3,6,2,train
+hối lộ,3,6,2,train
+giãy chết,3,9,2,train
+chúng nó,3,10,2,train
+ma tuý,3,6,2,train
+tàu,3,3,1,train
+tên,3,3,1,train
+bọn mày,3,7,2,train
+tụi nó,3,8,2,train
+đầu thai,2,8,2,train
+lồn má,2,6,2,train
+bú đá,2,5,2,train
+ăn cắp,2,6,2,train
+bắn bỏ,2,6,2,train
+đội quần,2,8,2,train
+chê,2,3,1,train
+tuổi,2,4,1,train
+địt mẹ chúng mày,2,16,4,train
+ác khẩu,2,7,2,train
+vch,2,3,1,train
+thua,2,4,1,train
+dã man,2,6,2,train
+cđ,2,2,1,train
+tuổi lồn,2,8,2,train
+thằng óc chó,2,12,3,train
+con rối,2,7,2,train
+la liếm,2,7,2,train
+thằng bệnh,2,10,2,train
+biểu tình,2,9,2,train
+chúng bây,2,9,2,train
+đù,2,2,1,train
+hống hách,2,9,2,train
+dog,2,3,1,train
+du me,2,5,2,train
+ki thị,2,6,2,train
+bọn dlv,2,7,2,train
+ngu học,2,7,2,train
+bệnh hoạn,2,9,2,train
+khắm,2,4,1,train
+vô duyên,2,8,2,train
+già mà non,2,10,3,train
+moá,2,3,1,train
+dis,2,3,1,train
+chặt,2,4,1,train
+khinh thường,2,12,2,train
+dị ứng,2,6,2,train
+đel,2,3,1,train
+cú có gai,2,9,3,train
+động dục,2,8,2,train
+chúng,2,6,1,train
+bu,2,2,1,train
+sv,2,2,1,train
+xàm loz,2,7,2,train
+khùng khùng,2,11,2,train
+gian ác,2,7,2,train
+mấy,2,3,1,train
+con như m,2,9,3,train
+than kinh,2,9,2,train
+nhai đi nhai lại,2,16,4,train
+giết người,2,10,2,train
+xử,2,2,1,train
+adua,2,4,1,train
+chùi lol,2,8,2,train
+địt mẹ mày,2,10,3,train
+vô liêm sỉ,2,10,3,train
+tàn độc,2,7,2,train
+nhai,2,4,1,train
+mịe,2,3,1,train
+thằng lồn,2,9,2,train
+đám bò đỏ,2,9,3,train
+vẹo,2,3,1,train
+tẩy não,2,7,2,train
+bây,2,3,1,train
+mõm chó,2,7,2,train
+cháy,2,4,1,train
+mả cha chúng mày,2,16,4,train
+đuỵt mọe,2,8,2,train
+clgv,2,4,1,train
+hỏng,2,4,1,train
+thằng ad,2,8,2,train
+đặt mìn,2,7,2,train
+đéo chết,2,8,2,train
+hoang mang,2,10,2,train
+đánh bom,2,8,2,train
+thằng cha,2,9,2,train
+xàm l,2,5,2,train
+sam lon,2,7,2,train
+nl,2,2,1,train
+xàm vl,2,6,2,train
+thứ,2,3,1,train
+chịt,2,4,1,train
+cdm,2,3,1,train
+tục tĩu,2,7,2,train
+culi,2,4,1,train
+xộn lào,2,7,2,train
+soi mói,2,7,2,train
+cơm sườn,2,8,2,train
+thằng assmin,2,12,2,train
+rạch,2,4,1,train
+độc ác,2,6,2,train
+bé,2,2,1,train
+phân biệt vùng miền,2,19,4,train
+chó rách,2,8,2,train
+dcmm,2,4,1,train
+củ cải,2,6,2,train
+vả,2,2,1,train
+cuồng,2,5,1,train
+lủ ngu,2,6,2,train
+thề,2,3,1,train
+con bò đỏ,2,9,3,train
+ngu như chó,2,11,3,train
+vlol,2,4,1,train
+bác hù,2,6,2,train
+tội nghiệp,2,10,2,train
+chết đói,2,8,2,train
+c**,2,3,1,train
+trym,2,4,1,train
+loại đàn bà,2,11,3,train
+bọn cướp,2,8,2,train
+dí l,2,4,2,train
+chôn,2,4,1,train
+tầu cộng,2,8,2,train
+bố đời,2,6,2,train
+tống tiền,2,9,2,train
+cdmm,2,4,1,train
+láo cá,2,6,2,train
+lưu manh,2,8,2,train
+mả bố nó,2,8,3,train
+mo,2,2,1,train
+vaicalon,2,8,1,train
+chết me,2,7,2,train
+lừa đảo,2,7,2,train
+hán gian,2,8,2,train
+3/// xỏ lá,2,10,3,train
+bọn 3///,2,8,2,train
+bỏ tù,2,5,2,train
+đuỹ,2,3,1,train
+việt cộng,2,9,2,train
+nghèo đói,2,9,2,train
+thằng biến thái,2,15,3,train
+tụt quần,2,8,2,train
+lũ chó chết,2,11,3,train
+ghẻ,2,3,1,train
+loại người,2,10,2,train
+kẻ,2,2,1,train
+đầu ngắn,2,8,2,train
+tỏ ra thượng đẳng,2,17,4,train
+ác quỷ,2,6,2,train
+lứng,2,4,1,train
+ngột ngạt,2,9,2,train
+trộm,2,4,1,train
+vô sỉ,2,5,2,train
+đầy tớ,2,6,2,train
+cno,2,3,1,train
+concac,2,6,1,train
+tội đồ,2,6,2,train
+bôi trơn,2,8,2,train
+táng,2,4,1,train
+lũ ngu,2,6,2,train
+đệch,2,4,1,train
+cs,2,2,1,train
+đả đảo,2,6,2,train
+dư lợn viên,2,11,3,train
+cà chớn,2,7,2,train
+láo toét,2,8,2,train
+con nay,2,7,2,train
+bọn vc,2,6,2,train
+tham nhung,2,10,2,train
+lồn què,2,7,2,train
+đút lót,2,7,2,train
+đồ khùng,2,8,2,train
+lòng vòng,2,9,2,train
+lợi dụng,2,8,2,train
+ịt,2,2,1,train
+chặt chém,2,9,2,train
+câm như hến,2,11,3,train
+cuc,2,3,1,train
+quan tham,2,9,2,train
+bốc phốt,2,8,2,train
+xuyên tạc,2,9,2,train
+con cờ hó,2,9,3,train
+tấu hài,2,7,2,train
+lz,2,2,1,train
+bóng gió,2,8,2,train
+già mà dơ,2,9,3,train
+mị dân,2,6,2,train
+tui,2,3,1,train
+di cho,2,6,2,train
+chat,2,4,1,train
+cat,2,3,1,train
+chết mịa,2,8,2,train
+béo,2,3,1,train
+phang,2,5,1,train
+lé,2,2,1,train
+tục tiểu,2,8,2,train
+cailoncat,2,9,1,train
+đạo đức giả,2,11,3,train
+trắng biến thành xanh,2,21,4,train
+diệt vong,2,9,2,train
+hèn hạ,2,6,2,train
+hạ cấp,2,6,2,train
+ghê tởm,2,7,2,train
+nhạc nhẽo,2,9,2,train
+tế,2,2,1,train
+cái lồn,2,7,2,train
+con sán dây,2,11,3,train
+đỉ,2,2,1,train
+tham nhủng,2,10,2,train
+vô văn hóa,2,10,3,train
+gian,2,4,1,train
+dân trí thấp,2,12,3,train
+ám sát,2,6,2,train
+đek,2,3,1,train
+cd,2,2,1,train
+đách lồn,2,8,2,train
+chơi gái,2,8,2,train
+đm chúng mày,2,12,3,train
+bọn ngu,2,7,2,train
+vlll,2,4,1,train
+khai trừ,2,8,2,train
+thôn...làm,2,10,1,train
+ranh con,2,8,2,train
+mất dậy,2,7,2,train
+ói,2,2,1,train
+óc,2,2,1,train
+đoảng,2,5,1,train
+đ’,2,2,1,train
+cái thằng,2,9,2,train
+cocc,2,4,1,train
+lũ khốn nạn,2,11,3,train
+hổn láo,2,7,2,train
+gay,2,3,1,train
+đù má,2,7,2,train
+dai,2,3,1,train
+assmin,2,6,1,train
+xạo lz,2,6,2,train
+xả súng,2,7,2,train
+xxx,2,3,1,train
+ăn tiền,2,7,2,train
+chuoi,2,5,1,train
+chảnh chó,2,9,2,train
+chôn sống,2,9,2,train
+mẽo,2,3,1,train
+ăn chia,2,7,2,train
+cụ,2,2,1,train
+việt +,2,6,2,train
+xaolon,2,6,1,train
+anh hùng bàn phím,2,17,4,train
+mom,2,3,1,train
+ngu lồn,2,7,2,train
+nhỏ,2,3,1,train
+nhồi,2,4,1,train
+giết quách,2,10,2,train
+ia,2,2,1,train
+oc cho,2,6,2,train
+ahbp,2,4,1,train
+đánh sập,2,8,2,train
+chet me may,2,11,3,train
+clmn,2,4,1,train
+nản,2,3,1,train
+cướp bóc,2,8,2,train
+hành hung,2,9,2,train
+ăn hại,2,6,2,train
+khoá mõm,2,8,2,train
+mả cha,2,6,2,train
+sạo,2,3,1,train
+ngu muội,2,8,2,train
+tai nạn,2,7,2,train
+lũ đu càng,2,10,3,train
+quy,2,3,1,train
+nuốt,2,4,1,train
+mất nết,2,7,2,train
+con mụ,2,6,2,train
+con đỉ,2,6,2,train
+con súc vật,2,11,3,train
+bóc lột,2,7,2,train
+địt cụ mày,2,10,3,train
+con khùng,2,9,2,train
+báo đời,2,7,2,train
+diệt chủng,2,10,2,train
+puồi,2,4,1,train
+mợ,2,2,1,train
+đụ con đĩ mẹ,2,12,4,train
+tham,2,4,1,train
+ba,2,2,1,train
+điên khùng,2,10,2,train
+lỗ đít,2,6,2,train
+tg,2,2,1,train
+gặm xương,2,9,2,train
+đinh,2,4,1,train
+gê,2,2,1,train
+nông nỗi,2,8,2,train
+chê bai,2,7,2,train
+mọe,2,3,1,train
+sủa dơ,2,6,2,train
+chiếm,2,5,1,train
+cháu bò,2,7,2,train
+cục cức,2,7,2,train
+chất độc,2,8,2,train
+búa liềm,2,8,2,train
+ăn nói như bộ phận sinh dục,2,27,7,train
+não chó,2,7,2,train
+dơ vcl,2,6,2,train
+het thuoc chua,2,14,3,train
+câm mẹ,2,6,2,train
+ma no,2,5,2,train
+dẹp,2,3,1,train
+clgt,2,4,1,train
+lua dao,2,7,2,train
+suc vat,2,7,2,train
+sửu nhi,2,7,2,train
+tinh trùng khuyết tật,2,21,4,train
+máu lol,2,7,2,train
+vô đầu,2,6,2,train
+con gia,2,7,2,train
+con mẹ m,2,8,3,train
+mất dạy,2,9,2,train
+mẹ m,2,4,2,train
+cmay,2,4,1,train
+phan dong,2,9,2,train
+ghen ăn tức ở,2,13,4,train
+bọn tao,2,7,2,train
+hết thuốc chữa,2,14,3,train
+thang khung,2,11,2,train
+mu,2,2,1,train
+bọn cẩu,2,9,2,train
+thiếu hiểu biết,2,15,3,train
+trục lợi,2,8,2,train
+kỳ thị,2,6,2,train
+khon nan,2,8,2,train
+sam,2,3,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 vịt lam,2,7,2,train
 bới,2,3,1,train
 lố,2,2,1,train
 vđ,2,2,1,train
+<<<<<<< HEAD
 nhồi,2,4,1,train
 nhỏ,2,3,1,train
 giết quách,2,10,2,train
@@ -842,6 +1590,521 @@ loại nghiện,1,11,2,train
 săm trổ,1,7,2,train
 hãy tin vào sự lãnh đạo tài tình của đảng và bộ máy nhà nước,1,60,15,train
 mua hoạ,1,7,2,train
+=======
+bắn chết mẹ nó,2,14,4,train
+lũ bán nước,2,11,3,train
+võ mồm,2,6,2,train
+quần xì,2,7,2,train
+md,2,2,1,train
+con nầy,2,7,2,train
+tẩy chai,2,8,2,train
+đậu xanh rau má,2,15,4,train
+dở hơi,2,6,2,train
+vai lon,2,7,2,train
+nguy hiểm,2,9,2,train
+não,2,3,1,train
+ung thư,2,7,2,train
+lũ bò,2,5,2,train
+bá dơ,2,5,2,train
+tàu+,2,4,1,train
+lũ ngợm,2,7,2,train
+ngàn năm văn vật,2,16,4,train
+con hoang,2,9,2,train
+nói xạo nói láo,2,15,4,train
+con. quy,2,8,2,train
+lòn,2,3,1,train
+nước mắt cá sấu,2,15,4,train
+c.nó,2,4,1,train
+khug,2,4,1,train
+ăn nghìn tỷ,2,11,3,train
+vái,2,3,1,train
+đá phò,2,6,2,train
+vét,1,3,1,train
+nông cản,1,8,2,train
+tiêu cực,1,8,2,train
+dốt,1,3,1,train
+hút cỏ,1,6,2,train
+loại nghiện,1,11,2,train
+săm trổ,1,7,2,train
+hãy tin vào sự lãnh đạo tài tình của đảng và bộ máy nhà nước,1,60,15,train
+làm như giàu lắm hay sao mà khoe của thấy ghê,1,45,11,train
+cái mặt mình nhìn chung ko có 1 chỗ nào thiện cảm hết,1,53,13,train
+mồm độc miệng.hung dữ.nói tục chửi thề,1,38,7,train
+đụ má đụ cha,1,12,4,train
+hi sinh người chết,1,18,4,train
+cho đỡ chật đất,1,15,4,train
+cộng sản nằm vùng,1,17,4,train
+thở ra cái là thấy mùi,1,22,6,train
+bi cần,1,6,2,train
+những con bò,1,12,3,train
+ông già,1,7,2,train
+4 đánh 6,1,8,3,train
+nhạc vs nhẽo,1,12,3,train
+ngu thì chết,1,12,3,train
+ko có ý thức,1,12,4,train
+bị đô hộ khéo còn phát triển đc,1,31,8,train
+mất xác,1,7,2,train
+hot girl ống tinh,1,17,4,train
+cái miệng nó dơ bẩn,1,19,5,train
+khinh bỉ,1,8,2,train
+đíu,1,3,1,train
+lam j co van hoa,1,16,5,train
+chêt mẹ may,1,11,3,train
+trời qua báo may,1,16,4,train
+trời qua bao may,1,16,4,train
+gu,1,2,1,train
+làm gì có văn hóa mà lập ra bộ văn hóa,1,38,11,train
+điếm vãi cả nồi,1,15,4,train
+mẹ lũ tham quan,1,15,4,train
+đỗn lì,1,6,2,train
+nước tiểu,1,9,2,train
+dnn,1,3,1,train
+thịt người,1,10,2,train
+du me may,1,9,3,train
+chết cụ mày,1,11,3,train
+sung,1,4,1,train
+dao,1,3,1,train
+ba xao,1,6,2,train
+đít vịt,1,7,2,train
+bêu rếu,1,7,2,train
+kẻ khốn nạn,1,11,3,train
+đậu móa,1,7,2,train
+tổ sử,1,5,2,train
+trò hề,1,6,2,train
+bán cái lương tâm,1,17,4,train
+rách rưới,1,9,2,train
+lương lẹo,1,9,2,train
+biến con mẹ mày,1,15,4,train
+đàn bà j nhìn mặt giống dân ông,1,31,8,train
+nho nuoc bot uot het nguoi no,1,29,7,train
+tự mãn,1,6,2,train
+tự cao tự đại,1,13,4,train
+tự kiêu,1,7,2,train
+ak 47,1,5,2,train
+cái quanque,1,11,2,train
+cailoz,1,6,1,train
+ốc ác,1,5,2,train
+đâu bao giờ dám trưng cầu dân ý,1,31,8,train
+giàu mà ăn mặc lạ lùng ghê k bằng ăn mặc quê mùa như mình,1,57,15,train
+day khong phai la con nguoi,1,27,6,train
+cấu kết,1,7,2,train
+bằng mọi thủ đoạn,1,17,4,train
+tàn nhẫn,1,8,2,train
+thằng hung thủ,1,14,3,train
+đáng sợ,1,7,2,train
+d m,1,3,2,train
+chó đi,1,6,2,train
+lạ lồn,1,6,2,train
+nhâyy,1,5,1,train
+bọn comdom,1,10,2,train
+thằng óc như chó,1,16,4,train
+l^**,1,4,1,train
+non,1,3,1,train
+xấu tai xấu hại,1,15,4,train
+xấu hết phần chó,1,16,4,train
+đậu xanh rau muống,1,18,4,train
+người dân ngày đêm cày kéo làm để trả nợ thay cho lũ ăn tàn phá hoại,1,68,17,train
+muốn dân hết khổ thì cho vài ba trận đá banh thì dân cứ bão với lũ là hết thôi,1,78,20,train
+cứ quán nhậu mọc nhiều hơn thư viện sách thì dân có ngu cũng phải cho mình là thông minh,1,88,20,train
+tống vô tù,1,10,3,train
+nhuốm máu,1,9,2,train
+ko đánh cũng đã khai,1,20,5,train
+bọn khủng bố,1,12,3,train
+dẹp ngay bọn khủng bố,1,21,5,train
+con chó,1,8,2,train
+mang cái mặt,1,14,3,train
+kg tha thứ,1,10,3,train
+suc phạm,1,8,2,train
+tuc tĩu mất dạy quá,1,19,5,train
+giải phóng,1,10,2,train
+vailou,1,6,1,train
+lưu vong,1,8,2,train
+hèn với giặc ác với dân,1,23,6,train
+tham hơn súc vật,1,16,4,train
+đãn chó chết,1,12,3,train
+nghĩ mình là công chúa các thứ các thứ,1,38,9,train
+thằng báo đời,1,13,3,train
+đểu cáng,1,8,2,train
+chết mẹ t,1,9,3,train
+nắc,1,3,1,train
+mấy con chó,1,11,3,train
+ô nao cug muốn ở phưởng cơ quan có ô nào muốn lò mặt ra ngoài để điều tra,1,73,19,train
+con khỉ nói tiếng hoa,1,21,5,train
+k có tuổi,1,9,3,train
+vong,1,4,1,train
+trơ trẽn vkl 💩,1,14,4,train
+hít dạ hương,1,12,3,train
+lú cmnr,1,7,2,train
+phắc ộp,1,7,2,train
+ngủ,1,3,1,train
+đijt mẹ,1,7,2,train
+không bẩn thỉu không phải cộng sản,1,34,7,train
+bộ mặt ngu dốt,1,14,4,train
+bán nước hại dân,1,16,4,train
+ko có văn hóa,1,13,4,train
+nhục quốc,1,9,2,train
+đứa ca sĩ nước mỹ mặc áo dài không quần ý,1,41,11,train
+dạy cho cựu vdv nay vô gu ghồ tìm hiểu xem mảnh vải đỏ có hình sao vàng là cờ của nước nào,1,90,23,train
+não bị vi rút ăn hết cmnr,1,25,7,train
+còn trinh có cây đinh chính giữa,1,32,7,train
+dơ vler,1,7,2,train
+con me,1,6,2,train
+lao phét,1,9,2,train
+bợ đít,1,6,2,train
+ngu như lợn,1,11,3,train
+nghèo bày dạt nỏ,1,16,4,train
+bién,1,4,1,train
+ln,1,2,1,train
+đéo phải thằng vừa gì đâu,1,25,6,train
+chửi sml,1,8,2,train
+đụ má xạo lồn,1,13,4,train
+không,1,5,1,train
+làm kiểu ta đây giàu đi chơi du lịch qua mấy vùng dịch chơi ấy mà,1,65,16,train
+ĩ khùng,1,7,2,train
+đức chung,1,9,2,train
+ko có tiền ko có quan hệ thì cũng thất nghiệp,1,45,11,train
+thú dữ,1,6,2,train
+khủng hoảng,1,11,2,train
+con bóng dơ,1,11,3,train
+ngáo đét,1,8,2,train
+bêde,1,4,1,train
+khổ,1,3,1,train
+cái thứ,1,7,2,train
+thèng assmin,1,12,2,train
+tao đi lãnh 3 củ đây,1,20,6,train
+xảm,1,3,1,train
+dân bắc,1,7,2,train
+gian manh xảo trá,1,17,4,train
+chém chết,1,9,2,train
+rống,1,4,1,train
+ta đây,1,6,2,train
+tìm người thân quen để bỏ phong bì,1,34,8,train
+bọn ăn bám,1,10,3,train
+phản động là nói lên sự thật,1,28,7,train
+in tiền như in giấy lộn,1,23,6,train
+xứ vịt ngan,1,13,3,train
+chán,1,5,1,train
+già lẫn,1,7,2,train
+cho khug,1,8,2,train
+căn buôi,1,8,2,train
+trèo cao ngã đau,1,16,4,train
+đ ịt,1,4,2,train
+vãi lìu,1,7,2,train
+rách,1,4,1,train
+ảnh hưởng kinh tế gì nhà bạn k,1,30,8,train
+xích,1,4,1,train
+vào lò,1,6,2,train
+không có bằng cấp 3 nhưng lý luận ct rất giỏi,1,45,11,train
+loz me,1,6,2,train
+đua đòi theo các nước kém phát triển,1,36,8,train
+bon bê đê,1,9,3,train
+nhãi ranh,1,9,2,train
+eo,1,2,1,train
+bóng khùng,1,10,2,train
+bọn chó sủa bậy,1,15,4,train
+mất văn hóa,1,11,3,train
+bó tay,1,6,2,train
+eo ơi,1,5,2,train
+nó xấu mà ko giấy nào bút nào mà tả nổi,1,39,11,train
+bẩn miệng,1,9,2,train
+tệ hơn đống phân,1,16,4,train
+ngu gia truyền,1,14,3,train
+lồn trâu,1,8,2,train
+con sâu làm rầu nồi canh,1,24,6,train
+xam lom,1,7,2,train
+beo,1,3,1,train
+cụp đuôi,1,8,2,train
+chửi tục,1,8,2,train
+thằng ko não,1,12,3,train
+mã cha,1,6,2,train
+chết người bị ém,1,16,4,train
+giết ng,1,7,2,train
+thằng bụng phệ óc mỡ,1,20,5,train
+kiếp bóng gió,1,13,3,train
+sao ko giữ được cái nết vậy,1,27,7,train
+sờ trym,1,7,2,train
+con bóng ngu ngục,1,19,4,train
+đánh chết mẹ,1,12,3,train
+dit me,1,6,2,train
+con mẹ chúng m,1,14,4,train
+"ăn,cuc",1,6,1,train
+mọi chuyện sẽ được che chắn nếu chủ trường là con gái của tướng vệ và thủ tướng phúc,1,84,19,train
+dơ dơ,1,5,2,train
+ớn cả lạnh,1,10,3,train
+ghê quá,1,7,2,train
+djtmenhaong,1,11,1,train
+óc con chó vãi lồn,1,18,5,train
+cúttttttttt⛏⛏🔪🔪,1,15,1,train
+bê đe,1,5,2,train
+xâu,1,3,1,train
+tôi ngay,1,8,2,train
+lưa đao,1,7,2,train
+ko biêt tu thân,1,15,4,train
+suc vât,1,7,2,train
+chêt me,1,7,2,train
+con đàn bà khó ưa,1,17,5,train
+kẻ nhận thức kém,1,16,4,train
+"bảo yêu nước, thương nước, xong đi du lịch về lây bệnh cho nước mà là yêu nước à",1,80,19,train
+để ông khác còn ăn,1,18,5,train
+độc,1,3,1,train
+"cs nghèo chỉ có tiền ăn bánh mì, ko có tiền làm tường chắn gió",1,62,15,train
+trúng phong,1,11,2,train
+ép phải nhận tiền,1,17,4,train
+ôi thơm tho j,1,13,4,train
+cu li sai vat cho tui no,1,24,7,train
+vailin,1,6,1,train
+éo,1,3,1,train
+lũ óc chó,1,12,3,train
+dkm nó,1,6,2,train
+giọng như vịt đực,1,17,4,train
+nhiều tiền để mang dịch về,1,26,6,train
+lão đại biểu,1,12,3,train
+ngước độc tài,1,13,3,train
+thua súc sinh,1,13,3,train
+"người khổ, rất khổ là nhờ ơn sự lãnh đạo của đám ngợm cộng sản đoảng và boác",1,76,18,train
+em gái ngon ngọt nc,1,19,5,train
+buồi to,1,7,2,train
+loại giả đạo đức,1,16,4,train
+ko được giáo dục,1,16,4,train
+học chả hết cấp 1 mà cũng có bằng đh,1,36,10,train
+cạn tàu gáo máng,1,16,4,train
+a dg nhai bcs,1,13,4,train
+thông ass,1,9,2,train
+nhật this nhật that,1,19,4,train
+nỗi nhục,1,8,2,train
+ddjtme,1,6,1,train
+hoang dâm trụy lạc,1,18,4,train
+con đàn bà ngu,1,14,4,train
+tai bã như tai trâu,1,19,5,train
+cô bé phóng viên như thể sắp bợp cho ngài lãnh đạo 1 tai cho chừa ngu người,1,75,18,train
+vo hoc,1,6,2,train
+lũ ko có não,1,12,4,train
+ngu như con chó,1,15,4,train
+chống phá nửa mùa,1,17,4,train
+xàm le xàm lông xàm lá,1,22,6,train
+đm mày,1,6,2,train
+ông cễnh con,1,12,3,train
+hối lộ,1,8,2,train
+bọn phản động,1,16,3,train
+thứ chó lưu vong,1,18,4,train
+hung hãn,1,8,2,train
+bọn mất dạy,1,11,3,train
+tay cô gái to,1,13,4,train
+giặc,1,4,1,train
+bắt cóc,1,7,2,train
+nhục mặt quá,1,12,3,train
+cắm đầu,1,7,2,train
+vãi lồn,1,9,2,train
+thằng bệnh hoạn,1,15,3,train
+lx má,1,5,2,train
+con c**,1,7,2,train
+chuyện hài nhà sản,1,18,4,train
+tán vô họng,1,11,3,train
+thang ml,1,8,2,train
+ngu vãi lìn,1,11,3,train
+đm chúng nó,1,11,3,train
+thứ xạo lồn,1,11,3,train
+cs như bầy sư tử săn mồi,1,24,7,train
+a rất thượng đẳng,1,17,4,train
+thích lây bệnh,1,14,3,train
+rác rưởi,1,8,2,train
+lùn,1,3,1,train
+cuồng phâ,1,9,2,train
+dme,1,3,1,train
+dân thích làm nô lệ .chưa thích làm người,1,41,9,train
+thằng mặt heo,1,13,3,train
+ổng,1,3,1,train
+gian tà,1,7,2,train
+gian dâm,1,8,2,train
+lãnh đạo già,1,12,3,train
+mieng cho k the moc nga voi,1,27,7,train
+"phải dương tính covid-19 thì mới thấy được giá trị của cuộc sống,thay đổi thái độ",1,81,16,train
+cái qằn qè,1,10,3,train
+dân chịu hậu quả,1,16,4,train
+chửi cái lũ cô hồn,1,18,5,train
+tối ngày đòi bình đẳng ko kì thị,1,32,8,train
+chưa nói động chạm gì mà dựng lồn,1,33,8,train
+noi ko so meo mieng,1,19,5,train
+lời nói nhanh hơn não là biết con người ntn,1,43,10,train
+đầu cha,1,7,2,train
+đá xéo móc họng,1,15,4,train
+chả thèm,1,8,2,train
+con nhỏ ất ơ,1,12,4,train
+đá xéo,1,6,2,train
+tphcm trong tương lai sẽ là thủ đô,1,34,8,train
+họa từ miệng mà ra,1,18,5,train
+tsb,1,3,1,train
+đuỹ lone khốn nạn,1,17,4,train
+tụi trung +,1,11,3,train
+đjt con me cay vãi cả lol,1,25,7,train
+cay vãi lol,1,11,3,train
+đjt con me m xác định lập acc mới,1,33,9,train
+con chó lol con me,1,18,5,train
+cay vãi lon t,1,13,4,train
+am dụng chức quyền,1,18,4,train
+dí đái,1,6,2,train
+loan luân,1,9,2,train
+mõm lồn,1,7,2,train
+cgai mẹ,1,7,2,train
+chửi này chửi nọ,1,16,4,train
+chó sủa,1,7,2,train
+lá mọc đinh,1,11,3,train
+bạo lưc,1,7,2,train
+xem lai mình,1,12,3,train
+loai bê đê,1,10,3,train
+bịt miệng dân,1,13,3,train
+caiditmemay,1,11,1,train
+chưa bị bắt nữa hả,1,18,5,train
+bọn lừa đảo,1,11,3,train
+bọn óc vật,1,10,3,train
+trâu bò chứ ko phải người,1,25,6,train
+"hít thủy ngân, bụi mịn ô nhiễm",1,30,7,train
+uống nước thải qua đường ống làm bằng vật liệu phế thải trung quốc,1,66,14,train
+ăn thực phẩm chứa chất độc hại,1,30,7,train
+tức muốn điên,1,13,3,train
+tam than,1,8,2,train
+ghê vãi,1,7,2,train
+nhốt vào cho chết,1,17,4,train
+loại này đừng để đẻ trứng,1,25,6,train
+lôi cái đuôi,1,12,3,train
+con bóng lải cái,1,16,4,train
+thứ ngu,1,7,2,train
+đi học lại lớp mẫu giáo đi,1,26,7,train
+ba chó,1,6,2,train
+địtmẹ,1,5,1,train
+bọn dân đen như các ông thì làm gì,1,34,9,train
+lam di 9 phuong con 1 phuong de lay chong,1,41,10,train
+cm mày,1,7,2,train
+nham nhi,1,8,2,train
+băng đảng,1,9,2,train
+vượn,1,4,1,train
+đám giặc,1,8,2,train
+lò tôn,1,6,2,train
+choá,1,4,1,train
+trừng,1,5,1,train
+xóc óc,1,6,2,train
+nơi cung cấp cứt,1,16,4,train
+tau khửa,1,8,2,train
+ăn hùa,1,6,2,train
+mất hình tượng vl,1,17,4,train
+khiêu dâm,1,9,2,train
+dien dien,1,9,2,train
+ng nhu linh dien thi ai them,1,28,7,train
+nước đái,1,8,2,train
+kặc,1,3,1,train
+thằng tung cựa,1,14,3,train
+đập sắp mặt,1,11,3,train
+giựt,1,4,1,train
+cu để bú,1,8,3,train
+óc vật,1,6,2,train
+ngửa tay xin tiền,1,17,4,train
+bệnh...thành tích,1,17,2,train
+ném đá,1,6,2,train
+dối trá,1,7,2,train
+chó điên,1,8,2,train
+nó chửi,1,7,2,train
+đến con chó nó còn có ý cầu tiến>>chán lãnh đạovn,1,49,11,train
+lưư manh,1,8,2,train
+coi thương mang ̣sống,1,22,4,train
+ko đử tư cách,1,15,4,train
+cẹc,1,3,1,train
+"linh tinh bừa bãi, bậy bạ",1,25,6,train
+đạn,1,3,1,train
+thụt,1,4,1,train
+buồn ỉa,1,7,2,train
+giải phẫu cho thành con gái,1,27,6,train
+ngừoi đàn bà có cây cà rem 9 giữa,1,33,9,train
+bọn tàu cộng,1,12,3,train
+nắm đầu,1,7,2,train
+bọn bú lồn ăn tục nói phét,1,26,7,train
+bọn cẩu tham quan,1,17,4,train
+bu càng,1,7,2,train
+miệng xấu,1,9,2,train
+lũ chó đói,1,10,3,train
+hít bụi mịn như hít cỏ mỹ,1,25,7,train
+sống lang thang ngoài đường,1,27,5,train
+đầu bồi,1,7,2,train
+thắng dien,1,10,2,train
+thứ thần kinh,1,13,3,train
+tnao,1,4,1,train
+thiếu iot,1,9,2,train
+con bà già,1,10,3,train
+chực cắn,1,8,2,train
+ccj,1,3,1,train
+gân,1,3,1,train
+thua cả bò,1,10,3,train
+vắt,1,3,1,train
+t chúng tao,1,11,3,train
+chậm,1,4,1,train
+bục ruột,1,8,2,train
+hl v,1,4,2,train
+cai lờ,1,6,2,train
+lo canh me gd ra sản phẩm để đạo,1,32,9,train
+kut,1,3,1,train
+thối đến fat tởm,1,16,4,train
+đạo,1,3,1,train
+không thể bắt kịp nền văn minh nhân loại,1,40,9,train
+bựa,1,3,1,train
+lão già,1,7,2,train
+toanggg,1,7,1,train
+thúi,1,5,1,train
+hầm cầu,1,9,2,train
+stupid,1,6,1,train
+thượng đẳng lỗi thời,1,20,4,train
+nguu,1,4,1,train
+dit cu may,1,10,3,train
+mèo rồi lại hoàn mèo,1,20,5,train
+lỗn,1,3,1,train
+cây nọc mọc giữa háng,1,21,5,train
+hai trái dâu lủng lẳng,1,22,5,train
+bệnh nặng giữ lắm rồi,1,21,5,train
+đồ bóng khùng,1,13,3,train
+khùng điên,1,10,2,train
+mõm mày,1,7,2,train
+thằng lỏng bao,1,14,3,train
+chet me,1,7,2,train
+chung m,1,7,2,train
+bản mặt dân chủ giả hiệu,1,24,6,train
+không nên du nhập vào việt nam,1,30,7,train
+nhân cách sống như lon,1,22,5,train
+tụi bán nước,1,12,3,train
+hãnh diện,1,9,2,train
+hãnh diện ghê,1,13,3,train
+tui trộm cắp,1,12,3,train
+thảm,1,4,1,train
+im cmm,1,6,2,train
+ăn ko ngồi rỗi,1,14,4,train
+lắm trò hành,1,12,3,train
+nâng điểm vào ngành,1,19,4,train
+"tên của nó là bảo hiểm "" bắt buộc "" mà",1,38,11,train
+"""phản động""",1,11,2,train
+"""xuyên tạc đường nối chính sách của đãng và nhà lước, bôi nhọ các anh hùng nực nượng vũ trang nhân dân""",1,103,22,train
+ném lựu đạn,1,11,3,train
+pháo kích,1,9,2,train
+khủng mẹ,1,8,2,train
+"""đi nàm kách mệnh""",1,18,4,train
+nhà quê,1,7,2,train
+nghi án,1,7,2,train
+mị nhau,1,7,2,train
+chết hàng loạt,1,14,3,train
+dmd,1,3,1,train
+giả sửa,1,7,2,train
+đỷ mẹ,1,5,2,train
+ko ra con người,1,15,4,train
+djt mẹ,1,6,2,train
+dm chúng nó,1,11,3,train
+vl fake,1,7,2,train
+đụmámài,1,7,1,train
+bong gia,1,8,2,train
+cai cau tieu,1,12,3,train
+ngu cu đen,1,10,3,train
+ăn mài,1,6,2,train
+ngu như 1 con lợn,1,17,5,train
+lồn mẹ nhà mày,1,14,4,train
+vãi lìn,1,7,2,train
+chj co tien chon duoi dat thoi,1,30,7,train
+ko gjam gui ngan hang so bj lô,1,30,8,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 dùng não để trồng cây,1,21,5,train
 bao che,1,7,2,train
 lạm quyền,1,9,2,train
@@ -850,17 +2113,35 @@ bon tao,1,7,2,train
 mỏ như cái lồn,1,14,4,train
 khét vãi l,1,10,3,train
 câm như con chó,1,15,4,train
+<<<<<<< HEAD
 dm chúng nó,1,11,3,train
 vl fake,1,7,2,train
 đụmámài,1,7,1,train
+=======
+nhìn k ưa miếng nào,1,19,5,train
+nghèo mạt,1,9,2,train
+mất ói,1,6,2,train
+nổ banh xác,1,11,3,train
+trời đã sinh ra tuấn tại sao còn sinh ra tiệp,1,45,11,train
+kệ cmn,1,6,2,train
+géc,1,3,1,train
+cắn bậy,1,7,2,train
+mua hoạ,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thảm hoạ,1,8,2,train
 mẹ kiếp,1,7,2,train
 bò đỏ tụi tao,1,13,4,train
 cho may 1 trân,1,14,4,train
+<<<<<<< HEAD
 lồn mẹ nhà mày,1,14,4,train
 pháo kích,1,9,2,train
 khủng mẹ,1,8,2,train
 """đi nàm kách mệnh""",1,18,4,train
+=======
+quy lay,1,7,2,train
+bọn côn đồ,1,10,3,train
+quái thai,1,9,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nhảy dựng dựng,1,14,3,train
 dựng dựng,1,9,2,train
 không biết nhìn lại bản thân,1,28,6,train
@@ -872,7 +2153,10 @@ xau ho,1,6,2,train
 con đười ươi,1,12,3,train
 thốn đcđ,1,8,2,train
 quỹ đầu cằc,1,11,3,train
+<<<<<<< HEAD
 cắn bậy,1,7,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 l.o.n,1,5,1,train
 vãi cả nồi,1,10,3,train
 bợ đít cs,1,11,3,train
@@ -883,6 +2167,7 @@ vô ý thức không chừa một độ tuổi nào,1,36,9,train
 cách ly ở nhà tang lễ,1,21,6,train
 lật lộng,1,8,2,train
 quẹt mỏ như gà,1,15,4,train
+<<<<<<< HEAD
 quái thai,1,9,2,train
 bong gia,1,8,2,train
 cai cau tieu,1,12,3,train
@@ -892,6 +2177,8 @@ ngu như 1 con lợn,1,17,5,train
 mồm mày,1,7,2,train
 ăn phải gai tre,1,15,4,train
 nhảm lol,1,8,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 hề già,1,6,2,train
 lũ ducanger,1,11,2,train
 theo công giáo nên suốt ngày thiên đường,1,40,8,train
@@ -905,6 +2192,7 @@ kẻ tồi tệ,1,9,3,train
 lốn màu,1,7,2,train
 vị tù,1,5,2,train
 "quan chức ở tù cũng sướng.. có trà bưng nước rót, ở phòng riêng, người nhà vô chơi thoải mái",1,92,20,train
+<<<<<<< HEAD
 nghi án,1,7,2,train
 mị nhau,1,7,2,train
 chết hàng loạt,1,14,3,train
@@ -915,17 +2203,26 @@ ko ra con người,1,15,4,train
 djt mẹ,1,6,2,train
 hãnh diện,1,9,2,train
 hãnh diện ghê,1,13,3,train
+=======
+bớt đi một loại phân,1,20,5,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 làm đc cơm cháo gì,1,18,5,train
 làm nail,1,8,2,train
 cái đám đu càng thọt,1,20,5,train
 ra rả,1,5,2,train
 to tát,1,6,2,train
 lên mặt dạy đời,1,15,4,train
+<<<<<<< HEAD
 con đi cho,1,10,3,train
 mộ noi,1,6,2,train
 thả nó và khu bảo tồn thiên nhiên cho về với giống loài của nó,1,62,15,train
 bạo hành,1,8,2,train
 lạm dụng,1,8,2,train
+=======
+mồm mày,1,7,2,train
+ăn phải gai tre,1,15,4,train
+nhảm lol,1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mả cụ mày,1,9,3,train
 đm may,1,6,2,train
 ngứa bà cẹt,1,11,3,train
@@ -935,6 +2232,7 @@ chịch,1,6,1,train
 chửi thuê,1,10,2,train
 lũ chó lợn,1,10,3,train
 clmmm,1,5,1,train
+<<<<<<< HEAD
 bớt đi một loại phân,1,20,5,train
 nhà quê,1,7,2,train
 thảm,1,4,1,train
@@ -949,10 +2247,15 @@ ném lựu đạn,1,11,3,train
 đồ bóng khùng,1,13,3,train
 khùng điên,1,10,2,train
 mõm mày,1,7,2,train
+=======
+lừa dối,1,7,2,train
+chính quyền vn rất có tính giải trí,1,35,8,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ngứa mắt,1,8,2,train
 giết người dấu tay,1,18,4,train
 cảnh sát cướp đất,1,17,4,train
 cộng sản cướp đất,1,17,4,train
+<<<<<<< HEAD
 thằng lỏng bao,1,14,3,train
 chet me,1,7,2,train
 chung m,1,7,2,train
@@ -961,11 +2264,22 @@ không nên du nhập vào việt nam,1,30,7,train
 nhân cách sống như lon,1,22,5,train
 tụi bán nước,1,12,3,train
 lão già,1,7,2,train
+=======
+con đi cho,1,10,3,train
+mộ noi,1,6,2,train
+thả nó và khu bảo tồn thiên nhiên cho về với giống loài của nó,1,62,15,train
+bạo hành,1,8,2,train
+lạm dụng,1,8,2,train
+hành hạ,1,7,2,train
+đéll,1,4,1,train
+dắt mũi dư luận,1,15,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 toàn dân đã ko còn tinh cs,1,26,7,train
 ngái dứa,1,8,2,train
 đốt nhà,1,7,2,train
 xù lông,1,7,2,train
 kiêu ngạo,1,9,2,train
+<<<<<<< HEAD
 lừa dối,1,7,2,train
 chính quyền vn rất có tính giải trí,1,35,8,train
 tui trộm cắp,1,12,3,train
@@ -973,6 +2287,8 @@ nhảm vl,1,7,2,train
 vào tù,1,6,2,train
 nói không sợ bị hậu quả,1,23,6,train
 xàm loinf,1,9,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 miệt thị,1,8,2,train
 cuồng cộng,1,10,2,train
 sỉ vả,1,5,2,train
@@ -982,6 +2298,7 @@ lon ma m,1,8,3,train
 nhảy lên như chó điên,1,21,5,train
 như đúng rồi,1,12,3,train
 hình người mà óc chó,1,20,5,train
+<<<<<<< HEAD
 hành hạ,1,7,2,train
 đéll,1,4,1,train
 dắt mũi dư luận,1,15,4,train
@@ -993,6 +2310,8 @@ lủ ngu các người,1,16,4,train
 riêu rao,1,8,2,train
 ko khôn ra,1,10,3,train
 có vấn đề về nảo bộ,1,19,6,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đảng nô,1,7,2,train
 đè đầu cưỡi cổ,1,14,4,train
 hãm lone,1,8,2,train
@@ -1001,6 +2320,7 @@ cha khùng,1,9,2,train
 cljv,1,4,1,train
 đạo đức rách,1,12,3,train
 cứ ngồi đấy mà nói đạo lý,1,25,7,train
+<<<<<<< HEAD
 toanggg,1,7,1,train
 thúi,1,5,1,train
 hầm cầu,1,9,2,train
@@ -1020,6 +2340,24 @@ xiaolin,1,7,1,train
 phân biệt vùng miền bàn phím vãi lồng,1,37,8,train
 nam kỳ,1,6,2,train
 coi thử có đi răng hàm mặt chỉnh hình không,1,43,10,train
+=======
+nhảm vl,1,7,2,train
+vào tù,1,6,2,train
+nói không sợ bị hậu quả,1,23,6,train
+xàm loinf,1,9,2,train
+lưu manh giả danh trí thức,1,26,6,train
+đệt,1,3,1,train
+khùng khí chuột,1,15,3,train
+xiaolin,1,7,1,train
+mây,1,3,1,train
+dân mình khi nào mới thoát khỏi sự cai trị,1,42,10,train
+đáng khinh,1,10,2,train
+chịu khó đọc báo dùm,1,20,5,train
+lủ ngu các người,1,16,4,train
+riêu rao,1,8,2,train
+ko khôn ra,1,10,3,train
+có vấn đề về nảo bộ,1,19,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bóng lộ,1,7,2,train
 đánh người,1,10,2,train
 đạp con mái,1,11,3,train
@@ -1032,6 +2370,7 @@ bú c,1,4,2,train
 phanh,1,5,1,train
 chùi âm đạo,1,11,3,train
 "bán rẻ lương tâm, đạo đức",1,28,6,train
+<<<<<<< HEAD
 lưu manh giả danh trí thức,1,26,6,train
 bốc phét ăn tiền,1,16,4,train
 dân đen ăn lồn,1,14,4,train
@@ -1039,6 +2378,8 @@ con này,1,7,2,train
 lên án,1,6,2,train
 thủ đoạn,1,8,2,train
 che mắt,1,7,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 văn hóa rừng rú,1,18,4,train
 xứ sở lừa,1,11,3,train
 gần toàn gái xinh mà hành xử kém,1,32,8,train
@@ -1049,6 +2390,7 @@ dẫm,1,3,1,train
 việt+,1,5,1,train
 ngồi trên công lý,1,17,4,train
 vô luân vô pháp,1,15,4,train
+<<<<<<< HEAD
 chậm,1,4,1,train
 bục ruột,1,8,2,train
 hl v,1,4,2,train
@@ -1061,13 +2403,30 @@ không thể bắt kịp nền văn minh nhân loại,1,40,9,train
 bựa,1,3,1,train
 miệng xấu,1,9,2,train
 lũ chó đói,1,10,3,train
+=======
+phân biệt vùng miền bàn phím vãi lồng,1,37,8,train
+nam kỳ,1,6,2,train
+coi thử có đi răng hàm mặt chỉnh hình không,1,43,10,train
+đkm lũ phân biệt vùng miền,1,26,6,train
+đkm lũ phản động,1,16,4,train
+ke khung bo lai cam co do sao vang,1,34,9,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thằng lưu manh,1,14,3,train
 phà vài hơi vào mẹt,1,19,5,train
 viết sách dạy người,1,19,4,train
 ngu quá lợn,1,11,3,train
+<<<<<<< HEAD
 ngu lol,1,7,2,train
 hùa theo thể hiện đầu óc,1,24,6,train
 việt tân tài trợ phan anh,1,25,6,train
+=======
+bốc phét ăn tiền,1,16,4,train
+dân đen ăn lồn,1,14,4,train
+con này,1,7,2,train
+lên án,1,6,2,train
+thủ đoạn,1,8,2,train
+che mắt,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đú vcl,1,6,2,train
 thật là nhục nhã,1,16,4,train
 what đờ phắc,1,12,3,train
@@ -1078,6 +2437,7 @@ tổ cha bọn nó,1,16,4,train
 mẹ,1,3,1,train
 tụi,1,4,1,train
 im cmnm,1,7,2,train
+<<<<<<< HEAD
 đkm lũ phân biệt vùng miền,1,26,6,train
 đkm lũ phản động,1,16,4,train
 ke khung bo lai cam co do sao vang,1,34,9,train
@@ -1088,6 +2448,8 @@ kệ cha,1,6,2,train
 ganh nạnh,1,9,2,train
 thúi nát,1,8,2,train
 ám ảnh,1,6,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 sống ko bằng chết,1,17,4,train
 thằng mất dạy,1,13,3,train
 sâu mọt,1,7,2,train
@@ -1097,6 +2459,7 @@ mo mieng ra cai gi cung thui,1,28,7,train
 nghèo đói bệnh tật,1,18,4,train
 lết,1,3,1,train
 bợ dái,1,6,2,train
+<<<<<<< HEAD
 đầu bồi,1,7,2,train
 thắng dien,1,10,2,train
 thứ thần kinh,1,13,3,train
@@ -1115,6 +2478,24 @@ sinh vật hạ đẳng,1,16,4,train
 hài cốt khỉ đột,1,15,4,train
 vô tù,1,5,2,train
 do khung,1,8,2,train
+=======
+ngu lol,1,7,2,train
+hùa theo thể hiện đầu óc,1,24,6,train
+việt tân tài trợ phan anh,1,25,6,train
+than với rên,1,12,3,train
+đ*t con mẹ,1,10,3,train
+c** mũi,1,7,2,train
+sướng,1,5,1,train
+sinh vật hạ đẳng,1,16,4,train
+hài cốt khỉ đột,1,15,4,train
+hỗn láo,1,7,2,train
+quẫy,1,4,1,train
+cho vào rừng sống lại với bản năng,1,34,8,train
+kệ cha,1,6,2,train
+ganh nạnh,1,9,2,train
+thúi nát,1,8,2,train
+ám ảnh,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bo tat ngua,1,11,3,train
 sửu nhi,1,8,2,train
 cmnđ,1,4,1,train
@@ -1124,6 +2505,7 @@ lũ cướp,1,7,2,train
 đàn bà,1,6,2,train
 mạng ng rẻ,1,10,3,train
 vcd,1,3,1,train
+<<<<<<< HEAD
 than với rên,1,12,3,train
 đ*t con mẹ,1,10,3,train
 c** mũi,1,7,2,train
@@ -1137,6 +2519,10 @@ bọn cẩu tham quan,1,17,4,train
 bu càng,1,7,2,train
 ném đá,1,6,2,train
 dối trá,1,7,2,train
+=======
+gào mồm ăn vạ,1,13,4,train
+"""bỏ ống""",1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ko làm việc đàng hoàng,1,22,5,train
 hăm doạ bắt bớ,1,14,4,train
 hay ho chỗ nào,1,14,4,train
@@ -1145,6 +2531,11 @@ khiep,1,5,1,train
 câm mõm,1,7,2,train
 vãi trò hề,1,10,3,train
 tên súc vật,1,11,3,train
+<<<<<<< HEAD
+=======
+vô tù,1,5,2,train
+do khung,1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 má mắc nếttt,1,12,3,train
 rên rỉ,1,6,2,train
 lăng mạ,1,7,2,train
@@ -1158,6 +2549,7 @@ cđl,1,3,1,train
 đến các nước tư bản đa đảng dân họ còn dám biểu tình đập phá nên họ mới có thể đứng ở phía trên,1,95,24,train
 cướp tiền 1 cách công khai để đút vào túi mình,1,46,11,train
 nhà xác,1,7,2,train
+<<<<<<< HEAD
 gào mồm ăn vạ,1,13,4,train
 """bỏ ống""",1,8,2,train
 giải phẫu cho thành con gái,1,27,6,train
@@ -1165,6 +2557,8 @@ cmmr,1,4,1,train
 đệt mệ,1,6,2,train
 quần đùi,1,8,2,train
 bu lu bu la,1,11,4,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chơi,1,4,1,train
 đáo,1,3,1,train
 tien tri cau tieu,1,17,4,train
@@ -1177,12 +2571,15 @@ bắt bớ,1,6,2,train
 ngựa loz,1,8,2,train
 hai hòn dái,1,11,3,train
 sang vũ hán mà ở cho đợ ngột ngạt 😒,1,35,10,train
+<<<<<<< HEAD
 đcm m,1,5,2,train
 mặt con,1,7,2,train
 con linh cẩu ăn xác thối,1,24,6,train
 xúc phạm,1,8,2,train
 linh cẩu,1,8,2,train
 con lon giả,1,11,3,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bóp dái cả team,1,15,4,train
 đánh xịt máu mỏ,1,15,4,train
 nứng nứng,1,9,2,train
@@ -1193,6 +2590,7 @@ nó chìa tay ra cứu mình,1,23,6,train
 vãi lz,1,6,2,train
 chẳng ưa,1,8,2,train
 pháo,1,4,1,train
+<<<<<<< HEAD
 chó điên,1,8,2,train
 nó chửi,1,7,2,train
 đến con chó nó còn có ý cầu tiến>>chán lãnh đạovn,1,49,11,train
@@ -1204,14 +2602,31 @@ cẹc,1,3,1,train
 đạn,1,3,1,train
 khiêu dâm,1,9,2,train
 dien dien,1,9,2,train
+=======
+cmmr,1,4,1,train
+đệt mệ,1,6,2,train
+quần đùi,1,8,2,train
+bu lu bu la,1,11,4,train
+bán dồ giả,1,10,3,train
+ở truồng cũng nói sang,1,22,5,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bọn không có tiền,1,17,4,train
 ý kiến lọ chai,1,14,4,train
 thằng trẻ con,1,13,3,train
 vô văn hoá,1,10,3,train
 húp,1,3,1,train
+<<<<<<< HEAD
 lịt pẹ,1,6,2,train
 nha` que vl,1,11,3,train
 cá lóc chùi đít,1,15,4,train
+=======
+đcm m,1,5,2,train
+mặt con,1,7,2,train
+con linh cẩu ăn xác thối,1,24,6,train
+xúc phạm,1,8,2,train
+linh cẩu,1,8,2,train
+con lon giả,1,11,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 alibaba,1,7,1,train
 trộm cắp,1,8,2,train
 lũ óc chó,1,9,3,train
@@ -1223,6 +2638,7 @@ xúc vật,1,7,2,train
 sao hiểu tiếng người,1,20,4,train
 sống chui. rút,1,14,3,train
 thủ lợi,1,7,2,train
+<<<<<<< HEAD
 bán dồ giả,1,10,3,train
 ở truồng cũng nói sang,1,22,5,train
 ch ó,1,4,2,train
@@ -1231,6 +2647,8 @@ tổ sư bố con thần kinh,1,22,6,train
 huyền thoại của bác,1,19,4,train
 tài lanh,1,8,2,train
 đẹp mà ý thức như cc,1,20,6,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đũy,1,3,1,train
 loại ngu dốt như mày,1,20,5,train
 nên học lại,1,11,3,train
@@ -1241,6 +2659,31 @@ hô hào,1,6,2,train
 chị ba phi,1,10,3,train
 trung cong,1,10,2,train
 coi dân nhu đồ ngu,1,18,5,train
+<<<<<<< HEAD
+=======
+lịt pẹ,1,6,2,train
+nha` que vl,1,11,3,train
+cá lóc chùi đít,1,15,4,train
+oe,1,2,1,train
+đù má,1,5,2,train
+loằn,1,4,1,train
+tháh rãh cmn hág,1,16,4,train
+dí buồi vào mặt,1,15,4,train
+ham hố,1,6,2,train
+lũ điên,1,7,2,train
+ch ó,1,4,2,train
+tổ sư bố con thần kinh,1,22,6,train
+đảng búa liềm,1,13,3,train
+huyền thoại của bác,1,19,4,train
+tài lanh,1,8,2,train
+đẹp mà ý thức như cc,1,20,6,train
+vứt,1,3,1,train
+bóp dú,1,6,2,train
+bóp lồnn,1,8,2,train
+taoo,1,4,1,train
+ngon vailon,1,11,2,train
+lão vô văn hóa,1,14,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mẹ lồn,1,6,2,train
 sản phẩm của 1 nền giáo dục thối nát,1,36,9,train
 phản đôôộoong,1,13,2,train
@@ -1250,6 +2693,7 @@ mày óc chó,1,10,3,train
 lũ thổ dân mồm vẩu,1,18,5,train
 chủ tịt,1,7,2,train
 mất phần ăn,1,11,3,train
+<<<<<<< HEAD
 oe,1,2,1,train
 đù má,1,5,2,train
 loằn,1,4,1,train
@@ -1275,6 +2719,8 @@ ngon vailon,1,11,2,train
 lão vô văn hóa,1,14,4,train
 thứ súc vật,1,11,3,train
 "phải chi nhật có một vị ""cha già dân tộc"" như ông hồ thì giờ đã phát triển ngang ngữa đông lào",1,94,22,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 """ tài giỏi""",1,11,3,train
 việt tân,1,8,2,train
 thằng não chó bị nhồi sọ,1,24,6,train
@@ -1286,6 +2732,7 @@ xe bắt chó kg bắt nó,1,20,6,train
 ổ kinh tởm thối tha hèn hạ,1,26,7,train
 cm nó,1,5,2,train
 mie nó,1,6,2,train
+<<<<<<< HEAD
 vứt,1,3,1,train
 bóp dú,1,6,2,train
 bóp lồnn,1,8,2,train
@@ -1299,13 +2746,23 @@ mất hình tượng vl,1,17,4,train
 nhốt vào cho chết,1,17,4,train
 loại này đừng để đẻ trứng,1,25,6,train
 lôi cái đuôi,1,12,3,train
+=======
+ý thức của chị nhung còn thua điểm lí,1,37,9,train
+dlv mất dại,1,11,3,train
+xóa cờ hó vnch,1,14,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 tet mo nó,1,9,3,train
 a dua,1,5,2,train
 đien,1,4,1,train
 bắt giam,1,8,2,train
 lũ chó hại dân,1,14,4,train
 o gan kho dan,1,13,4,train
+<<<<<<< HEAD
 ditmevualonetaolam,1,18,1,train
+=======
+thứ súc vật,1,11,3,train
+"phải chi nhật có một vị ""cha già dân tộc"" như ông hồ thì giờ đã phát triển ngang ngữa đông lào",1,94,22,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thứ mắc dạy,1,11,3,train
 sâu mọt hại nuớc hại dân,1,24,6,train
 gòa,1,3,1,train
@@ -1320,7 +2777,22 @@ vô thần,1,7,2,train
 vô thần vô,1,10,3,train
 vàbg mã,1,7,2,train
 chả có tí hành kinh nào văn hoá,1,31,8,train
+<<<<<<< HEAD
 ý thức của chị nhung còn thua điểm lí,1,37,9,train
+=======
+k biết xem thời gian,1,22,5,train
+chậm tiến,1,11,2,train
+không có đứa nào là người tốt,1,29,7,train
+con đỷ mẹ mày con chó,1,21,6,train
+trộm cươp,1,9,2,train
+show hàng,1,9,2,train
+vấn đề về thần kinh,1,19,5,train
+ditmevualonetaolam,1,18,1,train
+cái vẹo gì,1,10,3,train
+hẹo,1,3,1,train
+dăm ba thằng,1,12,3,train
+xám khí đú,1,10,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mục xương,1,9,2,train
 tởn,1,3,1,train
 xe chở tiền nó lùi vào tận cửa phòng khách,1,42,10,train
@@ -1330,6 +2802,7 @@ bo` cho' do,1,11,3,train
 baker,1,5,1,train
 sống cũng éo để làm gì,1,22,6,train
 đúng sai mà còn k biết thì biết gì,1,34,9,train
+<<<<<<< HEAD
 k biết xem thời gian,1,22,5,train
 chậm tiến,1,11,2,train
 không có đứa nào là người tốt,1,29,7,train
@@ -1358,6 +2831,8 @@ dái chó,1,7,2,train
 dương tính với bệnh thần kinh,1,29,6,train
 lông lon,1,8,2,train
 lũ sâu mọt thối nát,1,19,5,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 phân bò,1,7,2,train
 chết mẹ nó,1,10,3,train
 mất dại,1,7,2,train
@@ -1366,6 +2841,7 @@ cú vl,1,5,2,train
 đjtme,1,5,1,train
 thằng bd,1,8,2,train
 nỗ banh,1,7,2,train
+<<<<<<< HEAD
 cái vẹo gì,1,10,3,train
 hẹo,1,3,1,train
 dăm ba thằng,1,12,3,train
@@ -1375,6 +2851,8 @@ không giống ai và con gì luôn,1,29,7,train
 ô nhiễm chết lần chết mòn,1,25,6,train
 dân tộc suy vong,1,16,4,train
 tầng lớp thanh niên vn bị cs dắt mũi như những con lừa,1,54,13,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mỉa mai trào phúng,1,18,4,train
 ông đầu trọc,1,12,3,train
 xoay vòng vòng như con rối,1,26,6,train
@@ -1385,6 +2863,7 @@ cha,1,3,1,train
 thằg óc chó,1,14,3,train
 đập,1,4,1,train
 go go,1,5,2,train
+<<<<<<< HEAD
 thằng ngu dốt,1,13,3,train
 có miến ziên nào chết liền,1,26,6,train
 bọn lừa đảo,1,11,3,train
@@ -1403,6 +2882,25 @@ bạo dâm,1,7,2,train
 12 con giáp không dóng còn nào,1,30,7,train
 dcu m,1,5,2,train
 khẩu súng,1,9,2,train
+=======
+thâm,1,4,1,train
+dái chó,1,7,2,train
+dương tính với bệnh thần kinh,1,29,6,train
+lông lon,1,8,2,train
+lũ sâu mọt thối nát,1,19,5,train
+thông đít nhau,1,14,3,train
+thằng ngu dốt,1,13,3,train
+có miến ziên nào chết liền,1,26,6,train
+chết cdm,1,8,2,train
+bạo dâm,1,7,2,train
+12 con giáp không dóng còn nào,1,30,7,train
+trên đầu trên cổ,1,16,4,train
+không giống ai và con gì luôn,1,29,7,train
+ô già,1,5,2,train
+ô nhiễm chết lần chết mòn,1,25,6,train
+dân tộc suy vong,1,16,4,train
+tầng lớp thanh niên vn bị cs dắt mũi như những con lừa,1,54,13,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thằng ml,1,8,2,train
 con thùng thần khùng,1,20,4,train
 tuc tiu hay ho gi,1,17,5,train
@@ -1416,12 +2914,15 @@ chúng có biết chữ để đọc báo ko,1,31,8,train
 chet con di me,1,14,4,train
 thằng liệt não,1,14,3,train
 dân nghèo rớt ra xây cái nhà ga 900mil usd,1,42,10,train
+<<<<<<< HEAD
 thông đít nhau,1,14,3,train
 ăn mặc kiểu lồn,1,15,4,train
 vler,1,4,1,train
 ai sống hai mặt thì đeo 2 cái,1,29,8,train
 kă.c,1,4,1,train
 nên đeo bcs thay khẩu trang,1,27,6,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 2`,1,2,1,train
 đậu,1,3,1,train
 hết thời,1,8,2,train
@@ -1433,6 +2934,7 @@ chửi chửi,1,9,2,train
 k-icm ko phải là con trai,1,25,6,train
 ẩu,1,2,1,train
 giật đồ,1,7,2,train
+<<<<<<< HEAD
 óc bò,1,5,2,train
 đách l,1,6,2,train
 đất nước sẽ đi về đâu vs những thằng ngu,1,40,10,train
@@ -1440,6 +2942,10 @@ kêu gọi đc cả đống tiền như ngta k mà ngồi rảnh lồn đi phán
 lâm thồn,1,8,2,train
 bù lu bù loa,1,12,4,train
 không hèn không phải là cộng sản,1,32,7,train
+=======
+dcu m,1,5,2,train
+khẩu súng,1,9,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bùm,1,3,1,train
 đâm đầu chết mẹ đi,1,18,5,train
 hoan tưởng,1,10,2,train
@@ -1449,6 +2955,7 @@ miệng thì bù lu bù loa,1,22,6,train
 thằng đầy tớ,1,12,3,train
 ăn rồi bị họ chửi rủa như chó mà cũng lầy hoài,1,46,12,train
 dai như đĩa đói,1,15,4,train
+<<<<<<< HEAD
 mõm lồn,1,7,2,train
 cgai mẹ,1,7,2,train
 chửi này chửi nọ,1,16,4,train
@@ -1460,14 +2967,33 @@ loai bê đê,1,10,3,train
 chả thèm,1,8,2,train
 con nhỏ ất ơ,1,12,4,train
 đá xéo,1,6,2,train
+=======
+ăn mặc kiểu lồn,1,15,4,train
+vler,1,4,1,train
+ai sống hai mặt thì đeo 2 cái,1,29,8,train
+kă.c,1,4,1,train
+nên đeo bcs thay khẩu trang,1,27,6,train
+tụi giang hồ,1,12,3,train
+chẳng ra gì,1,11,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đáp lồn má mấy thằng,1,20,5,train
 bóp vú bên đường,1,16,4,train
 i thức kém,1,10,3,train
 kệ cha chúng mày,1,16,4,train
 đẻng,1,4,1,train
+<<<<<<< HEAD
 đảng con bò,1,11,3,train
 dkmn,1,4,1,train
 cực kỳ thuyết phục,1,18,4,train
+=======
+óc bò,1,5,2,train
+đách l,1,6,2,train
+đất nước sẽ đi về đâu vs những thằng ngu,1,40,10,train
+kêu gọi đc cả đống tiền như ngta k mà ngồi rảnh lồn đi phán,1,59,15,train
+lâm thồn,1,8,2,train
+bù lu bù loa,1,12,4,train
+không hèn không phải là cộng sản,1,32,7,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nước bọt,1,8,2,train
 chúng mày ngu lắm,1,17,4,train
 chả có đéo,1,10,3,train
@@ -1479,6 +3005,7 @@ vay cho con cháu du học xây nhà,1,31,8,train
 làm ăn thua cả con chó,1,22,6,train
 bốc cứt,1,7,2,train
 cái bài,1,7,2,train
+<<<<<<< HEAD
 tụi giang hồ,1,12,3,train
 chẳng ra gì,1,11,3,train
 cak,1,3,1,train
@@ -1486,6 +3013,8 @@ bán dâm,1,7,2,train
 bọn ngu dốt,1,11,3,train
 con ốc làm chưa được nhưng thích chém gió,1,41,9,train
 ăn cám heo,1,10,3,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đi nhuyễn,1,9,2,train
 k có nghìn nào giúp dân thì nín,1,31,8,train
 con chó điên,1,12,3,train
@@ -1497,6 +3026,7 @@ chớt mẹ mày,1,11,3,train
 dân ngu cu đen,1,14,4,train
 chừng nào tính được 200 tỉ mà ăn được bn mới làm lãnh đạo đc,1,60,15,train
 tiên cha chug mày,1,17,4,train
+<<<<<<< HEAD
 tsb,1,3,1,train
 đuỹ lone khốn nạn,1,17,4,train
 tụi trung +,1,11,3,train
@@ -1508,12 +3038,27 @@ cay vãi lon t,1,13,4,train
 am dụng chức quyền,1,18,4,train
 mieng cho k the moc nga voi,1,27,7,train
 "phải dương tính covid-19 thì mới thấy được giá trị của cuộc sống,thay đổi thái độ",1,81,16,train
+=======
+đảng con bò,1,11,3,train
+dkmn,1,4,1,train
+cực kỳ thuyết phục,1,18,4,train
+bài bạc gái gú,1,14,4,train
+cái đầu bùi,1,11,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 lời hứa mấy ông này như trò hề,1,30,8,train
 hàn xẻng,1,9,2,train
 máu,1,4,1,train
 đứt gân máu,1,13,3,train
 nguc,1,4,1,train
+<<<<<<< HEAD
 thôn cái lù,1,11,3,train
+=======
+cak,1,3,1,train
+bán dâm,1,7,2,train
+bọn ngu dốt,1,11,3,train
+con ốc làm chưa được nhưng thích chém gió,1,41,9,train
+ăn cám heo,1,10,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thằng đàn ông rẻ tiền,1,21,5,train
 câm mẹ m mõm lại nói nhiều,1,26,7,train
 bọn trẻ con nó còn biết về thực tại xã hội chính trị còn mấy ông ấy ấy lại ô cần biết,1,104,22,train
@@ -1525,6 +3070,7 @@ se sua diêm dúa,1,15,4,train
 éo có tự trọng,1,14,4,train
 lũ cặn bả,1,9,3,train
 bọn quan lại,1,12,3,train
+<<<<<<< HEAD
 bài bạc gái gú,1,14,4,train
 cái đầu bùi,1,11,3,train
 tphcm trong tương lai sẽ là thủ đô,1,34,8,train
@@ -1533,6 +3079,8 @@ loz què̉,1,8,2,train
 dư luận viên,1,12,3,train
 hại dân,1,7,2,train
 mập thây,1,8,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đéo đâu,1,7,2,train
 mọe nó,1,6,2,train
 ăn cho nhiều tiền,1,17,4,train
@@ -1545,12 +3093,16 @@ an lon,1,6,2,train
 dap chet me no,1,14,4,train
 con cho,1,7,2,train
 vua gia vua sau,1,15,4,train
+<<<<<<< HEAD
 thằng bede,1,10,2,train
 hậm hực,1,7,2,train
 cái đầu ko có não,1,17,5,train
 chột dịch,1,9,2,train
 quan lieu,1,9,2,train
 yeu sach,1,8,2,train
+=======
+thôn cái lù,1,11,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 dkm cs,1,6,2,train
 mấy ông áo vàng cho lính đánh xe taxi chặn đường để bắt sai làn,1,63,15,train
 mắc ói,1,6,2,train
@@ -1561,6 +3113,7 @@ mo miệng ra nghe thui như dong cuc,1,34,8,train
 ngu mà ko biết nhìn lại mình,1,28,7,train
 tát,1,3,1,train
 vice lone,1,9,2,train
+<<<<<<< HEAD
 nghẹo,1,5,1,train
 chui rua,1,8,2,train
 cái qằn qè,1,10,3,train
@@ -1579,6 +3132,22 @@ mùa chuối sẽ cùng nhau về phụt cuốc,1,35,8,train
 choi da,1,7,2,train
 nên vào tù ở trước thay vì gặp người khác,1,41,10,train
 vòng vo tam quốc,1,16,4,train
+=======
+loz què̉,1,8,2,train
+dư luận viên,1,12,3,train
+hại dân,1,7,2,train
+mập thây,1,8,2,train
+nghẹo,1,5,1,train
+chui rua,1,8,2,train
+mùa chuối sẽ cùng nhau về phụt cuốc,1,35,8,train
+choi da,1,7,2,train
+thằng bede,1,10,2,train
+hậm hực,1,7,2,train
+cái đầu ko có não,1,17,5,train
+chột dịch,1,9,2,train
+quan lieu,1,9,2,train
+yeu sach,1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 hiep dap dan,1,12,3,train
 ghét cây ghét đắng,1,18,4,train
 bợ đít vcc,1,10,3,train
@@ -1593,6 +3162,7 @@ bọn đó,1,6,2,train
 bâu,1,3,1,train
 tư cách đéo xịn,1,15,4,train
 dm éo học thì làm cc gì biết chữ,1,39,9,train
+<<<<<<< HEAD
 dme,1,3,1,train
 dân thích làm nô lệ .chưa thích làm người,1,41,9,train
 thằng mặt heo,1,13,3,train
@@ -1602,6 +3172,9 @@ gian dâm,1,8,2,train
 lãnh đạo già,1,12,3,train
 chuyện hài nhà sản,1,18,4,train
 tán vô họng,1,11,3,train
+=======
+bắt ky,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 hồn,1,3,1,train
 miệng lưỡi,1,10,2,train
 khẩu nghiệp quả báo sớm,1,23,5,train
@@ -1609,10 +3182,15 @@ có não thì nên sử dụng chứ cứ để nó đóng thành bê tông thì
 miệng rộng,1,10,2,train
 lão phét,1,8,2,train
 riết không ra gì,1,16,4,train
+<<<<<<< HEAD
 bốc họ chăn gái,1,15,4,train
 trắng cũng thành đen,1,20,4,train
 đeos,1,4,1,train
 thu vat,1,7,2,train
+=======
+nên vào tù ở trước thay vì gặp người khác,1,41,10,train
+vòng vo tam quốc,1,16,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đừng nghe những gì cs nói,1,25,6,train
 hửi quần xì,1,11,3,train
 thằng hãm lol,1,13,3,train
@@ -1624,6 +3202,7 @@ chệt đỏ,1,7,2,train
 doi kho,1,7,2,train
 an chan,1,7,2,train
 thàng,1,5,1,train
+<<<<<<< HEAD
 bắt ky,1,6,2,train
 ích kỉ,1,6,2,train
 thang ml,1,8,2,train
@@ -1634,6 +3213,11 @@ cs như bầy sư tử săn mồi,1,24,7,train
 a rất thượng đẳng,1,17,4,train
 thích lây bệnh,1,14,3,train
 hung hãn,1,8,2,train
+=======
+chuyên gia dạy chó chuan men,1,28,6,train
+đi sau làm sau,1,14,4,train
+ích kỉ,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 vẫn là dân khổ . đảng cs muôn năm,1,33,9,train
 coin card,1,9,2,train
 đĩ già khùng,1,12,3,train
@@ -1641,10 +3225,17 @@ cút xéo,1,7,2,train
 dâm l,1,5,2,train
 khắm như nước mắm,1,17,4,train
 xấu vkl,1,7,2,train
+<<<<<<< HEAD
 văn hoá quá kém,1,15,4,train
 ý thức thua cả một con chó,1,26,7,train
 vãi cả,1,6,2,train
 có lồn đâu mà lấy 1 tỷ chùi trời,1,32,9,train
+=======
+bốc họ chăn gái,1,15,4,train
+trắng cũng thành đen,1,20,4,train
+đeos,1,4,1,train
+thu vat,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 vll,1,3,1,train
 tiền bẩn,1,8,2,train
 căt cho,1,7,2,train
@@ -1655,6 +3246,7 @@ con mẹ mày thằng chó,1,20,5,train
 tiếng xấu muôn đời,1,18,4,train
 thằng nhơ bẩn,1,13,3,train
 tàu k h ự a,1,11,5,train
+<<<<<<< HEAD
 chuyên gia dạy chó chuan men,1,28,6,train
 đi sau làm sau,1,14,4,train
 nói thì hay,1,11,3,train
@@ -1665,6 +3257,8 @@ tinh trùng khuyết tật,1,24,4,train
 đồ quê mùa,1,10,3,train
 gào thét,1,8,2,train
 má dơ vl,1,8,3,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bố m đéo,1,8,3,train
 m cắn càn,1,9,3,train
 cmm r,1,5,2,train
@@ -1673,6 +3267,7 @@ th nghiện,1,9,2,train
 éo hỉu,1,6,2,train
 con mày,1,7,2,train
 ngu như mày,1,11,3,train
+<<<<<<< HEAD
 đào đất ngủ đi,1,14,4,train
 bọn mất dạy,1,11,3,train
 tay cô gái to,1,13,4,train
@@ -1685,12 +3280,32 @@ thằng bệnh hoạn,1,15,3,train
 lx má,1,5,2,train
 con c**,1,7,2,train
 lũ ko có não,1,12,4,train
+=======
+văn hoá quá kém,1,15,4,train
+ý thức thua cả một con chó,1,26,7,train
+vãi cả,1,6,2,train
+có lồn đâu mà lấy 1 tỷ chùi trời,1,32,9,train
+thằng mả mẹ,1,11,3,train
+lũ ngu dân,1,10,3,train
+đào đất ngủ đi,1,14,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thấy ghê,1,8,2,train
 đám quỹ,1,7,2,train
 conquy già,1,10,2,train
 chương mặt ra,1,13,3,train
+<<<<<<< HEAD
 lgi,1,3,1,train
 danh,1,4,1,train
+=======
+nói thì hay,1,11,3,train
+chán vãi lồng,1,13,3,train
+lũ 3/// cccđ,1,12,3,train
+ũ 3/// sỏ lá,1,12,4,train
+tinh trùng khuyết tật,1,24,4,train
+đồ quê mùa,1,10,3,train
+gào thét,1,8,2,train
+má dơ vl,1,8,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 vũ khí,1,6,2,train
 ăn mặc còn thua ng ăn xin,1,25,7,train
 lắc não,1,7,2,train
@@ -1703,6 +3318,7 @@ chứ tu gì,1,9,3,train
 buồi hiền,1,9,2,train
 thịt người,1,12,2,train
 tởm vkl,1,7,2,train
+<<<<<<< HEAD
 thằng mả mẹ,1,11,3,train
 lũ ngu dân,1,10,3,train
 sai tôi mọi,1,11,3,train
@@ -1711,6 +3327,8 @@ cắn răng,1,8,2,train
 16 vàng 4 tốt,1,13,4,train
 top 4 chưa có mà lại thế lày,1,28,8,train
 ghê gớm,1,7,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nhà sản thích tấu hài,1,21,5,train
 thò thụt,1,8,2,train
 bà bđ,1,5,2,train
@@ -1721,6 +3339,7 @@ tẩu tán cất giấu mấy ngàn tỷ vào túi riêng,1,42,10,train
 t cho xuống cầu sg,1,18,5,train
 chít mẹ,1,7,2,train
 vãi loinmm,1,10,2,train
+<<<<<<< HEAD
 ngu như con chó,1,15,4,train
 chống phá nửa mùa,1,17,4,train
 xàm le xàm lông xàm lá,1,22,6,train
@@ -1731,14 +3350,29 @@ bọn phản động,1,16,3,train
 thứ chó lưu vong,1,18,4,train
 cạn tàu gáo máng,1,16,4,train
 a dg nhai bcs,1,13,4,train
+=======
+lgi,1,3,1,train
+danh,1,4,1,train
+giet,1,4,1,train
+con cẩu,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thằng thằng bóng lộn,1,20,4,train
 xàm lòn,1,7,2,train
 mì,1,2,1,train
 chết sớm,1,8,2,train
 chết ko kịp ngáp,1,16,4,train
 sai khiến,1,9,2,train
+<<<<<<< HEAD
 lz mẹ,1,5,2,train
 lol mẹ,1,6,2,train
+=======
+sai tôi mọi,1,11,3,train
+đập tét mỏ,1,10,3,train
+cắn răng,1,8,2,train
+16 vàng 4 tốt,1,13,4,train
+top 4 chưa có mà lại thế lày,1,28,8,train
+ghê gớm,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 unfollow,1,8,1,train
 hãm loz,1,7,2,train
 xỉ nhục,1,7,2,train
@@ -1751,6 +3385,7 @@ lí do lí trấu,1,13,4,train
 thằng vẹo,1,11,2,train
 nghẹo cổ,1,10,2,train
 vẹo cổ,1,8,2,train
+<<<<<<< HEAD
 giet,1,4,1,train
 con cẩu,1,7,2,train
 tên khốn,1,8,2,train
@@ -1760,6 +3395,8 @@ tật,1,4,1,train
 long,1,4,1,train
 bờ phẹc,1,7,2,train
 khong con thuoc chua,1,20,4,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mất mặt,1,7,2,train
 chữa,1,4,1,train
 đừng có về vn nữa,1,17,5,train
@@ -1769,6 +3406,7 @@ chửi sằn bậy,1,12,3,train
 bóng dơ bóng bẩn bóng thúi,1,26,6,train
 ớn,1,2,1,train
 thứ ăn cháo đá bát,1,18,5,train
+<<<<<<< HEAD
 lên chức để nhét con cháu vào thây bã,1,37,9,train
 đếch thèm,1,9,2,train
 thông ass,1,9,2,train
@@ -1781,13 +3419,29 @@ tai bã như tai trâu,1,19,5,train
 cô bé phóng viên như thể sắp bợp cho ngài lãnh đạo 1 tai cho chừa ngu người,1,75,18,train
 vo hoc,1,6,2,train
 lão đại biểu,1,12,3,train
+=======
+lz mẹ,1,5,2,train
+lol mẹ,1,6,2,train
+lên chức để nhét con cháu vào thây bã,1,37,9,train
+đếch thèm,1,9,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bọn nghèo,1,9,2,train
 dựng lông,1,9,2,train
 biến hóa cả số,1,14,4,train
 thanglon,1,8,1,train
+<<<<<<< HEAD
 lũ sư quốc doanh,1,16,4,train
 ổ phá hoại đạo pháp,1,19,5,train
 bọn nằm vùng,1,12,3,train
+=======
+tên khốn,1,8,2,train
+bị đánh,1,7,2,train
+tật,1,4,1,train
+đừng hi vọng nhiều ở luật pháp,1,31,7,train
+long,1,4,1,train
+bờ phẹc,1,7,2,train
+khong con thuoc chua,1,20,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 benh chet,1,9,2,train
 dong ho ba doi nha no bi benh,1,29,8,train
 dau kho,1,7,2,train
@@ -1801,6 +3455,7 @@ phỉ bág,1,7,2,train
 vô ý thức,1,9,3,train
 địt chị mày,1,11,3,train
 chửi ngu,1,8,2,train
+<<<<<<< HEAD
 "người khổ, rất khổ là nhờ ơn sự lãnh đạo của đám ngợm cộng sản đoảng và boác",1,76,18,train
 em gái ngon ngọt nc,1,19,5,train
 buồi to,1,7,2,train
@@ -1810,6 +3465,11 @@ học chả hết cấp 1 mà cũng có bằng đh,1,36,10,train
 "cs nghèo chỉ có tiền ăn bánh mì, ko có tiền làm tường chắn gió",1,62,15,train
 trúng phong,1,11,2,train
 ép phải nhận tiền,1,17,4,train
+=======
+ngôn ngữ đả kích và khiêu khích,1,31,7,train
+chống đảng và nhà nc việt nam,1,29,7,train
+clck,1,4,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 hù đánh,1,7,2,train
 vang xin,1,8,2,train
 mạnh miệng,1,10,2,train
@@ -1817,6 +3477,12 @@ su,1,2,1,train
 bọn tàu,1,7,2,train
 con điếm,1,8,2,train
 i*,1,2,1,train
+<<<<<<< HEAD
+=======
+lũ sư quốc doanh,1,16,4,train
+ổ phá hoại đạo pháp,1,19,5,train
+bọn nằm vùng,1,12,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 phá nát văn hoá,1,15,4,train
 dơ dái,1,6,2,train
 bẩn thiểu,1,9,2,train
@@ -1828,6 +3494,7 @@ chetme,1,6,1,train
 chúng tao,1,9,2,train
 lệch lạc,1,8,2,train
 áp bức,1,6,2,train
+<<<<<<< HEAD
 ngôn ngữ đả kích và khiêu khích,1,31,7,train
 chống đảng và nhà nc việt nam,1,29,7,train
 clck,1,4,1,train
@@ -1836,6 +3503,8 @@ thua súc sinh,1,13,3,train
 con mụ bộ y tế khóc khi bệnh nhân uống phải thuốc giả,1,53,13,train
 chân lý giả,1,13,3,train
 tư tưởng giả,1,14,3,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 giết hại,1,8,2,train
 thanh trừng đẫm máu,1,19,4,train
 cây nọc giữa háng,1,17,4,train
@@ -1849,10 +3518,13 @@ bà nội m,1,8,3,train
 tưởng mình là hoàng thân quốc thích của bên tàu bên mĩ j còn tồn tại,1,68,16,train
 cơn sản,1,7,2,train
 hóa điên hóa khùng,1,18,4,train
+<<<<<<< HEAD
 xàm chó,1,7,2,train
 tự chết,1,7,2,train
 chó chê mèo lắm lông,1,20,5,train
 gạch đá đủ xây nhà,1,18,5,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 clg v,1,5,2,train
 già đầu mà non,1,14,4,train
 nói bậy,1,7,2,train
@@ -1865,12 +3537,18 @@ mặt nhìn kinh quá,1,17,4,train
 tan,1,3,1,train
 *** cm,1,6,2,train
 thằng ăn xin,1,12,3,train
+<<<<<<< HEAD
 vãi lòn,1,7,2,train
 mặt heo,1,7,2,train
 liếm lỗ nhị,1,11,3,train
 osin,1,4,1,train
 bò đỏ umê bưng bô làm gì có cửa đu,1,34,10,train
 con chốt thí cho giặc tàu,1,25,6,train
+=======
+con mụ bộ y tế khóc khi bệnh nhân uống phải thuốc giả,1,53,13,train
+chân lý giả,1,13,3,train
+tư tưởng giả,1,14,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đạo đức giả,1,14,3,train
 đường lối giả,1,16,3,train
 bầu cử giả,1,13,3,train
@@ -1881,6 +3559,7 @@ suy đồi thối nát đến mọi rợ,1,33,7,train
 khịa vãi l,1,10,3,train
 dit con me no,1,13,4,train
 an ban,1,6,2,train
+<<<<<<< HEAD
 biết cc gì,1,10,3,train
 con nhỏ đả kích,1,15,4,train
 ôi thơm tho j,1,13,4,train
@@ -1900,6 +3579,23 @@ mã bố nhà m,1,11,4,train
 môi dầy,1,7,2,train
 thất học,1,8,2,train
 lóc cóc,1,7,2,train
+=======
+xàm chó,1,7,2,train
+tự chết,1,7,2,train
+chó chê mèo lắm lông,1,20,5,train
+gạch đá đủ xây nhà,1,18,5,train
+biết cc gì,1,10,3,train
+con nhỏ đả kích,1,15,4,train
+xồn,1,3,1,train
+mã bố nhà m,1,11,4,train
+đụma,1,4,1,train
+vãi lòn,1,7,2,train
+mặt heo,1,7,2,train
+liếm lỗ nhị,1,11,3,train
+osin,1,4,1,train
+bò đỏ umê bưng bô làm gì có cửa đu,1,34,10,train
+con chốt thí cho giặc tàu,1,25,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 gốm,1,3,1,train
 buồn cười,1,9,2,train
 wai,1,3,1,train
@@ -1913,11 +3609,14 @@ quên mang não,1,13,3,train
 chết nó chôn tập thể,1,20,5,train
 ăn cứt,1,6,2,train
 tiên sư,1,7,2,train
+<<<<<<< HEAD
 mồm vén lên như cái bồn cầu,1,27,7,train
 ngu vkl,1,7,2,train
 tz,1,2,1,train
 hoa lài cặm bãi shit trâu,1,25,6,train
 bú bóng,1,7,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 rau tưới nhớt,1,13,3,train
 thuốc kích phọt,1,15,3,train
 chất tạo nạc,1,12,3,train
@@ -1929,6 +3628,7 @@ dien khung,1,10,2,train
 lu virut,1,8,2,train
 gáy to,1,6,2,train
 hô,1,2,1,train
+<<<<<<< HEAD
 suc vât,1,7,2,train
 chêt me,1,7,2,train
 con đàn bà khó ưa,1,17,5,train
@@ -1938,6 +3638,13 @@ kẻ nhận thức kém,1,16,4,train
 độc,1,3,1,train
 mọi chuyện sẽ được che chắn nếu chủ trường là con gái của tướng vệ và thủ tướng phúc,1,84,19,train
 dơ dơ,1,5,2,train
+=======
+môi dầy,1,7,2,train
+thất học,1,8,2,train
+lóc cóc,1,7,2,train
+ý thức nó cũng y vậy,1,20,6,train
+lấy tiền nấu thuốc,1,18,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 lịt mẹ nó,1,9,3,train
 xaolonnnnnnnnn,1,14,1,train
 ý thức còn kém hơn kiến thức lý,1,31,8,train
@@ -1945,7 +3652,15 @@ bày đặc,1,7,2,train
 bố thằng điên,1,13,3,train
 t m ngu,1,7,3,train
 sống sạch lên,1,13,3,train
+<<<<<<< HEAD
 kiếp con bò,1,11,3,train
+=======
+mồm vén lên như cái bồn cầu,1,27,7,train
+ngu vkl,1,7,2,train
+tz,1,2,1,train
+hoa lài cặm bãi shit trâu,1,25,6,train
+bú bóng,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 vailunnn,1,8,1,train
 hồ chí minh giả,1,15,4,train
 ỉa vào mặt,1,10,3,train
@@ -1959,6 +3674,7 @@ nhục con chó qá,1,15,4,train
 xích cổ cách ly,1,15,4,train
 thag ml,1,7,2,train
 bán rẻ,1,6,2,train
+<<<<<<< HEAD
 ý thức nó cũng y vậy,1,20,6,train
 lấy tiền nấu thuốc,1,18,4,train
 thả trôi sông,1,13,3,train
@@ -1967,6 +3683,8 @@ cách ly làm gì tốn chi phí,1,26,7,train
 "sống nước này, nước kia,quốc tịch này quốc tịch kia",1,51,10,train
 việt nam là chổ tạm trú,1,23,6,train
 tao cừ tao ỉa,1,13,4,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 sủa cc,1,6,2,train
 xuống đất ngủ,1,13,3,train
 con đi gia,1,10,3,train
@@ -1977,6 +3695,7 @@ ngu lâu dốt bền,1,15,4,train
 cưỡng hiếp,1,10,2,train
 chó đàn,1,7,2,train
 sủa như chó,1,11,3,train
+<<<<<<< HEAD
 lũ chó hại dân hại nước,1,23,6,train
 dạy đời,1,7,2,train
 ớn cả lạnh,1,10,3,train
@@ -1988,13 +3707,27 @@ bê đe,1,5,2,train
 xâu,1,3,1,train
 sờ trym,1,7,2,train
 con bóng ngu ngục,1,19,4,train
+=======
+kiếp con bò,1,11,3,train
+lũ chó hại dân hại nước,1,23,6,train
+dạy đời,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 phá hại,1,7,2,train
 dân nuôn đời vất vả,1,19,5,train
 nhôt,1,4,1,train
 2tr usd thì chú mày nuốt,1,24,6,train
 tưởng mình hay vs nguy hiểm,1,27,6,train
+<<<<<<< HEAD
 bài đặt,1,9,2,train
 the lòn ma the lòn ma,1,21,6,train
+=======
+thả trôi sông,1,13,3,train
+cách ly làm gì tốn chi phí,1,26,7,train
+"ổ chứa dịch của bọn rich kid ,việt kiều",1,39,9,train
+"sống nước này, nước kia,quốc tịch này quốc tịch kia",1,51,10,train
+việt nam là chổ tạm trú,1,23,6,train
+tao cừ tao ỉa,1,13,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đỷ,1,2,1,train
 xóa sổ,1,6,2,train
 khùng điên nang,1,15,3,train
@@ -2009,6 +3742,7 @@ giả danh,1,8,2,train
 ko chấp nhận,1,12,3,train
 pản động,1,8,2,train
 tử hih,1,6,2,train
+<<<<<<< HEAD
 sủa bậy,1,9,2,train
 đánh chết mẹ,1,12,3,train
 dit me,1,6,2,train
@@ -2016,6 +3750,10 @@ con mẹ chúng m,1,14,4,train
 "ăn,cuc",1,6,1,train
 cụp đuôi,1,8,2,train
 chửi tục,1,8,2,train
+=======
+fuckboi,1,7,1,train
+sủa bậy,1,9,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chặn bố,1,7,2,train
 đéo rảnh,1,8,2,train
 đầu bà cmay,1,11,3,train
@@ -2025,6 +3763,11 @@ ko co an hoc,1,12,4,train
 chua,1,4,1,train
 loại này tử hình luôn cách ly làm gì,1,36,9,train
 bụng như con heo,1,17,4,train
+<<<<<<< HEAD
+=======
+bài đặt,1,9,2,train
+the lòn ma the lòn ma,1,21,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nằm đấy vs tay trái,1,19,5,train
 lai lưng,1,8,2,train
 thằng bụng bà đẻ,1,16,4,train
@@ -2040,10 +3783,13 @@ chảm,1,4,1,train
 oc no,1,5,2,train
 no nhu thuoc no,1,15,4,train
 dung dai chu co ngoi dai,1,24,6,train
+<<<<<<< HEAD
 fuckboi,1,7,1,train
 lo ăn chơi,1,10,3,train
 lười biếng,1,10,2,train
 """ xã hội đổ nát, nhà nước vô dụng """,1,35,10,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 trại thương điên,1,16,3,train
 bo tay . com,1,12,4,train
 sờ chim,1,7,2,train
@@ -2057,11 +3803,14 @@ mất lịch sự,1,11,3,train
 nhìn ngứa mắt,1,13,3,train
 mù quán,1,7,2,train
 mặt dầy,1,7,2,train
+<<<<<<< HEAD
 bán rẻ tổ quốc,1,14,4,train
 cái mặt con này,1,18,4,train
 bao cao su,1,10,3,train
 mong nhà mày chết bớt,1,21,5,train
 rủa người ta chết,1,17,4,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 3d,1,2,1,train
 thằng rách,1,10,2,train
 con đóm sâu bọ,1,14,4,train
@@ -2073,6 +3822,7 @@ mang thẳng vào nhà hoả táng mà cách biệt,1,40,9,train
 ổ dlv,1,5,2,train
 lũ bất tài,1,10,3,train
 học hành không lo,1,17,4,train
+<<<<<<< HEAD
 có tên nào tốt đẹp đâu,1,22,6,train
 thằng ko não,1,12,3,train
 mã cha,1,6,2,train
@@ -2084,14 +3834,30 @@ sao ko giữ được cái nết vậy,1,27,7,train
 mất văn hóa,1,11,3,train
 bó tay,1,6,2,train
 eo ơi,1,5,2,train
+=======
+lo ăn chơi,1,10,3,train
+lười biếng,1,10,2,train
+""" xã hội đổ nát, nhà nước vô dụng """,1,35,10,train
+đám phá,1,7,2,train
+lũ tham quan ô lại,1,18,5,train
+có tên nào tốt đẹp đâu,1,22,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bóp cu,1,6,2,train
 bon comcom,1,10,2,train
 xấu còn như đàn og,1,18,5,train
 chết con đỉ mẹ,1,14,4,train
 bịnh thần kinh ác hiểm,1,22,5,train
+<<<<<<< HEAD
 pháp luật là thể loại hài hước,1,30,7,train
 coi chừng con cháu ông pà của pà .... ở địa ngục chờ pà,1,55,14,train
 coi chừng xe pắt chó pắt,1,24,6,train
+=======
+bán rẻ tổ quốc,1,14,4,train
+cái mặt con này,1,18,4,train
+bao cao su,1,10,3,train
+mong nhà mày chết bớt,1,21,5,train
+rủa người ta chết,1,17,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 con mụ thần kinh,1,16,4,train
 boác,1,4,1,train
 vào đồn ca về hay bị trúng gió,1,30,8,train
@@ -2103,6 +3869,7 @@ ccccc,1,5,1,train
 đầu đường xó chợ,1,16,4,train
 đo ngu,1,6,2,train
 cho vào tù cách ly mẹ đi,1,24,7,train
+<<<<<<< HEAD
 đám phá,1,7,2,train
 lũ tham quan ô lại,1,18,5,train
 đ**,1,3,1,train
@@ -2117,11 +3884,21 @@ xam lom,1,7,2,train
 beo,1,3,1,train
 vào lò,1,6,2,train
 không có bằng cấp 3 nhưng lý luận ct rất giỏi,1,45,11,train
+=======
+đ**,1,3,1,train
+vãi l*n,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 phơi xác,1,8,2,train
 deoooo,1,6,1,train
 thú vật,1,7,2,train
 rút sạch sương máu,1,18,4,train
+<<<<<<< HEAD
 không khác gì một con vi rút luôn luôn gây mệt mỏi,1,50,12,train
+=======
+pháp luật là thể loại hài hước,1,30,7,train
+coi chừng con cháu ông pà của pà .... ở địa ngục chờ pà,1,55,14,train
+coi chừng xe pắt chó pắt,1,24,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chó đẻ,1,8,2,train
 chua bao giờ người lại rẽ như bây giờ,1,37,9,train
 dơ vl,1,5,2,train
@@ -2137,10 +3914,13 @@ khi du,1,6,2,train
 giờ giấc cao su,1,15,4,train
 cha chung ko ai khóc,1,20,5,train
 cặt,1,3,1,train
+<<<<<<< HEAD
 lôn va nô,1,9,3,train
 làm riêng một phần nghĩa địa để trôn riêng những người cộng sản,1,63,13,train
 người theo cộng sản là quỷ đội lốt người có tội đồ lớn với dân tộc,1,66,16,train
 con dĩ,1,6,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 loạn luan,1,9,2,train
 nlol,1,4,1,train
 lòi cầm thú,1,11,3,train
@@ -2153,6 +3933,7 @@ dizz mẹ mày,1,11,3,train
 ra sức phấn đấu làm trâu chó ngựa cho người ta sai bảo,1,54,13,train
 gây hiệu ứng đám đông để nôi tiếng,1,34,8,train
 làm loạn để mọi người chú ý,1,27,7,train
+<<<<<<< HEAD
 bon bê đê,1,9,3,train
 nhãi ranh,1,9,2,train
 eo,1,2,1,train
@@ -2161,6 +3942,11 @@ bọn chó sủa bậy,1,15,4,train
 cho khug,1,8,2,train
 căn buôi,1,8,2,train
 trèo cao ngã đau,1,16,4,train
+=======
+không khác gì một con vi rút luôn luôn gây mệt mỏi,1,50,12,train
+giấy tiền vàng bạc,1,18,4,train
+bien hô,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mặt l,1,5,2,train
 hiếp zdam,1,9,2,train
 giàu có thiệt nhưng có giúp đỡ ai đâu,1,37,9,train
@@ -2169,7 +3955,14 @@ thằng cc,1,8,2,train
 phán như thánh,1,14,3,train
 biết cái đéo j,1,14,4,train
 ban nuoc,1,8,2,train
+<<<<<<< HEAD
 mẹ cha chúng nó bọn mất lương tri,1,33,8,train
+=======
+lôn va nô,1,9,3,train
+làm riêng một phần nghĩa địa để trôn riêng những người cộng sản,1,63,13,train
+người theo cộng sản là quỷ đội lốt người có tội đồ lớn với dân tộc,1,66,16,train
+con dĩ,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đẳng ngang với di,1,17,4,train
 đàn áp lạm quyền,1,16,4,train
 mở miệng là thịt chó,1,20,5,train
@@ -2181,6 +3974,7 @@ thông minh tý đi bà con,1,23,6,train
 con bong thuôi,1,14,3,train
 "ung thu hong,lưoi miệng",1,23,4,train
 thằng bóng khùng,1,16,3,train
+<<<<<<< HEAD
 giấy tiền vàng bạc,1,18,4,train
 bien hô,1,7,2,train
 loz me,1,6,2,train
@@ -2190,6 +3984,8 @@ cha mày,1,7,2,train
 ăn nói vậy,1,10,3,train
 chai sting vô đầu,1,17,4,train
 cô lập,1,6,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mom thui,1,8,2,train
 loài kg an học mat dai,1,24,6,train
 khóc nhu cho,1,13,3,train
@@ -2201,6 +3997,7 @@ nhìn mà gét,1,11,3,train
 rút đc kinh nghiệm hết lần này qua lần khác,1,43,10,train
 càn quét,1,8,2,train
 ông họ hồ,1,9,3,train
+<<<<<<< HEAD
 ném,1,3,1,train
 ngu chưa con,1,12,3,train
 đ ịt,1,4,2,train
@@ -2209,6 +4006,11 @@ rách,1,4,1,train
 ảnh hưởng kinh tế gì nhà bạn k,1,30,8,train
 xích,1,4,1,train
 rống,1,4,1,train
+=======
+mẹ cha chúng nó bọn mất lương tri,1,33,8,train
+ném,1,3,1,train
+ngu chưa con,1,12,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bán hàng fake,1,13,3,train
 cồng đầu,1,8,2,train
 già mồm,1,7,2,train
@@ -2217,7 +4019,15 @@ kệ mẹ nó,1,8,3,train
 tro he,1,6,2,train
 giàu thì nói gì cũng được,1,25,6,train
 đu càng qua mỹ,1,14,4,train
+<<<<<<< HEAD
 mày to,1,6,2,train
+=======
+cha mày,1,7,2,train
+ấy thế mà đi thương con chó,1,27,7,train
+ăn nói vậy,1,10,3,train
+chai sting vô đầu,1,17,4,train
+cô lập,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 câm mẹ nó mồm,1,13,4,train
 con đỹ,1,6,2,train
 nhục cái mặt,1,12,3,train
@@ -2233,9 +4043,12 @@ chôn chừa cái đầu nó,1,20,5,train
 đầu nó,1,6,2,train
 lòi óc,1,6,2,train
 hồn siêu phách tán,1,18,4,train
+<<<<<<< HEAD
 chợ búa,1,7,2,train
 chồn lùi,1,8,2,train
 lam chuyện,1,10,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ko đào thai,1,11,3,train
 khẩu,1,4,1,train
 mỉa mai vc,1,10,3,train
@@ -2249,12 +4062,16 @@ diệt chủng mà mấy triệu tín đồ vẫn tin là doanh nhân hay danh n
 bò đỏ,1,6,2,train
 "mấy chị \""có ý thức",1,24,5,train
 nghỉ con mẹ mày,1,15,4,train
+<<<<<<< HEAD
 lòi phèo,1,8,2,train
 cạn lời,1,7,2,train
 vloz,1,4,1,train
 bệnh thành tích và gia đình trị con ông cháu cha,1,48,11,train
 bất tài,1,7,2,train
 chảy máu chất xám,1,17,4,train
+=======
+mày to,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ngu cmn người,1,13,3,train
 ném cmn,1,7,2,train
 trung +,1,7,2,train
@@ -2265,6 +4082,7 @@ thùng rỗng kêu to,1,17,4,train
 con me gia,1,10,3,train
 sự xúc phạm nặng nề người nhìn,1,30,7,train
 miệng lỗ mồm long công,1,22,5,train
+<<<<<<< HEAD
 gây tai nạn,1,11,3,train
 lều báo,1,7,2,train
 não cứt,1,7,2,train
@@ -2272,6 +4090,11 @@ nốn lừng,1,8,2,train
 mấy thành phần bợ đít,1,21,5,train
 dập,1,3,1,train
 tưởng nhớ để sống lại à,1,23,6,train
+=======
+chợ búa,1,7,2,train
+chồn lùi,1,8,2,train
+lam chuyện,1,10,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 miệng hô,1,8,2,train
 các em nầy khi vào báo “công ngủ” với ác hồ thì phải chỉa vào mặt ác hồ như thế nầy nè,1,86,22,train
 hà lội văn hiến,1,15,4,train
@@ -2281,6 +4104,7 @@ lửa đốt,1,7,2,train
 bố tổ sư,1,8,3,train
 súng,1,4,1,train
 bắn cho phát,1,12,3,train
+<<<<<<< HEAD
 tụt mẹ nó,1,9,3,train
 dm cấm cãi,1,10,3,train
 ta đây,1,6,2,train
@@ -2293,14 +4117,35 @@ chán,1,5,1,train
 già lẫn,1,7,2,train
 ngáo đét,1,8,2,train
 bêde,1,4,1,train
+=======
+lòi phèo,1,8,2,train
+cạn lời,1,7,2,train
+vloz,1,4,1,train
+bệnh thành tích và gia đình trị con ông cháu cha,1,48,11,train
+bất tài,1,7,2,train
+chảy máu chất xám,1,17,4,train
+bán rẻ đất nước,1,15,4,train
+tụt mẹ nó,1,9,3,train
+dm cấm cãi,1,10,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 trốn phía sau mặt tiền,1,22,5,train
 xạo lôz,1,7,2,train
 ngôn lù,1,7,2,train
 uống rượu lái xe,1,16,4,train
+<<<<<<< HEAD
 mâm nào cũng có,1,15,4,train
 rảnh hánh,1,9,2,train
 ý thức như củ cải,1,17,5,train
 giải toả,1,8,2,train
+=======
+gây tai nạn,1,11,3,train
+lều báo,1,7,2,train
+não cứt,1,7,2,train
+nốn lừng,1,8,2,train
+mấy thành phần bợ đít,1,21,5,train
+dập,1,3,1,train
+tưởng nhớ để sống lại à,1,23,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bon cho ca,1,10,3,train
 xin tien xin bia xin ruou tây,1,29,7,train
 long hanh,1,9,2,train
@@ -2312,6 +4157,7 @@ tương tác đen vl,1,16,4,train
 dot phao,1,8,2,train
 lỗ llon,1,7,2,train
 ức hiếp dân thì giỏi,1,20,5,train
+<<<<<<< HEAD
 bán rẻ đất nước,1,15,4,train
 san voi,1,7,2,train
 cái âm hộ,1,9,3,train
@@ -2319,6 +4165,8 @@ te tua,1,6,2,train
 con cặt,1,7,2,train
 lồ.n,1,4,1,train
 bị mất ví,1,9,3,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ba mu,1,5,2,train
 lůa đao,1,7,2,train
 ai nói gì cũng tin,1,18,5,train
@@ -2329,6 +4177,7 @@ kinh khủng,1,10,2,train
 não teo rồi hoá chó,1,19,5,train
 mặt k co tí gì gọi là phúc hậu,1,30,9,train
 mất day,1,7,2,train
+<<<<<<< HEAD
 khổ,1,3,1,train
 cái thứ,1,7,2,train
 thèng assmin,1,12,2,train
@@ -2338,6 +4187,15 @@ dân bắc,1,7,2,train
 gian manh xảo trá,1,17,4,train
 chém chết,1,9,2,train
 làm kiểu ta đây giàu đi chơi du lịch qua mấy vùng dịch chơi ấy mà,1,65,16,train
+=======
+mâm nào cũng có,1,15,4,train
+rảnh hánh,1,9,2,train
+ý thức như củ cải,1,17,5,train
+giải toả,1,8,2,train
+đồng bọn với con bò,1,19,5,train
+lũ cầu cá móng phèn vô học mất dạy lại tham tiền vô đối bất chấp sĩ diện,1,73,18,train
+chị em cá gô bỏ trong gổ,1,24,7,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chống lầy kiếm lúa,1,18,4,train
 biến mẹ,1,7,2,train
 đừng có về đây,1,14,4,train
@@ -2345,7 +4203,16 @@ lây bệnh cho ngta,1,17,4,train
 nuôi mấy đứa này thiệt tiếc tiền,1,32,7,train
 lủ chó,1,6,2,train
 boác hù,1,7,2,train
+<<<<<<< HEAD
 cộng sản mạnh nhất ở điểm là tạo ngôn luận ảnh hưởng mọi người,1,62,14,train
+=======
+san voi,1,7,2,train
+cái âm hộ,1,9,3,train
+te tua,1,6,2,train
+con cặt,1,7,2,train
+lồ.n,1,4,1,train
+bị mất ví,1,9,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 yêu đảng,1,8,2,train
 xỉ vã,1,5,2,train
 ông là loài đv máu lạnh,1,23,6,train
@@ -2358,6 +4225,7 @@ căc,1,3,1,train
 ngu thiệt hay gia ngu,1,21,5,train
 ca sĩ nhưng k biết hát,1,22,6,train
 nó xạo lồn,1,10,3,train
+<<<<<<< HEAD
 đồng bọn với con bò,1,19,5,train
 lũ cầu cá móng phèn vô học mất dạy lại tham tiền vô đối bất chấp sĩ diện,1,73,18,train
 chị em cá gô bỏ trong gổ,1,24,7,train
@@ -2367,6 +4235,10 @@ thú dữ,1,6,2,train
 khủng hoảng,1,11,2,train
 con bóng dơ,1,11,3,train
 bợ đít,1,6,2,train
+=======
+chém chết mẹ,1,12,3,train
+khốn nạn vl,1,11,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 sao nó sống tới tận giờ đc nhỉ,1,30,8,train
 chửi con đỷ,1,11,3,train
 cm may,1,6,2,train
@@ -2377,6 +4249,10 @@ xấu xí,1,6,2,train
 đlq,1,3,1,train
 can dit,1,7,2,train
 mẫu quốc,1,8,2,train
+<<<<<<< HEAD
+=======
+cộng sản mạnh nhất ở điểm là tạo ngôn luận ảnh hưởng mọi người,1,62,14,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 im m* mồm,1,9,3,train
 ý thức ncc @@,1,13,4,train
 kho ua va,1,9,3,train
@@ -2390,11 +4266,14 @@ thk đần,1,7,2,train
 phụ hồ,1,6,2,train
 tiền bảo kê,1,11,3,train
 âm đạo dãn rộng thâm đen,1,24,6,train
+<<<<<<< HEAD
 chém chết mẹ,1,12,3,train
 khốn nạn vl,1,11,3,train
 ĩ khùng,1,7,2,train
 ngáo cứt lợn,1,12,3,train
 khuyết tật về não,1,17,4,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ba bá dơ,1,8,3,train
 con ngựa bị che bớt mắt để chỉ đi đường thẳng,1,45,11,train
 con bò bị tròng cổ để dể dắc đi,1,31,9,train
@@ -2409,8 +4288,11 @@ con quỹ,1,7,2,train
 dõm,1,3,1,train
 chơi dơ,1,7,2,train
 đem bênh về đây,1,15,4,train
+<<<<<<< HEAD
 diễn éo sâu,1,11,3,train
 mấy thằng lol,1,13,3,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thằng trẩu nhi,1,14,3,train
 văn hóa lắm cơ,1,14,4,train
 thằng ăn cướp mà còn mang huy hiệu đảng,1,39,9,train
@@ -2425,10 +4307,15 @@ xạo lồng,1,8,2,train
 già,1,3,1,train
 cái thể loại này,1,16,4,train
 nổ và láo,1,9,3,train
+<<<<<<< HEAD
 báo hại,1,7,2,train
 con cak,1,7,2,train
 địt mịa chúng nó,1,16,4,train
 tắc trách,1,9,2,train
+=======
+ngáo cứt lợn,1,12,3,train
+khuyết tật về não,1,17,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ý thức như buồ.i,1,16,4,train
 kon mẹ nó,1,9,3,train
 ngu hon ca cho,1,14,4,train
@@ -2441,12 +4328,17 @@ vẽ ra dự án,1,11,4,train
 rút ruột,1,8,2,train
 ồn ào tranh chấp,1,16,4,train
 làm chuyện ruồi bu,1,18,4,train
+<<<<<<< HEAD
 loã thể,1,7,2,train
 thú,1,3,1,train
 nước mất nhà tan,1,16,4,train
 ở chuồng,1,8,2,train
 biến đi,1,7,2,train
 chảnh,1,5,1,train
+=======
+diễn éo sâu,1,11,3,train
+mấy thằng lol,1,13,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ko ra cái méo gì,1,16,5,train
 vịt tần,1,7,2,train
 diễu cợt,1,8,2,train
@@ -2457,6 +4349,7 @@ tôi ngày,1,8,2,train
 tụi dlv,1,7,2,train
 chống chế,1,9,2,train
 tong chúng nó ra đảo,1,20,5,train
+<<<<<<< HEAD
 ruồi,1,4,1,train
 gian lận,1,8,2,train
 bớt xén,1,7,2,train
@@ -2464,6 +4357,12 @@ chung may,1,9,2,train
 song ko yên dau,1,15,4,train
 thằng đầu bò,1,12,3,train
 ý thức rách,1,11,3,train
+=======
+báo hại,1,7,2,train
+con cak,1,7,2,train
+địt mịa chúng nó,1,16,4,train
+tắc trách,1,9,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bố thằng nào,1,12,3,train
 cml,1,3,1,train
 thù,1,3,1,train
@@ -2473,6 +4372,7 @@ như mấy ông trại tâm thần nghịch kiến,1,37,8,train
 ém,1,2,1,train
 loại ngồi một chỗ phán xét người khác,1,37,8,train
 gạ địt,1,6,2,train
+<<<<<<< HEAD
 ngu như lợn,1,11,3,train
 nghèo bày dạt nỏ,1,16,4,train
 bién,1,4,1,train
@@ -2483,12 +4383,32 @@ chửi sml,1,8,2,train
 không,1,5,1,train
 bán nước hại dân,1,16,4,train
 ko có văn hóa,1,13,4,train
+=======
+loã thể,1,7,2,train
+thú,1,3,1,train
+nước mất nhà tan,1,16,4,train
+ở chuồng,1,8,2,train
+biến đi,1,7,2,train
+chảnh,1,5,1,train
+ko bị kiện thì cũng ngậm tiền,1,29,7,train
+con mệ,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 uống nước đái ruồi,1,18,4,train
 ngu vlllll,1,10,2,train
 xạo l*n,1,7,2,train
 phắc,1,4,1,train
 1 con bò 🐂,1,10,4,train
 tụi đu càng,1,11,3,train
+<<<<<<< HEAD
+=======
+ruồi,1,4,1,train
+gian lận,1,8,2,train
+bớt xén,1,7,2,train
+chung may,1,9,2,train
+song ko yên dau,1,15,4,train
+thằng đầu bò,1,12,3,train
+ý thức rách,1,11,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 con thiểu năng,1,14,3,train
 có não ko bt suy nghĩ,1,21,6,train
 dịt mẹ,1,6,2,train
@@ -2503,12 +4423,15 @@ lủ chó như...cha mẹ mày,1,27,5,train
 trộn chất độc vào để tăng lợi nhuận,1,42,8,train
 hại,1,4,1,train
 vô quan tài ở,1,13,4,train
+<<<<<<< HEAD
 ko bị kiện thì cũng ngậm tiền,1,29,7,train
 con mệ,1,6,2,train
 d*t me,1,6,2,train
 thằng ăn thuế của dân,1,21,5,train
 ăn thuế,1,7,2,train
 chim lợn,1,8,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 doc,1,3,1,train
 ac,1,2,1,train
 dóc láo,1,7,2,train
@@ -2521,11 +4444,14 @@ fúck,1,4,1,train
 thằng trộm vặt,1,17,3,train
 tảng băng chìm,1,16,3,train
 loạn lạc,1,10,2,train
+<<<<<<< HEAD
 lẽ ra họ chỉ xây cầu bằng xốp thôi.... nhưng vì lương tâm của người kongsan nên họ cho vào thêm bê tông và ít cốt thép,1,118,27,train
 bà con ở thiên đường cứ học cái tính càm ràm vớ vẫn của bọn giãy chết,1,69,17,train
 xao,1,3,1,train
 phen vang khe,1,13,3,train
 bay dac,1,7,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 "bạo hành, lạm dụng td",1,25,5,train
 luat an tien dan,1,16,4,train
 thứ bóng dơ,1,11,3,train
@@ -2537,12 +4463,19 @@ con mẹ nó mồm,1,13,4,train
 thag ôn con,1,11,3,train
 cái lờ,1,6,2,train
 busss cuuu,1,10,2,train
+<<<<<<< HEAD
 đề đừng tin những gì cu vẹm nói,1,31,8,train
 dừa lờ,1,6,2,train
 chừa cái tật,1,12,3,train
 ấu trĩ,1,6,2,train
 tổ nhà chúng nó,1,15,4,train
 trắng biến thành đen,1,20,4,train
+=======
+d*t me,1,6,2,train
+thằng ăn thuế của dân,1,21,5,train
+ăn thuế,1,7,2,train
+chim lợn,1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nidalee vãi,1,11,2,train
 độc tài,1,8,2,train
 lá chà bồn,1,10,3,train
@@ -2553,6 +4486,7 @@ con chó dlv,1,11,3,train
 yếu sly,1,7,2,train
 lấy tiền của dân mua lại,1,24,6,train
 mong chúng nhân từ đưa ra miếng xương,1,37,8,train
+<<<<<<< HEAD
 hán hoá,1,7,2,train
 nhục quốc,1,9,2,train
 đứa ca sĩ nước mỹ mặc áo dài không quần ý,1,41,11,train
@@ -2563,14 +4497,32 @@ dơ vler,1,7,2,train
 con me,1,6,2,train
 lao phét,1,9,2,train
 con khỉ nói tiếng hoa,1,21,5,train
+=======
+lẽ ra họ chỉ xây cầu bằng xốp thôi.... nhưng vì lương tâm của người kongsan nên họ cho vào thêm bê tông và ít cốt thép,1,118,27,train
+bà con ở thiên đường cứ học cái tính càm ràm vớ vẫn của bọn giãy chết,1,69,17,train
+xao,1,3,1,train
+phen vang khe,1,13,3,train
+bay dac,1,7,2,train
+giãy,1,4,1,train
+hán hoá,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 não ngắn,1,8,2,train
 con hấp,1,7,2,train
 loại người không tha thứ,1,24,5,train
 lao gia,1,7,2,train
 thiên đường xhcn,1,16,3,train
 đám cu vẹm,1,10,3,train
+<<<<<<< HEAD
 2 cái lỗ mũi to zậy mà vẫn thấy ngột ngạt,1,41,11,train
 tàu hũ,1,6,2,train
+=======
+đề đừng tin những gì cu vẹm nói,1,31,8,train
+dừa lờ,1,6,2,train
+chừa cái tật,1,12,3,train
+ấu trĩ,1,6,2,train
+tổ nhà chúng nó,1,15,4,train
+trắng biến thành đen,1,20,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 có biến thành ko,1,16,4,train
 ko biến thành có,1,16,4,train
 kênh kiệu,1,9,2,train
@@ -2584,10 +4536,13 @@ bị dờ gáy,1,9,3,train
 thằng trẩu,1,10,2,train
 bọ chưởng,1,9,2,train
 dại,1,3,1,train
+<<<<<<< HEAD
 giãy,1,4,1,train
 đá dập mu,1,9,3,train
 thằng mặt lờ,1,12,3,train
 chưa què bằng nhân cách,1,23,5,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 xiên cho nó 1 cái,1,17,5,train
 pónk dơ,1,7,2,train
 chả có máu hóa văn loz,1,22,6,train
@@ -2601,11 +4556,16 @@ lũ 3///,1,7,2,train
 chó -lũ 3///,1,12,3,train
 ko ưa,1,5,2,train
 tụi 3///,1,8,2,train
+<<<<<<< HEAD
 ko biết xấu hổ,1,14,4,train
 chửi dân như con,1,16,4,train
 bố mày đập chết cụ mày,1,22,6,train
 con loz heo gầy,1,15,4,train
 mặt đẹp gái mà cái tính lại xấu xa,1,34,9,train
+=======
+2 cái lỗ mũi to zậy mà vẫn thấy ngột ngạt,1,41,11,train
+tàu hũ,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mua chuộc,1,9,2,train
 mặt nhiều lớp,1,13,3,train
 chảnh choẹ,1,10,2,train
@@ -2617,6 +4577,7 @@ ghê vl,1,6,2,train
 "\""lên\"" nóc nhà bắt con gà",1,26,6,train
 bãi đéo nào cũng có dấu răng,1,28,7,train
 làm ô xin như con chó,1,21,6,train
+<<<<<<< HEAD
 nail culi,1,9,2,train
 bo cua ngọc trinh corona,1,25,5,train
 cmt = não,1,9,3,train
@@ -2625,6 +4586,11 @@ già vl,1,6,2,train
 cđ m,1,4,2,train
 ăn xin,1,6,2,train
 kinh nguyệt,1,11,2,train
+=======
+đá dập mu,1,9,3,train
+thằng mặt lờ,1,12,3,train
+chưa què bằng nhân cách,1,23,5,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 kẻ thù không đội trời chung,1,27,6,train
 đám dâm lợn viên,1,16,4,train
 thằng mặt l,1,11,3,train
@@ -2633,6 +4599,7 @@ vơ vét,1,6,2,train
 cõng,1,4,1,train
 xẻ thịt,1,7,2,train
 ko có văn hoá,1,13,4,train
+<<<<<<< HEAD
 k có tuổi,1,9,3,train
 vong,1,4,1,train
 trơ trẽn vkl 💩,1,14,4,train
@@ -2650,6 +4617,26 @@ thằng bụng bầu,1,14,3,train
 củ l,1,4,2,train
 đám chết,1,8,2,train
 đoàn tụ với tổ tiên,1,19,5,train
+=======
+ko biết xấu hổ,1,14,4,train
+chửi dân như con,1,16,4,train
+bố mày đập chết cụ mày,1,22,6,train
+con loz heo gầy,1,15,4,train
+mặt đẹp gái mà cái tính lại xấu xa,1,34,9,train
+con hàng,1,8,2,train
+sục,1,3,1,train
+thằng bụng bầu,1,14,3,train
+củ l,1,4,2,train
+đám chết,1,8,2,train
+nail culi,1,9,2,train
+bo cua ngọc trinh corona,1,25,5,train
+cmt = não,1,9,3,train
+mỏ lồn,1,6,2,train
+già vl,1,6,2,train
+cđ m,1,4,2,train
+ăn xin,1,6,2,train
+kinh nguyệt,1,11,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nhảm nhí,1,10,2,train
 vu khốg,1,8,2,train
 déo,1,3,1,train
@@ -2663,10 +4650,13 @@ ngu mà tỏ nguy hiểm,1,19,5,train
 con đĩ mẹ,1,9,3,train
 mau lol,1,7,2,train
 cười đểu,1,8,2,train
+<<<<<<< HEAD
 con hàng,1,8,2,train
 sục,1,3,1,train
 đu ma may,1,9,3,train
 câm họng,1,9,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đồn như lời,1,11,3,train
 chó phèn,1,8,2,train
 bố cái thằng,1,12,3,train
@@ -2681,9 +4671,13 @@ mèo ăn miếng mỡ,1,15,4,train
 còn cọp ăn con hươu thì đeoa bắt đc,1,35,9,train
 đĩ mẹ,1,5,2,train
 rau dền,1,7,2,train
+<<<<<<< HEAD
 nó xàm lồn,1,10,3,train
 liếm cứt,1,8,2,train
 bọn bốc bãi cứt,1,15,4,train
+=======
+đoàn tụ với tổ tiên,1,19,5,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 vẽ để đút mồm,1,13,4,train
 hết thuốt chửa,1,14,3,train
 cạn lợi,1,7,2,train
@@ -2697,6 +4691,7 @@ tham lam,1,8,2,train
 ham tiên,1,8,2,train
 lưa gat,1,7,2,train
 chỉ biết đứng đó nhìn xem gió thổi chiều nào ta bay theo chiều đó,1,65,15,train
+<<<<<<< HEAD
 tỏ vẻ bố thiên hạ,1,17,5,train
 nó ngáp,1,7,2,train
 nó chừa,1,7,2,train
@@ -2704,6 +4699,10 @@ loai ngu dốt,1,12,3,train
 huc,1,3,1,train
 ngoáy đồ,1,8,2,train
 ngu như redbull,1,15,3,train
+=======
+đu ma may,1,9,3,train
+câm họng,1,9,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ghe,1,3,1,train
 haizz,1,5,1,train
 kể tài sản của ng khác rồi xạo lozzz của mk,1,43,11,train
@@ -2713,6 +4712,7 @@ bồng bềnh,1,9,2,train
 dou ma,1,6,2,train
 im mồm,1,6,2,train
 bme,1,3,1,train
+<<<<<<< HEAD
 xé xác nó,1,9,3,train
 sợ tụt lờ,1,9,3,train
 lon trau,1,8,2,train
@@ -2721,6 +4721,11 @@ cô hồn các đảng,1,15,4,train
 chờ anh gd tung sản phẩm đã khi đó tùng mới có ý tưởng ra mv,1,60,16,train
 cỏi niết bàn,1,12,3,train
 con này xấu,1,11,3,train
+=======
+nó xàm lồn,1,10,3,train
+liếm cứt,1,8,2,train
+bọn bốc bãi cứt,1,15,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 hâm hết,1,8,2,train
 ko giống con giáp nào,1,24,5,train
 trưởi,1,5,1,train
@@ -2729,6 +4734,7 @@ thần kinh năng,1,14,3,train
 *éo,1,3,1,train
 chửi cm,1,7,2,train
 tổ trác,1,7,2,train
+<<<<<<< HEAD
 cái miệng giống cái hầm cầu,1,27,6,train
 mã cha mầy,1,10,3,train
 nghĩ mình là công chúa các thứ các thứ,1,38,9,train
@@ -2740,11 +4746,34 @@ mấy con chó,1,11,3,train
 ô nao cug muốn ở phưởng cơ quan có ô nào muốn lò mặt ra ngoài để điều tra,1,73,19,train
 tống vô tù,1,10,3,train
 nhuốm máu,1,9,2,train
+=======
+tỏ vẻ bố thiên hạ,1,17,5,train
+nó ngáp,1,7,2,train
+nó chừa,1,7,2,train
+loai ngu dốt,1,12,3,train
+huc,1,3,1,train
+ngoáy đồ,1,8,2,train
+ngu như redbull,1,15,3,train
+con mặt lòn,1,11,3,train
+cái miệng giống cái hầm cầu,1,27,6,train
+mã cha mầy,1,10,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chạy xe có ngày đâm cột điện,1,28,7,train
 có tiền rồi nói gì cũng chuẩn,1,29,7,train
 con đ.ĩ l.oz thúi,1,17,4,train
 cm m,1,4,2,train
 tụi t,1,5,2,train
+<<<<<<< HEAD
+=======
+xé xác nó,1,9,3,train
+sợ tụt lờ,1,9,3,train
+lon trau,1,8,2,train
+tụi du côn,1,10,3,train
+cô hồn các đảng,1,15,4,train
+chờ anh gd tung sản phẩm đã khi đó tùng mới có ý tưởng ra mv,1,60,16,train
+cỏi niết bàn,1,12,3,train
+con này xấu,1,11,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đỉ mất dạiii,1,12,3,train
 lũ chúng nó,1,11,3,train
 ăn bom,1,6,2,train
@@ -2760,10 +4789,13 @@ óc cức,1,8,2,train
 bọn bò đỏ ngu hết thuốc chữa,1,28,7,train
 mắc đ*t,1,7,2,train
 "kẻ nào giỏi phá , ăn chơi , mất dạy , lưu manh , đều là bằng cấp lảnh đạo việt nam",1,82,22,train
+<<<<<<< HEAD
 con mặt lòn,1,11,3,train
 sai lè còn cãi,1,14,4,train
 chối tội đổ lỗi thanh minh,1,26,6,train
 sai lè,1,6,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thien duong cs,1,14,3,train
 k biết đọc,1,10,3,train
 thằng óc cứt,1,12,3,train
@@ -2777,10 +4809,13 @@ dối,1,3,1,train
 nông cạn,1,8,2,train
 nhóm lợi ích,1,12,3,train
 mày ngu,1,7,2,train
+<<<<<<< HEAD
 thua loài súc sinh,1,18,4,train
 "nhân phẩm , danh dự cũng có hoá đơn",1,35,9,train
 sao đẻ được bạn,1,15,4,train
 thay đổi pháp lý,1,16,4,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chết cmnl,1,9,2,train
 con cháu tay rửa chén,1,21,5,train
 ý thức của nó thấp hơn điểm hóa của em,1,38,10,train
@@ -2793,11 +4828,17 @@ mặt thộn,1,8,2,train
 bới cứt tìm giun,1,16,4,train
 thằng mặt thộn,1,14,3,train
 lảm nhảm,1,8,2,train
+<<<<<<< HEAD
 dừa lòn,1,7,2,train
 phá sản,1,7,2,train
 đĩ đực,1,6,2,train
 cường quyền ác bá,1,17,4,train
 mả,1,2,1,train
+=======
+sai lè còn cãi,1,14,4,train
+chối tội đổ lỗi thanh minh,1,26,6,train
+sai lè,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 lái đi đâu đâu để cãi,1,21,6,train
 mịe con chó,1,11,3,train
 me nó,1,5,2,train
@@ -2809,12 +4850,19 @@ ngụy,1,4,1,train
 núp dưới đáy quần,1,17,4,train
 hả miệng chó,1,12,3,train
 bà ta,1,5,2,train
+<<<<<<< HEAD
 tiệt chủng,1,10,2,train
 não để ở đâu,1,12,4,train
 cắn sủa,1,7,2,train
 cứt choá,1,8,2,train
 con cat bu chan,1,15,4,train
 tổ sư con dở ng nghĩ mình hài hước hay lòn gì,1,45,12,train
+=======
+thua loài súc sinh,1,18,4,train
+"nhân phẩm , danh dự cũng có hoá đơn",1,35,9,train
+sao đẻ được bạn,1,15,4,train
+thay đổi pháp lý,1,16,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ngu có gia phả,1,16,4,train
 ia md,1,5,2,train
 loại trai đéo phải nữ cũng không,1,32,7,train
@@ -2825,6 +4873,7 @@ con đĩ quái thai,1,16,4,train
 bồn kỳ lắc,1,10,3,train
 xạo khổ,1,7,2,train
 nứng lòn,1,8,2,train
+<<<<<<< HEAD
 mỏm,1,3,1,train
 chị có chim không .... sao nhìn gớm gớm,1,39,9,train
 bới móc,1,7,2,train
@@ -2833,6 +4882,13 @@ tham nhũng đã được chặn ko cho dân phát hiện nữa,1,48,11,train
 giống loài thượng đẳng,1,22,4,train
 mẹ mày,1,8,2,train
 bọn ngu,1,8,2,train
+=======
+dừa lòn,1,7,2,train
+phá sản,1,7,2,train
+đĩ đực,1,6,2,train
+cường quyền ác bá,1,17,4,train
+mả,1,2,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 con nhung,1,9,2,train
 có óc để suy nghĩ ko,1,20,6,train
 hít bụi,1,7,2,train
@@ -2841,6 +4897,37 @@ chỉ đi được,1,11,3,train
 cục súc vô nhân tính,1,20,5,train
 dizz,1,4,1,train
 tg nhà quê,1,10,3,train
+<<<<<<< HEAD
+=======
+tiệt chủng,1,10,2,train
+não để ở đâu,1,12,4,train
+cắn sủa,1,7,2,train
+cứt choá,1,8,2,train
+con cat bu chan,1,15,4,train
+tổ sư con dở ng nghĩ mình hài hước hay lòn gì,1,45,12,train
+ngu xuẩn,1,8,2,train
+đitme,1,5,1,train
+thằng đĩ vượn,1,13,3,train
+đ.m,1,3,1,train
+người ko ra người,1,17,4,train
+ngợm ko ra ngợm,1,15,4,train
+ý thức thì như đống rác,1,23,6,train
+mỏm,1,3,1,train
+chị có chim không .... sao nhìn gớm gớm,1,39,9,train
+bới móc,1,7,2,train
+tham nhũng đã được chặn ko cho dân phát hiện nữa,1,48,11,train
+"phải có ""liềm"" tin tuyệt đối vào đường nối chính sách của đoảng trung khựa",1,74,15,train
+giống loài thượng đẳng,1,22,4,train
+mẹ mày,1,8,2,train
+bọn ngu,1,8,2,train
+thằng bù nhìn,1,13,3,train
+nhận tiền ngập bản họng,1,23,5,train
+cỏng rắn cắn gà nhà,1,19,5,train
+cao lông,1,8,2,train
+nói cho vui,1,11,3,train
+thằg óc chó,1,11,3,train
+người cha ra người,1,18,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 dan ông ko ra dan ông,1,21,6,train
 dan ba cha giong dan ba,1,23,6,train
 giong quy,1,9,2,train
@@ -2850,6 +4937,7 @@ thằng cha mày,1,13,3,train
 láo lồn,1,7,2,train
 lung tung,1,9,2,train
 không có chuẩn mực,1,18,4,train
+<<<<<<< HEAD
 ngu xuẩn,1,8,2,train
 đitme,1,5,1,train
 thằng đĩ vượn,1,13,3,train
@@ -2857,6 +4945,15 @@ thằng đĩ vượn,1,13,3,train
 người ko ra người,1,17,4,train
 ngợm ko ra ngợm,1,15,4,train
 ý thức thì như đống rác,1,23,6,train
+=======
+trại cai tiền,1,13,3,train
+đập chết cmn,1,12,3,train
+bố nó,1,5,2,train
+dẫm lên lưng,1,12,3,train
+quan nhà sản có khác...bị khuyết tật,1,36,7,train
+me may du,1,9,3,train
+tạm giam,1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bả lồn,1,6,2,train
 cái mặt của mày nhìn như trái hủ qua,1,36,9,train
 ngứa,1,4,1,train
@@ -2866,6 +4963,7 @@ condi,1,5,1,train
 ngu + phong bì + cấp quyền = loạn ngôn,1,42,10,train
 lũ hại dân,1,10,3,train
 lũ tham quan,1,12,3,train
+<<<<<<< HEAD
 thằng bù nhìn,1,13,3,train
 nhận tiền ngập bản họng,1,23,5,train
 cỏng rắn cắn gà nhà,1,19,5,train
@@ -2890,6 +4988,8 @@ quan nhà sản có khác...bị khuyết tật,1,36,7,train
 me may du,1,9,3,train
 tạm giam,1,8,2,train
 """chịch dở""",1,10,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bọn ăn tàn phá hoại,1,19,5,train
 tụi bay,1,7,2,train
 bà tụi bây,1,10,3,train
@@ -2902,6 +5002,7 @@ thằng cục cứt,1,13,3,train
 khôn dại,1,8,2,train
 chim,1,4,1,train
 con giặc,1,8,2,train
+<<<<<<< HEAD
 trại cai tiền,1,13,3,train
 đập chết cmn,1,12,3,train
 bố nó,1,5,2,train
@@ -2909,6 +5010,8 @@ việt plus,1,9,2,train
 phá cho tan cái đất nước,1,24,6,train
 trút moẹ,1,8,2,train
 corona tất nhiên là sẽ tới thăm viếng,1,37,8,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 tu,1,2,1,train
 công,1,4,1,train
 hạn chế,1,7,2,train
@@ -2921,11 +5024,15 @@ vờ lờ,1,5,2,train
 chửi nhảm,1,9,2,train
 thang cc,1,8,2,train
 vailone,1,7,1,train
+<<<<<<< HEAD
 gio ban,1,7,2,train
 sục kẹc,1,7,2,train
 vượng vin đang làm chủ đất việt chứ không phải bộ chính trị,1,59,13,train
 vặt lông,1,8,2,train
 hòn dái viễn đông,1,17,4,train
+=======
+"""chịch dở""",1,10,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 tđn,1,3,1,train
 già mà ngu,1,10,3,train
 bể mặt,1,6,2,train
@@ -2937,12 +5044,19 @@ hạch,1,4,1,train
 bố cáu thằng ăn bám váy đàn bà,1,30,8,train
 nhảy bông nhông,1,15,3,train
 bọn trẻ trâu,1,12,3,train
+<<<<<<< HEAD
 gió chieu nao .che chiei đo,1,27,6,train
 khau ngiep,1,10,2,train
 chet ko đau thai,1,16,4,train
 đume,1,4,1,train
 tuổi lon,1,8,2,train
 làm như ở dưới gầm giường người ta,1,34,8,train
+=======
+việt plus,1,9,2,train
+phá cho tan cái đất nước,1,24,6,train
+trút moẹ,1,8,2,train
+corona tất nhiên là sẽ tới thăm viếng,1,37,8,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đm dlv,1,6,2,train
 hô hào những chuyện tào lao,1,27,6,train
 im lặng những chuyện cấp bách,1,29,6,train
@@ -2953,6 +5067,7 @@ sạo ke,1,6,2,train
 cai thứ,1,7,2,train
 kg ưa,1,5,2,train
 tui bey,1,7,2,train
+<<<<<<< HEAD
 tướng niểng,1,11,2,train
 cu lon,1,6,2,train
 phét lác,1,8,2,train
@@ -2960,6 +5075,13 @@ ngưu tầm mưu mã tầm mã,1,22,6,train
 dân bầu sai lãnh đạo thì chẳng lẽ là lãnh đạo sai,1,49,12,train
 weeboo,1,6,1,train
 gắt vđ,1,6,2,train
+=======
+gio ban,1,7,2,train
+sục kẹc,1,7,2,train
+vượng vin đang làm chủ đất việt chứ không phải bộ chính trị,1,59,13,train
+vặt lông,1,8,2,train
+hòn dái viễn đông,1,17,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 coi trời bằng vung,1,18,4,train
 si nhuc,1,7,2,train
 kinh tom,1,8,2,train
@@ -2969,6 +5091,7 @@ nhục nhục,1,9,2,train
 tụi thân cộng nó như sói đói,1,28,7,train
 óc chó vl,1,9,3,train
 cái thần,1,8,2,train
+<<<<<<< HEAD
 bê đê mà,1,8,3,train
 kcos lỗ đít,1,11,3,train
 khóa mõm,1,8,2,train
@@ -2977,6 +5100,14 @@ bong khg,1,8,2,train
 bong,1,4,1,train
 bu cat cho,1,10,3,train
 có đi học k,1,11,4,train
+=======
+gió chieu nao .che chiei đo,1,27,6,train
+khau ngiep,1,10,2,train
+chet ko đau thai,1,16,4,train
+đume,1,4,1,train
+tuổi lon,1,8,2,train
+làm như ở dưới gầm giường người ta,1,34,8,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ngu vđ,1,6,2,train
 trước khi làm gì cũng nên lắp não vào,1,37,9,train
 để não thành hoá thạch,1,22,5,train
@@ -2985,6 +5116,7 @@ vì nước quên dân,1,16,4,train
 vì thân phục vụ,1,15,4,train
 dụ má,1,5,2,train
 sống với ô nhiễm ở mức nguy hại,1,31,8,train
+<<<<<<< HEAD
 chết luôn đi cho đỡ kẹp đất,1,27,7,train
 mệt lòn 🙂,1,9,3,train
 sũa cc,1,6,2,train
@@ -2993,6 +5125,15 @@ hư đường hư bột,1,15,4,train
 thằng nào,1,9,2,train
 mất ý thức,1,10,3,train
 db,1,2,1,train
+=======
+tướng niểng,1,11,2,train
+cu lon,1,6,2,train
+phét lác,1,8,2,train
+ngưu tầm mưu mã tầm mã,1,22,6,train
+dân bầu sai lãnh đạo thì chẳng lẽ là lãnh đạo sai,1,49,12,train
+weeboo,1,6,1,train
+gắt vđ,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đéo cayy,1,8,2,train
 cực chờ,1,9,2,train
 óc nó được nhồi đậu phụ thối,1,28,7,train
@@ -3001,6 +5142,7 @@ già đâu,1,7,2,train
 vãi lờ,1,6,2,train
 nồn,1,3,1,train
 tự tự,1,5,2,train
+<<<<<<< HEAD
 người nghèo cho chết đói,1,24,5,train
 thằng óc như chó,1,16,4,train
 l^**,1,4,1,train
@@ -3013,10 +5155,32 @@ muốn dân hết khổ thì cho vài ba trận đá banh thì dân cứ bão v�
 cứ quán nhậu mọc nhiều hơn thư viện sách thì dân có ngu cũng phải cho mình là thông minh,1,88,20,train
 cấu kết,1,7,2,train
 bằng mọi thủ đoạn,1,17,4,train
+=======
+bê đê mà,1,8,3,train
+kcos lỗ đít,1,11,3,train
+khóa mõm,1,8,2,train
+khóa luôn cả tay,1,16,4,train
+bong khg,1,8,2,train
+bong,1,4,1,train
+bu cat cho,1,10,3,train
+có đi học k,1,11,4,train
+người nghèo cho chết đói,1,24,5,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ca sĩ câm,1,9,3,train
 lỗ mồm,1,6,2,train
 táp cứt,1,7,2,train
 ác phủ,1,6,2,train
+<<<<<<< HEAD
+=======
+chết luôn đi cho đỡ kẹp đất,1,27,7,train
+mệt lòn 🙂,1,9,3,train
+sũa cc,1,6,2,train
+cầm đầu,1,7,2,train
+hư đường hư bột,1,15,4,train
+thằng nào,1,9,2,train
+mất ý thức,1,10,3,train
+db,1,2,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chết nhát,1,9,2,train
 thay đổi chế độ csvn,1,20,5,train
 con kẹc,1,7,2,train
@@ -3049,7 +5213,10 @@ thằng ngu+ thất học,1,19,4,train
 ngu ko chịu được,1,16,4,train
 beđe,1,4,1,train
 mat nhu đau trau,1,16,4,train
+<<<<<<< HEAD
 úp sọt,1,6,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 móe,1,3,1,train
 con bò nó,1,9,3,train
 phạm tội,1,8,2,train
@@ -3065,8 +5232,11 @@ xả súng da đen,1,14,4,train
 làm 3 cái trò này,1,17,5,train
 nung lon,1,8,2,train
 hiep’ dam,1,9,2,train
+<<<<<<< HEAD
 qua bao,1,7,2,train
 đâu có ảnh hưởng miếng cơm manh áo nhà bạn,1,42,10,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ụ á,1,3,2,train
 cái miệng mày chửi dẻo,1,22,5,train
 ngượng,1,6,1,train
@@ -3081,9 +5251,13 @@ chả có tí máu lồn nào gọi là văn hóa,1,36,10,train
 zô zăn hóa,1,10,3,train
 k bh có nổi 1 fim đóng hay,1,26,8,train
 con bà chúng nó,1,15,4,train
+<<<<<<< HEAD
 nghe muon ỉa ra quần,1,20,5,train
 bộ sậu tay sai,1,14,4,train
 vòi bò,1,6,2,train
+=======
+úp sọt,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đánh bẫy,1,8,2,train
 bọn chức trách,1,14,3,train
 thẩm quy,1,8,2,train
@@ -3097,9 +5271,14 @@ sắp mặt lozz,1,12,3,train
 bóc cức,1,7,2,train
 dưới bàn tay đen đúa của tuyên giáo,1,35,8,train
 hạ đẳng,1,7,2,train
+<<<<<<< HEAD
 """chống phá chế độ""",1,18,4,train
 đumaaaaaaaa,1,11,1,train
 sài tiền âm phủ mang đời,1,28,6,train
+=======
+qua bao,1,7,2,train
+đâu có ảnh hưởng miếng cơm manh áo nhà bạn,1,42,10,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đụ me,1,5,2,train
 con bóng chúa,1,13,3,train
 ma ám,1,5,2,train
@@ -3113,6 +5292,7 @@ trời cũng đánh mày,1,18,4,train
 luu vong,1,8,2,train
 ho then,1,7,2,train
 con chó diên,1,12,3,train
+<<<<<<< HEAD
 đè,1,2,1,train
 sáng mắt chưa,1,13,3,train
 tàn nhẫn,1,8,2,train
@@ -3122,6 +5302,13 @@ d m,1,3,2,train
 chó đi,1,6,2,train
 lạ lồn,1,6,2,train
 nhâyy,1,5,1,train
+=======
+nghe muon ỉa ra quần,1,20,5,train
+bộ sậu tay sai,1,14,4,train
+vòi bò,1,6,2,train
+đè,1,2,1,train
+sáng mắt chưa,1,13,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 """doc tai""",1,9,2,train
 ngu v k l,1,9,4,train
 thái lọ,1,7,2,train
@@ -3129,7 +5316,13 @@ quái thái,1,9,2,train
 chúng toàn làm ngược lại,1,24,5,train
 chiếm đoạt,1,10,2,train
 thua thằng giang hồ,1,19,4,train
+<<<<<<< HEAD
 mồm thối,1,8,2,train
+=======
+"""chống phá chế độ""",1,18,4,train
+đumaaaaaaaa,1,11,1,train
+sài tiền âm phủ mang đời,1,28,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 xấu,1,4,1,train
 sài tiền am phu mảng đời,1,28,6,train
 khói bụi mù,1,11,3,train
@@ -3145,9 +5338,12 @@ các thím,1,8,2,train
 dew,1,3,1,train
 mạg ng rẻ vậy s,1,15,5,train
 dk me,1,5,2,train
+<<<<<<< HEAD
 máy,1,3,1,train
 loại ko học thức,1,16,4,train
 vcccc,1,5,1,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 vang da,1,7,2,train
 loại mat dạy,1,12,3,train
 đỉ lol,1,6,2,train
@@ -3161,10 +5357,14 @@ bodoi,1,5,1,train
 rón dái,1,7,2,train
 chó săn,1,7,2,train
 “ưu việt”,1,9,2,train
+<<<<<<< HEAD
 không còn sửa sai,1,19,4,train
 thủ đoạn,1,10,2,train
 bọn chúng,1,11,2,train
 không có cái đầu,1,19,4,train
+=======
+mồm thối,1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 trư bát giới,1,12,3,train
 nhai lai,1,8,2,train
 thánh,1,5,1,train
@@ -3177,6 +5377,7 @@ oc dac,1,6,2,train
 vô văn hoá vl,1,13,4,train
 mấy bố ts giấy,1,14,4,train
 đô khùng,1,8,2,train
+<<<<<<< HEAD
 thầy giọt nước cống,1,19,4,train
 tự do ngôn luận là thứ xa sĩ,1,28,8,train
 cailoz,1,6,1,train
@@ -3185,6 +5386,13 @@ cailoz,1,6,1,train
 giàu mà ăn mặc lạ lùng ghê k bằng ăn mặc quê mùa như mình,1,57,15,train
 day khong phai la con nguoi,1,27,6,train
 lương lẹo,1,9,2,train
+=======
+máy,1,3,1,train
+loại ko học thức,1,16,4,train
+vcccc,1,5,1,train
+thầy giọt nước cống,1,19,4,train
+tự do ngôn luận là thứ xa sĩ,1,28,8,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bọn cầm đầu,1,11,3,train
 ganh ghét,1,9,2,train
 bọn chóp bu,1,11,3,train
@@ -3193,8 +5401,15 @@ nói hoài mỏi miệng,1,18,4,train
 đâm chìm tàu,1,12,3,train
 đít,1,4,1,train
 thổ tả,1,8,2,train
+<<<<<<< HEAD
 ho boom,1,7,2,train
 bóng lộn,1,8,2,train
+=======
+không còn sửa sai,1,19,4,train
+thủ đoạn,1,10,2,train
+bọn chúng,1,11,2,train
+không có cái đầu,1,19,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 khốn nạn,1,10,2,train
 khẩu nghiệp,1,13,2,train
 bẻ cổ,1,5,2,train
@@ -3209,8 +5424,11 @@ khẩu nghiệp tạo nghiệp,1,22,4,train
 đập phá chén cơm,1,16,4,train
 tạo nghiệp,1,10,2,train
 nhức nách,1,9,2,train
+<<<<<<< HEAD
 lũ hút máu,1,10,3,train
 chứ hong phải hong có giày đi,1,29,7,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 khấc,1,4,1,train
 mía,1,3,1,train
 không thấy dạy,1,14,3,train
@@ -3225,10 +5443,15 @@ con ông cháu cha,1,16,4,train
 xạo lozzz,1,9,2,train
 ngu còn tỏ ra nguy hiểm,1,23,6,train
 con di ngua,1,11,3,train
+<<<<<<< HEAD
 k có viết chữ đẹp đc như vậy đâu,1,32,9,train
 chỉ đứng dẩy là thành ca sĩ,1,27,7,train
 đù mẹ,1,5,2,train
 chien tranh,1,11,2,train
+=======
+ho boom,1,7,2,train
+bóng lộn,1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 phản cmn động,1,13,3,train
 thằng bán nước,1,14,3,train
 tuổi j so dislike,1,17,4,train
@@ -3241,11 +5464,16 @@ nổ như chó,1,10,3,train
 bọn thượng đẳng,1,15,3,train
 ý thức như cái đầu cac,1,22,6,train
 kon mẹ,1,6,2,train
+<<<<<<< HEAD
 ngu ngoc,1,8,2,train
 tre trau,1,8,2,train
 ăn hết của ông nội m,1,20,6,train
 đụ mẹ m,1,7,3,train
 ý thức của m cũng như cc,1,24,7,train
+=======
+lũ hút máu,1,10,3,train
+chứ hong phải hong có giày đi,1,29,7,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thằng thánh nện,1,15,3,train
 tuổi cẹc,1,8,2,train
 ăn vào mồm,1,10,3,train
@@ -3257,12 +5485,19 @@ mẹ nó,1,7,2,train
 chui chet me con,1,16,4,train
 ý thức chuột cắn,1,16,4,train
 cún vàng,1,8,2,train
+<<<<<<< HEAD
 mẹ tổ cha bọn tham nhũng,1,24,6,train
 tiến bịp,1,8,2,train
 k xanh chín,1,11,3,train
 ko có dân chủ,1,13,4,train
 xấu hổ,1,6,2,train
 bệnh từ trong cái nhân cách,1,27,6,train
+=======
+k có viết chữ đẹp đc như vậy đâu,1,32,9,train
+chỉ đứng dẩy là thành ca sĩ,1,27,7,train
+đù mẹ,1,5,2,train
+chien tranh,1,11,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 xuong lô,1,8,2,train
 xau hô,1,6,2,train
 thứ tay nhanh hơn não,1,21,5,train
@@ -3273,6 +5508,7 @@ ko não,1,6,2,train
 hoang dâm,1,9,2,train
 trụy lạc,1,8,2,train
 bú ku,1,5,2,train
+<<<<<<< HEAD
 cút mẹ,1,6,2,train
 biến con mẹ mày,1,15,4,train
 đàn bà j nhìn mặt giống dân ông,1,31,8,train
@@ -3283,13 +5519,31 @@ tự kiêu,1,7,2,train
 ak 47,1,5,2,train
 cái quanque,1,11,2,train
 bêu rếu,1,7,2,train
+=======
+ngu ngoc,1,8,2,train
+tre trau,1,8,2,train
+ăn hết của ông nội m,1,20,6,train
+đụ mẹ m,1,7,3,train
+ý thức của m cũng như cc,1,24,7,train
+thần kinh có vấn đề,1,19,5,train
+cút mẹ,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chó việt cộng,1,13,3,train
 cứt chó,1,7,2,train
 éo ưa,1,5,2,train
 gắn não,1,7,2,train
 tồi tệ,1,6,2,train
 thoòng treo trên cổ chúng nó,1,28,6,train
+<<<<<<< HEAD
 ức chế,1,6,2,train
+=======
+mẹ tổ cha bọn tham nhũng,1,24,6,train
+tiến bịp,1,8,2,train
+k xanh chín,1,11,3,train
+ko có dân chủ,1,13,4,train
+xấu hổ,1,6,2,train
+bệnh từ trong cái nhân cách,1,27,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đ c l c m m,1,11,6,train
 con khác,1,8,2,train
 chọc,1,4,1,train
@@ -3304,9 +5558,12 @@ quên uống thuốc,1,15,3,train
 đồ thần kinh,1,12,3,train
 ăn lol,1,6,2,train
 vaicutt,1,7,1,train
+<<<<<<< HEAD
 thần kinh có vấn đề,1,19,5,train
 trốn chui lủi như chó,1,21,5,train
 thằng cộng nô,1,13,3,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 trẩu vc,1,7,2,train
 cặn bã 🖕🖕,1,9,3,train
 não mấy ông chỉ có tiền,1,23,6,train
@@ -3321,9 +5578,13 @@ biết cái cứt gì,1,15,4,train
 lũ nhảm,1,7,2,train
 não bị delay,1,12,3,train
 con đy me,1,9,3,train
+<<<<<<< HEAD
 nhân quả,1,9,2,train
 bán hàng thật đi,1,19,4,train
 tiền che hàng cave,1,18,4,train
+=======
+ức chế,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chơi chắc đập luôn,1,18,4,train
 tẩy chay con chó,1,16,4,train
 giã,1,3,1,train
@@ -3337,9 +5598,14 @@ mấy thằng nô lệ,1,15,4,train
 thèng,1,5,1,train
 dụ,1,2,1,train
 giải nghiệp,1,11,2,train
+<<<<<<< HEAD
 có não cũng như ko,1,18,5,train
 "cứ như mấy con bò đỏ, bị thuần chủng",1,36,9,train
 giả dối,1,7,2,train
+=======
+trốn chui lủi như chó,1,21,5,train
+thằng cộng nô,1,13,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đúng quy trình,1,14,3,train
 đĩ mẹ nó,1,8,3,train
 thâm hết cả hậu,1,15,4,train
@@ -3353,9 +5619,15 @@ than ôi,1,7,2,train
 hội phụ nữ đông lào,1,19,5,train
 bán nước hoa 500k như nước lã,1,33,7,train
 chửi mắn,1,10,2,train
+<<<<<<< HEAD
 giống loài tỏ ra thượng đẳng,1,28,6,train
 chả biết củ lìn,1,15,4,train
 tàn,1,3,1,train
+=======
+nhân quả,1,9,2,train
+bán hàng thật đi,1,19,4,train
+tiền che hàng cave,1,18,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thiểu năng,1,10,2,train
 sex,1,3,1,train
 rên,1,3,1,train
@@ -3369,9 +5641,15 @@ nô,1,2,1,train
 banh nha xac,1,12,3,train
 gja tao,1,7,2,train
 bị tẩy não,1,10,3,train
+<<<<<<< HEAD
 mọe làm không được chứ gì,1,25,6,train
 cán dọng,1,8,2,train
 mua quan bán chức,1,17,4,train
+=======
+có não cũng như ko,1,18,5,train
+"cứ như mấy con bò đỏ, bị thuần chủng",1,36,9,train
+giả dối,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 dek biết phân biệt sai trái sự thật giả dối,1,43,10,train
 vi phạm pl,1,10,3,train
 ngây ngô,1,8,2,train
@@ -3385,9 +5663,15 @@ giang hồ mất dạy,1,16,4,train
 ý thức như qq,1,13,4,train
 im mẹ,1,5,2,train
 thằng mặt lon,1,13,3,train
+<<<<<<< HEAD
 ảo tưởng vãi lồnn,1,17,4,train
 sát chết,1,8,2,train
 bớt ảo tưỡng,1,12,3,train
+=======
+giống loài tỏ ra thượng đẳng,1,28,6,train
+chả biết củ lìn,1,15,4,train
+tàn,1,3,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 hù,1,2,1,train
 miệng như hai miếng thịt bò,1,27,6,train
 thằng ít tóc,1,12,3,train
@@ -3401,10 +5685,16 @@ mịa nó,1,6,2,train
 chó bò,1,6,2,train
 giết người,1,11,2,train
 đéo động não,1,12,3,train
+<<<<<<< HEAD
 cứt kiếc,1,8,2,train
 dân đánh trộm => đi tù,1,22,6,train
 nằm viện này nọ,1,15,4,train
 ỉa bậy,1,6,2,train
+=======
+mọe làm không được chứ gì,1,25,6,train
+cán dọng,1,8,2,train
+mua quan bán chức,1,17,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bọn đấy,1,7,2,train
 tàn mồm,1,7,2,train
 cái mỏ như mỏ vịt,1,17,5,train
@@ -3417,10 +5707,16 @@ thanh loai gi,1,13,3,train
 bóng tâm thần,1,13,3,train
 lolzzzz,1,7,1,train
 bắn cm,1,6,2,train
+<<<<<<< HEAD
 ông,1,3,1,train
 băn,1,3,1,train
 bọn ranh con,1,12,3,train
 armu,1,4,1,train
+=======
+ảo tưởng vãi lồnn,1,17,4,train
+sát chết,1,8,2,train
+bớt ảo tưỡng,1,12,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 làm sấu mặt,1,11,3,train
 nó bỏ,1,5,2,train
 chui lon,1,8,2,train
@@ -3433,10 +5729,17 @@ ra toà chỉ là diễn hề,1,21,6,train
 giữ mồm giữ miệng,1,17,4,train
 mắc bệnh lạ,1,11,3,train
 gãy răng,1,8,2,train
+<<<<<<< HEAD
 ke le,1,5,2,train
 chửi thì to mòm,1,15,4,train
 khóc lóc năn nỉ,1,15,4,train
 đứa con nik còn thấy nhục dùm,1,29,7,train
+=======
+cứt kiếc,1,8,2,train
+dân đánh trộm => đi tù,1,22,6,train
+nằm viện này nọ,1,15,4,train
+ỉa bậy,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ý thức hơi kém,1,14,4,train
 để bk k phải nuôi nk như bọn chúng từng lếu láo,1,47,12,train
 nk đang bị đô hộ bởi bk,1,23,7,train
@@ -3449,11 +5752,18 @@ lụn bại tàn mạt,1,15,4,train
 chọi,1,4,1,train
 đút con mẹ nguyên cái buồi,1,26,6,train
 chym,1,4,1,train
+<<<<<<< HEAD
 hãy nhìn ánh sáng của đảng và quên đi sự bất công của cuộc sống,1,63,15,train
 bọn sán dây,1,11,3,train
 tam tu bi ma mieng thi kem gai,1,30,8,train
 đổi màu hộ chiếu,1,16,4,train
 lột dân chừng ko còn cái quần,1,29,7,train
+=======
+ông,1,3,1,train
+băn,1,3,1,train
+bọn ranh con,1,12,3,train
+armu,1,4,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ngậm buồi,1,9,2,train
 nulo,1,4,1,train
 lông loz,1,8,2,train
@@ -3465,6 +5775,7 @@ gớm giết,1,8,2,train
 co,1,2,1,train
 mỏ l*n,1,6,2,train
 đuma,1,4,1,train
+<<<<<<< HEAD
 bệnh thì mới nhớ,1,16,4,train
 kẻ khốn nạn,1,11,3,train
 đậu móa,1,7,2,train
@@ -3473,6 +5784,15 @@ trò hề,1,6,2,train
 bán cái lương tâm,1,17,4,train
 rách rưới,1,9,2,train
 dnn,1,3,1,train
+=======
+ke le,1,5,2,train
+chửi thì to mòm,1,15,4,train
+khóc lóc năn nỉ,1,15,4,train
+đứa con nik còn thấy nhục dùm,1,29,7,train
+ngưu tầm ngưu,1,13,3,train
+phè phỡn,1,8,2,train
+bệnh thì mới nhớ,1,16,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 có não kg,1,9,3,train
 ăn chơi nhẩy múa sứ người,1,25,6,train
 gặp họa,1,7,2,train
@@ -3481,6 +5801,14 @@ hãm lz,1,6,2,train
 chao xả gich,1,12,3,train
 can,1,3,1,train
 ban thieu,1,9,2,train
+<<<<<<< HEAD
+=======
+hãy nhìn ánh sáng của đảng và quên đi sự bất công của cuộc sống,1,63,15,train
+bọn sán dây,1,11,3,train
+tam tu bi ma mieng thi kem gai,1,30,8,train
+đổi màu hộ chiếu,1,16,4,train
+lột dân chừng ko còn cái quần,1,29,7,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 xam lo,1,6,2,train
 đội nhau lên đầu,1,16,4,train
 xứ bắc hà,1,9,3,train
@@ -3495,9 +5823,12 @@ du ma may,1,9,3,train
 bat may,1,7,2,train
 bọn chó sư,1,10,3,train
 kém cỏi,1,7,2,train
+<<<<<<< HEAD
 ngưu tầm ngưu,1,13,3,train
 phè phỡn,1,8,2,train
 do ngu,1,6,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thí vài con tốt,1,15,4,train
 khủng khiếp,1,11,2,train
 gãi ghẻ,1,7,2,train
@@ -3513,7 +5844,10 @@ làm được gì,1,11,3,train
 ý thức còn ít hơn cả số tiền trong túi t,1,40,11,train
 chốn,1,4,1,train
 con tâm thân,1,12,3,train
+<<<<<<< HEAD
 bọn cho,1,7,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 qui cai,1,7,2,train
 lua gat,1,7,2,train
 con quỷ cái,1,11,3,train
@@ -3529,9 +5863,13 @@ bọn việt tân,1,12,3,train
 đu thăng cha tyi bay,1,20,5,train
 con di~ dang hang,1,17,4,train
 kho,1,3,1,train
+<<<<<<< HEAD
 """bò lết""",1,8,2,train
 conchodi,1,8,1,train
 v*l,1,3,1,train
+=======
+do ngu,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 cảm ơn các vị lãnh đạo đảng ta đã tạo điều kiện cho những đứa trẻ như con của tao vừa sinh ra đã mang nợ trong mình,1,115,28,train
 khinh ng,1,8,2,train
 trốn trại,1,9,2,train
@@ -3545,10 +5883,14 @@ cố mà vô địch thêm 13 lần nữa,1,29,8,train
 vua sau vua nao yeu,1,19,5,train
 đell,1,4,1,train
 rẻ rách,1,7,2,train
+<<<<<<< HEAD
 người trình độ lớp ba trường làng,1,33,7,train
 mũi thì bị lệch,1,15,4,train
 miệng thì phun,1,14,3,train
 "đ,m,c,l",1,7,1,train
+=======
+bọn cho,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 không có phúc,1,13,3,train
 đời cha ăn mặn đời con khát nước,1,32,8,train
 chửi mày ngu,1,12,3,train
@@ -3561,11 +5903,17 @@ vét máng,1,8,2,train
 boom,1,4,1,train
 mộng du,1,8,2,train
 đào nam lấp bắc,1,15,4,train
+<<<<<<< HEAD
 loz què,1,7,2,train
 next mẹ mày,1,11,3,train
 phế vật,1,7,2,train
 fuck you,1,8,2,train
 shit,1,4,1,train
+=======
+"""bò lết""",1,8,2,train
+conchodi,1,8,1,train
+v*l,1,3,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nghèo mà nổ lắm,1,15,4,train
 bọn 3 que,1,9,3,train
 an kg duoc,1,10,3,train
@@ -3577,12 +5925,19 @@ quyền,1,5,1,train
 não đéo phát triển,1,18,4,train
 tội,1,3,1,train
 lường gạt,1,9,2,train
+<<<<<<< HEAD
 chó cs,1,6,2,train
 rãnh đít,1,8,2,train
 lũ tham ô tham nhũng,1,20,5,train
 hốc hết cứt,1,11,3,train
 kẻ ngu ngóc,1,11,3,train
 thối nát thối nát,1,17,4,train
+=======
+người trình độ lớp ba trường làng,1,33,7,train
+mũi thì bị lệch,1,15,4,train
+miệng thì phun,1,14,3,train
+"đ,m,c,l",1,7,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 "cười vô nghĩa, vô thức",1,22,5,train
 thằng đàn bà,1,12,3,train
 bò ngu,1,6,2,train
@@ -3593,6 +5948,7 @@ sủa cmm,1,7,2,train
 đmmmm,1,5,1,train
 cục súc,1,7,2,train
 dí l vào mặt,1,12,4,train
+<<<<<<< HEAD
 trên trời dưới biển,1,19,4,train
 nói sau lưng,1,12,3,train
 """ con c* hưng phấn """,1,20,6,train
@@ -3600,6 +5956,13 @@ thông dâm,1,9,2,train
 sinh con đẻ cái có khi còn không có lỗ đít để đi ị,1,50,14,train
 thúi rùm,1,8,2,train
 má,1,3,1,train
+=======
+loz què,1,7,2,train
+next mẹ mày,1,11,3,train
+phế vật,1,7,2,train
+fuck you,1,8,2,train
+shit,1,4,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 độu má,1,6,2,train
 phế,1,3,1,train
 dem. ba. nay. di benh. vien,1,27,6,train
@@ -3609,6 +5972,7 @@ vãi cả lồn,1,13,3,train
 buồn,1,4,1,train
 chó làm người phải chịu,1,23,5,train
 quỷ,1,3,1,train
+<<<<<<< HEAD
 ém nhẹm,1,7,2,train
 nhìn bẩn con mắt,1,16,4,train
 thịt người,1,10,2,train
@@ -3620,11 +5984,32 @@ ba xao,1,6,2,train
 đít vịt,1,7,2,train
 trời qua bao may,1,16,4,train
 gu,1,2,1,train
+=======
+chó cs,1,6,2,train
+rãnh đít,1,8,2,train
+lũ tham ô tham nhũng,1,20,5,train
+hốc hết cứt,1,11,3,train
+kẻ ngu ngóc,1,11,3,train
+thối nát thối nát,1,17,4,train
+ngu còn hay phát biểu,1,21,5,train
+ém nhẹm,1,7,2,train
+nhìn bẩn con mắt,1,16,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thất bại của việc bố mẹ mày làm tình,1,36,9,train
 thiển cận,1,9,2,train
 c.*.t bằng bù lon,1,17,4,train
 khó nghe,1,8,2,train
 dài dòng,1,8,2,train
+<<<<<<< HEAD
+=======
+trên trời dưới biển,1,19,4,train
+nói sau lưng,1,12,3,train
+""" con c* hưng phấn """,1,20,6,train
+thông dâm,1,9,2,train
+sinh con đẻ cái có khi còn không có lỗ đít để đi ị,1,50,14,train
+thúi rùm,1,8,2,train
+má,1,3,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 loại,1,5,1,train
 trai không ra trai.gai không ra gái,1,36,7,train
 thằng hl,1,8,2,train
@@ -3640,8 +6025,11 @@ chửi lộn,1,10,2,train
 l** mày,1,7,2,train
 con thú vật đầu thai,1,20,5,train
 não,1,4,1,train
+<<<<<<< HEAD
 ngu còn hay phát biểu,1,21,5,train
 bọn mắt híp lò xo thụt,1,22,6,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 tamthan,1,7,1,train
 batron,1,6,1,train
 ai mà thèm,1,10,3,train
@@ -3657,7 +6045,10 @@ chửi bọn tư bổn,1,15,4,train
 ko ở xứ thiên đường mà trốn ở lại xứ dẫy chết,1,45,12,train
 mấy đứa tự nhục,1,16,4,train
 ai là quan chức mad ko lạm quyền,1,32,8,train
+<<<<<<< HEAD
 chửi láo,1,8,2,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mày chửi,1,8,2,train
 thằng âm binh,1,13,3,train
 gậy mày đập vào mặt mày,1,23,6,train
@@ -3673,7 +6064,11 @@ bọn nhai đi nhai lại,1,20,5,train
 do vo học ko co dao dục,1,25,7,train
 thu do se bi qua bao se chẹt tham,1,34,9,train
 "phá nc, bán ns",1,14,4,train
+<<<<<<< HEAD
 tù,1,3,1,train
+=======
+bọn mắt híp lò xo thụt,1,22,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 cái l,1,5,2,train
 cưa,1,3,1,train
 thằng khuyết tật đầu ngoẹo sang một bên vẫn được làm quan thái thú cai trị một dân tộc,1,86,19,train
@@ -3689,8 +6084,12 @@ ngua quen dương cu,1,18,4,train
 lũ bác sỹ như mày,1,17,5,train
 đồng tiền vơ bẩn,1,19,4,train
 ói máu,1,6,2,train
+<<<<<<< HEAD
 ncc,1,3,1,train
 ong co binh thuong khong vay ong?,1,33,7,train
+=======
+chửi láo,1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đánh đập,1,8,2,train
 chế giễu,1,8,2,train
 ông cố nội,1,10,3,train
@@ -3705,9 +6104,13 @@ cấm,1,3,1,train
 bắn mịa nó,1,10,3,train
 đập đá,1,6,2,train
 bọn súc sinh,1,12,3,train
+<<<<<<< HEAD
 bu cu,1,5,2,train
 cứt cũng thành cơm,1,18,4,train
 l má tui bây,1,12,4,train
+=======
+tù,1,3,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 shjt,1,4,1,train
 sinh ra nham dat nuoc,1,21,5,train
 tụi mầy,1,7,2,train
@@ -3721,10 +6124,15 @@ giặc tra tấn dã man thế nào cũng không mở mồm có #,1,50,13,train
 ý thức của chị nhung còn ít hơn cả nhân bánh mì của t,1,53,14,train
 cln,1,3,1,train
 đậu rồi má,1,10,3,train
+<<<<<<< HEAD
 phúc nghẹo,1,10,2,train
 trọng lú,1,8,2,train
 không bình thường,1,17,3,train
 xąo,1,3,1,train
+=======
+ncc,1,3,1,train
+ong co binh thuong khong vay ong?,1,33,7,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mạng của bọn nó là vàng còn với dân đen như cỏ rác,1,50,13,train
 đám thối nát,1,12,3,train
 tới số,1,6,2,train
@@ -3737,6 +6145,7 @@ hãm loll,1,8,2,train
 th cha m,1,8,3,train
 diễn hài chỉ đáng xách dép quan chức việt,1,41,9,train
 lệ xồn,1,6,2,train
+<<<<<<< HEAD
 ông ổng như lợn rống,1,20,5,train
 con tinh trùng khuyết tật,1,25,5,train
 làm gì có văn hóa mà lập ra bộ văn hóa,1,38,11,train
@@ -3746,6 +6155,14 @@ mẹ lũ tham quan,1,15,4,train
 nước tiểu,1,9,2,train
 ko có ý thức,1,12,4,train
 bị đô hộ khéo còn phát triển đc,1,31,8,train
+=======
+bu cu,1,5,2,train
+cứt cũng thành cơm,1,18,4,train
+l má tui bây,1,12,4,train
+chích,1,5,1,train
+ông ổng như lợn rống,1,20,5,train
+con tinh trùng khuyết tật,1,25,5,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 kí 1 cái là đc cả trăm tỉ mà éo phải đi tù,1,42,13,train
 a bụng bự,1,9,3,train
 bọn chúng trả thù,1,17,4,train
@@ -3753,6 +6170,13 @@ bóng,1,5,1,train
 chống tổ quốc,1,13,3,train
 thối lồn,1,8,2,train
 cái bọn,1,7,2,train
+<<<<<<< HEAD
+=======
+phúc nghẹo,1,10,2,train
+trọng lú,1,8,2,train
+không bình thường,1,17,3,train
+xąo,1,3,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 lẩm cẩm,1,7,2,train
 bíên,1,4,1,train
 nôn,1,3,1,train
@@ -3768,7 +6192,10 @@ giẻ rách,1,8,2,train
 oánh,1,4,1,train
 cái đồ quốc gia chế độ cũ bị lật đổ,1,35,10,train
 chị có hai cái hòn dái,1,22,6,train
+<<<<<<< HEAD
 chích,1,5,1,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 tàu khựa,1,10,2,train
 chiếm,1,6,1,train
 chỉ điểm,1,10,2,train
@@ -3801,7 +6228,10 @@ chửi càng,1,9,2,train
 đơm,1,3,1,train
 lỗ nhị,1,6,2,train
 chưa bở phiếu mà đã cơ cấu 4 chức vụ chủ chốt rồi,1,49,13,train
+<<<<<<< HEAD
 lũ cặn bã dơ bẩn,1,16,5,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 gây mâu thuẫn,1,13,3,train
 xạo lồn chó,1,11,3,train
 chó hoang,1,9,2,train
@@ -3817,9 +6247,12 @@ ngựa,1,4,1,train
 đầu bó,1,6,2,train
 loè,1,3,1,train
 mé nó,1,5,2,train
+<<<<<<< HEAD
 đừng như bây giờ tên cũng không dám gọi,1,39,9,train
 chúc bác lượng luôn an toàn,1,27,6,train
 đkm bọn chó đẻ,1,14,4,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 dối trá và mị dân,1,17,5,train
 ngu v~ chưởng,1,13,3,train
 cái mỏ nó sưng,1,14,4,train
@@ -3833,11 +6266,15 @@ chôn chất thải độc hại gần nguồn nước,1,37,8,train
 thành phần như m tốt nhất nhập tịch tq,1,38,9,train
 sau vc,1,6,2,train
 lão hitler,1,10,2,train
+<<<<<<< HEAD
 làm màu,1,7,2,train
 máy chị ninja,1,13,3,train
 loại viết chính tả còn không rành còn đòi bàn chính trị,1,55,12,train
 ngu dốt thất học,1,16,4,train
 hàng fake,1,9,2,train
+=======
+lũ cặn bã dơ bẩn,1,16,5,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đè chết,1,7,2,train
 chưa kéo quần ngoài,1,19,4,train
 ngu người,1,9,2,train
@@ -3849,12 +6286,18 @@ cailon,1,6,1,train
 mả cha nhà mày,1,14,4,train
 mỗi lãnh đạo chắc chắn có máy bay riêng,1,39,9,train
 nhố nhăng,1,9,2,train
+<<<<<<< HEAD
 "thằng phụ bếp làm ""tủ lạnh",1,26,6,train
 thằng thiến heo làm tbt,1,23,5,train
 xuống hố cả nút,1,15,4,train
 nói câu đó có ngày bà nghèo,1,27,7,train
 rận chủ vịt tần,1,15,4,train
 quật chết mẹ nó,1,15,4,train
+=======
+đừng như bây giờ tên cũng không dám gọi,1,39,9,train
+chúc bác lượng luôn an toàn,1,27,6,train
+đkm bọn chó đẻ,1,14,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 "dân trả nợ , chứ các lãnh đạo đâu trả",1,37,10,train
 vô ích,1,6,2,train
 vô nghiã,1,8,2,train
@@ -3865,6 +6308,7 @@ cái quần in hệt cái ý thức,1,26,7,train
 nhìu cái siêu z mà thíu cái siêu thoát,1,38,9,train
 chửi vô tội vạ,1,17,4,train
 con bò,1,7,2,train
+<<<<<<< HEAD
 ngây thơ ko bt j,1,16,5,train
 loài ấuhồ,1,9,2,train
 bọn độc tài,1,11,3,train
@@ -3872,6 +6316,13 @@ bọn phản động,1,13,3,train
 quen lối sống hùa bầy đàng,1,26,6,train
 đái ngồi,1,8,2,train
 con người chứ có phải con chó,1,29,7,train
+=======
+làm màu,1,7,2,train
+máy chị ninja,1,13,3,train
+loại viết chính tả còn không rành còn đòi bàn chính trị,1,55,12,train
+ngu dốt thất học,1,16,4,train
+hàng fake,1,9,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 hàng dởm,1,8,2,train
 clone sủa cc,1,12,3,train
 concard,1,7,1,train
@@ -3881,6 +6332,7 @@ vo vung,1,7,2,train
 k bang con chùm,1,15,4,train
 bú trên,1,7,2,train
 bú dưới,1,7,2,train
+<<<<<<< HEAD
 mắc mớ,1,6,2,train
 mất xác,1,7,2,train
 hot girl ống tinh,1,17,4,train
@@ -3891,14 +6343,35 @@ lam j co van hoa,1,16,5,train
 chêt mẹ may,1,11,3,train
 trời qua báo may,1,16,4,train
 những con bò,1,12,3,train
+=======
+"thằng phụ bếp làm ""tủ lạnh",1,26,6,train
+thằng thiến heo làm tbt,1,23,5,train
+xuống hố cả nút,1,15,4,train
+nói câu đó có ngày bà nghèo,1,27,7,train
+rận chủ vịt tần,1,15,4,train
+quật chết mẹ nó,1,15,4,train
+con đàn bà lèo lon,1,18,5,train
+c*,1,2,1,train
+mắc mớ,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đầu óc có bệnh,1,14,4,train
 đuổi thẳng cổ,1,13,3,train
 đi,1,2,1,train
 đu may,1,6,2,train
 treo cổ,1,7,2,train
 nguyền rủa,1,10,2,train
+<<<<<<< HEAD
 thủ tục dân nước,1,16,4,train
 mất nước,1,8,2,train
+=======
+ngây thơ ko bt j,1,16,5,train
+loài ấuhồ,1,9,2,train
+bọn độc tài,1,11,3,train
+bọn phản động,1,13,3,train
+quen lối sống hùa bầy đàng,1,26,6,train
+đái ngồi,1,8,2,train
+con người chứ có phải con chó,1,29,7,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 toi so,1,6,2,train
 sao các anh khác xa mấy con ....(định bảo con chó nhung thấy xúc phạm con chó quá),1,82,18,train
 chủi,1,4,1,train
@@ -3911,10 +6384,13 @@ thứ rác rưỡi,1,12,3,train
 tốt đẹp gì,1,10,3,train
 đi đêm qua lại,1,14,4,train
 gió chiều nào ông ta ngã chiều đó,1,33,8,train
+<<<<<<< HEAD
 con đàn bà lèo lon,1,18,5,train
 c*,1,2,1,train
 chống phá,1,9,2,train
 con quỷ mặt rỗ,1,14,4,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ngư ông đắc lợi,1,15,4,train
 bà nội,1,6,2,train
 bỏ tiền vào mồm,1,15,4,train
@@ -3929,9 +6405,14 @@ bọn tầu,1,7,2,train
 sao lol,1,7,2,train
 diễn hài,1,8,2,train
 chia re.thuần hoá,1,17,3,train
+<<<<<<< HEAD
 ngóc đầu dậy ko nổi,1,19,5,train
 sục c#c,1,7,2,train
 tên loài sinh vật lạ :dư luận viên,1,34,8,train
+=======
+thủ tục dân nước,1,16,4,train
+mất nước,1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 tội nhân thiên cổ,1,17,4,train
 mã cha chúng mày,1,16,4,train
 văng tục,1,8,2,train
@@ -3945,10 +6426,15 @@ ung thư da,1,10,3,train
 nó bỏ ba cái chất gây nghiện,1,28,7,train
 xui,1,3,1,train
 thất đức,1,8,2,train
+<<<<<<< HEAD
 mấy đứa 3///,1,12,3,train
 lây lan cho dân chúng,1,21,5,train
 bạo loạn,1,8,2,train
 dân lưu vong,1,12,3,train
+=======
+chống phá,1,9,2,train
+con quỷ mặt rỗ,1,14,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 thù dai,1,8,2,train
 lũ sức sinh,1,13,3,train
 bán hàng giả,1,12,3,train
@@ -3961,11 +6447,17 @@ bá zoe,1,6,2,train
 mấy đứa,1,7,2,train
 bướm,1,4,1,train
 con đường xuống hố cả nước,1,26,6,train
+<<<<<<< HEAD
 cây vô đầu,1,10,3,train
 mang dịch về,1,12,3,train
 bi nhũng,1,9,2,train
 con đien,1,8,2,train
 thăng l,1,7,2,train
+=======
+ngóc đầu dậy ko nổi,1,19,5,train
+sục c#c,1,7,2,train
+tên loài sinh vật lạ :dư luận viên,1,34,8,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bắc kỳ con,1,12,3,train
 xau,1,3,1,train
 nhảm nhí vl,1,11,3,train
@@ -3977,11 +6469,18 @@ bọn ngu 3///,1,12,3,train
 dẻo mồm,1,7,2,train
 tiêm nhiễm,1,10,2,train
 cái loại như này,1,16,4,train
+<<<<<<< HEAD
 xác chết,1,8,2,train
 âm phủ,1,6,2,train
 luật quả báo,1,12,3,train
 sống bẩn,1,8,2,train
 "học sinh nữ lột quần áo đánh nhau ngoài đường, học sinh nam đứng cổ vũ, thầy giáo giao cấu với học trò đến có thai, cô thì đánh học sinh đến nhập viện cấp cứu, học sinh ra đường như du côn, đánh nhau như phim kiếm hiệp",1,218,49,train
+=======
+mấy đứa 3///,1,12,3,train
+lây lan cho dân chúng,1,21,5,train
+bạo loạn,1,8,2,train
+dân lưu vong,1,12,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 dân tộc tàn độc nhất thế giới,1,29,7,train
 long lone,1,9,2,train
 nhìn nhà tiên tri vủ trụ trần dần giống con chó,1,47,11,train
@@ -3993,11 +6492,19 @@ xách cần đi câu cơm,1,19,5,train
 bọn ba que,1,10,3,train
 đoản hậu,1,8,2,train
 cặp môi như hai miếng thịt trâu,1,31,7,train
+<<<<<<< HEAD
 đạo đức xuống cấp,1,17,4,train
 yếu kém,1,7,2,train
 mặt ngu hơn bò,1,14,4,train
 ông già nuôi tốn tiền bỉm sữa vl,1,32,8,train
 chán con mẹ nó,1,14,4,train
+=======
+cây vô đầu,1,10,3,train
+mang dịch về,1,12,3,train
+bi nhũng,1,9,2,train
+con đien,1,8,2,train
+thăng l,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 lũ ngu chó đẻ,1,13,4,train
 giết chết,1,9,2,train
 óc éo bằng con chó,1,18,5,train
@@ -4009,11 +6516,19 @@ chet moe,1,8,2,train
 bóng đỏ,1,7,2,train
 lộng quyền,1,10,2,train
 cặv,1,3,1,train
+<<<<<<< HEAD
 não quá,1,7,2,train
 dan den,1,7,2,train
 bon bao ve chi la may con cho giu cua,1,37,10,train
 bon cho hua,1,11,3,train
 vi rút tên nhung,1,16,4,train
+=======
+xác chết,1,8,2,train
+âm phủ,1,6,2,train
+luật quả báo,1,12,3,train
+sống bẩn,1,8,2,train
+"học sinh nữ lột quần áo đánh nhau ngoài đường, học sinh nam đứng cổ vũ, thầy giáo giao cấu với học trò đến có thai, cô thì đánh học sinh đến nhập viện cấp cứu, học sinh ra đường như du côn, đánh nhau như phim kiếm hiệp",1,218,49,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 cách ly,1,7,2,train
 nhai đi nhai lại như con bò,1,27,7,train
 tao khinh,1,9,2,train
@@ -4025,11 +6540,19 @@ ddm,1,3,1,train
 khó ưa vc,1,9,3,train
 về vn làm cái đéo gì,1,20,6,train
 thượng bất chính,1,16,3,train
+<<<<<<< HEAD
 gét,1,3,1,train
 óc tó,1,5,2,train
 cờ hó,1,5,2,train
 bà mẹ nó,1,8,3,train
 chửa,1,4,1,train
+=======
+đạo đức xuống cấp,1,17,4,train
+yếu kém,1,7,2,train
+mặt ngu hơn bò,1,14,4,train
+ông già nuôi tốn tiền bỉm sữa vl,1,32,8,train
+chán con mẹ nó,1,14,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bắn đạn hơi cay vào dân,1,23,6,train
 dày xéo,1,7,2,train
 bạo quyền,1,9,2,train
@@ -4041,6 +6564,7 @@ chuyên môn mẹ gì mà đòi kĩ lăng,1,31,8,train
 sút,1,3,1,train
 bọn trung quốc chó,1,18,4,train
 dập dá,1,6,2,train
+<<<<<<< HEAD
 đơm chết mẹ nó,1,14,4,train
 vếu,1,3,1,train
 ông già,1,7,2,train
@@ -4049,6 +6573,15 @@ nhạc vs nhẽo,1,12,3,train
 ngu thì chết,1,12,3,train
 đụ má đụ cha,1,12,4,train
 hi sinh người chết,1,18,4,train
+=======
+não quá,1,7,2,train
+dan den,1,7,2,train
+bon bao ve chi la may con cho giu cua,1,37,10,train
+bon cho hua,1,11,3,train
+vi rút tên nhung,1,16,4,train
+đơm chết mẹ nó,1,14,4,train
+vếu,1,3,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 bọn báo lá cải,1,14,4,train
 đeso,1,4,1,train
 loại khùng,1,12,2,train
@@ -4057,6 +6590,14 @@ loại khùng,1,12,2,train
 lonnn,1,5,1,train
 đ”,1,2,1,train
 chế độ vc,1,9,3,train
+<<<<<<< HEAD
+=======
+gét,1,3,1,train
+óc tó,1,5,2,train
+cờ hó,1,5,2,train
+bà mẹ nó,1,8,3,train
+chửa,1,4,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 đồ khẩu nghiệp,1,14,3,train
 pủi chứng nó,1,12,3,train
 het. thuoc. chua,1,16,3,train
@@ -4089,7 +6630,10 @@ chó táp cức,1,11,3,train
 bơm,1,3,1,train
 bơm ma túy,1,10,3,train
 trầm trọng,1,10,2,train
+<<<<<<< HEAD
 con nhung đầu heo,1,17,4,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 trẻ trâu đm,1,11,3,train
 vlòn,1,4,1,train
 loại mày,1,8,2,train
@@ -4105,7 +6649,10 @@ tàn phá,1,7,2,train
 tổ tiên nhà bọn mày,1,19,5,train
 rủa,1,3,1,train
 cả họ con này bị ma ám,1,22,7,train
+<<<<<<< HEAD
 có tí tiền lo mà bổ túc lại cái não,1,35,10,train
+=======
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 "cứ tập trận như đúng rồi, sợ dân ta đến biểu tình nên phải làm vậy đây mà",1,73,18,train
 vỡ mồm,1,6,2,train
 lu tham nhung,1,13,3,train
@@ -4121,8 +6668,12 @@ nổ lằn nổ lốn,1,13,4,train
 lũ cừu cáo ngơ,1,14,4,train
 đéo làm được con cặc gì,1,23,6,train
 làm mầu,1,7,2,train
+<<<<<<< HEAD
 địa ngục,1,8,2,train
 bọn cặn bả,1,10,3,train
+=======
+con nhung đầu heo,1,17,4,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nói móc,1,7,2,train
 ngây thơ,1,8,2,train
 mấy cái,1,7,2,train
@@ -4137,8 +6688,12 @@ chửi đau chửi đớn,1,17,4,train
 rửa tiền phong cách cocc,1,24,5,train
 lươn lẹo,1,8,2,train
 câm mẹ mồm,1,10,3,train
+<<<<<<< HEAD
 chọc,1,5,1,train
 ác đức,1,8,2,train
+=======
+có tí tiền lo mà bổ túc lại cái não,1,35,10,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chuì lol,1,8,2,train
 chó đàn hút máu,1,15,4,train
 triệt đường sống dân đen,1,24,5,train
@@ -4153,8 +6708,13 @@ sủa như 1 con chó dại,1,21,6,train
 chửi qua chửi lại,1,17,4,train
 con khùng thúi,1,14,3,train
 bọn 3/// tuột quần,1,18,4,train
+<<<<<<< HEAD
 cai mieng hay la cai ong cong,1,29,7,train
 già mất nết,1,11,3,train
+=======
+địa ngục,1,8,2,train
+bọn cặn bả,1,10,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 clgb,1,4,1,train
 con gà 1000kg,1,13,3,train
 bảng mặt nó ko bằng lông lồn,1,28,7,train
@@ -4169,8 +6729,13 @@ bố thí,1,6,2,train
 thứ điên,1,8,2,train
 cướp giật,1,11,2,train
 lừa đảo,1,9,2,train
+<<<<<<< HEAD
 khựa +,1,6,2,train
 nhà nói dóc,1,11,3,train
+=======
+chọc,1,5,1,train
+ác đức,1,8,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 sống làm chi,1,12,3,train
 lm đéo j,1,8,3,train
 đì,1,2,1,train
@@ -4185,9 +6750,14 @@ kệ cha nó,1,9,3,train
 tiếu thấy moẹ,1,13,3,train
 bỏ phong bì,1,11,3,train
 thằng đuỹ xứ lừa,1,16,4,train
+<<<<<<< HEAD
 biển nhiễm độc! giờ trâu bò lợn gà lũ cuốn luôn! miền trung tụi em cạp đất ăn zần rồi ạ! nhờ ơn đảng,1,100,24,train
 ý thức còn kém hơn điểm toán,1,28,7,train
 đu.má,1,5,1,train
+=======
+cai mieng hay la cai ong cong,1,29,7,train
+già mất nết,1,11,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 làn gió độc,1,11,3,train
 gja,1,3,1,train
 mat net,1,7,2,train
@@ -4201,9 +6771,14 @@ nực cười,1,8,2,train
 ác mộng,1,7,2,train
 cà,1,2,1,train
 con chửi thâm,1,13,3,train
+<<<<<<< HEAD
 sống lỗi,1,8,2,train
 soi soi mã cha chúng mày,1,24,6,train
 ngu như bò,1,10,3,train
+=======
+khựa +,1,6,2,train
+nhà nói dóc,1,11,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nhà ảo tưởng,1,12,3,train
 tên điên khùng,1,14,3,train
 los,1,3,1,train
@@ -4217,9 +6792,15 @@ quan tuong,1,10,2,train
 ao giac,1,7,2,train
 óc của thằng ad dc cấu tạo từ cức các loại động vật,1,51,13,train
 ngu như cức,1,11,3,train
+<<<<<<< HEAD
 lấp liếm,1,8,2,train
 mồm bọn chống cộng,1,18,4,train
 nghìn tỷ được bỏ túi đều,1,24,6,train
+=======
+biển nhiễm độc! giờ trâu bò lợn gà lũ cuốn luôn! miền trung tụi em cạp đất ăn zần rồi ạ! nhờ ơn đảng,1,100,24,train
+ý thức còn kém hơn điểm toán,1,28,7,train
+đu.má,1,5,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 chùi,1,4,1,train
 hư cả một thế hệ,1,16,5,train
 đường lưỡi bò,1,13,3,train
@@ -4233,10 +6814,16 @@ tổ cha nó,1,9,3,train
 mấy đứa chê bánh mì xanh cỏ r,1,29,8,train
 lốp lái,1,7,2,train
 địt cụ m,1,8,3,train
+<<<<<<< HEAD
 bi nhiêm virus corona,1,21,4,train
 chêt gân hêt,1,12,3,train
 mấy con đĩ,1,10,3,train
 toi,1,3,1,train
+=======
+sống lỗi,1,8,2,train
+soi soi mã cha chúng mày,1,24,6,train
+ngu như bò,1,10,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ko có bôi trơn thì sao mà nhận thầu,1,35,9,train
 ý thức như cuối đầu bài,1,23,6,train
 tông chết,1,9,2,train
@@ -4249,12 +6836,18 @@ dị,1,2,1,train
 buồn nôn,1,8,2,train
 bịa đặt,1,7,2,train
 tổ lái,1,6,2,train
+<<<<<<< HEAD
 mồ xanh cỏ,1,10,3,train
 nham lôn,1,8,2,train
 lz ma no do,1,11,4,train
 chó nhập,1,8,2,train
 cắn chết bà bọn mày,1,19,5,train
 đĩ nl,1,5,2,train
+=======
+lấp liếm,1,8,2,train
+mồm bọn chống cộng,1,18,4,train
+nghìn tỷ được bỏ túi đều,1,24,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 cức chó,1,7,2,train
 lũ dâm loạn viên,1,16,4,train
 tụi lưu manh,1,12,3,train
@@ -4265,12 +6858,19 @@ truòng trị,1,12,2,train
 kẻ,1,3,1,train
 loại này,1,8,2,train
 xau nhu quy,1,11,3,train
+<<<<<<< HEAD
 ngu ngu,1,7,2,train
 tau hoa nhap ma,1,15,4,train
 cam sung,1,8,2,train
 dut,1,3,1,train
 gan het rang,1,12,3,train
 gái 3/,1,6,2,train
+=======
+bi nhiêm virus corona,1,21,4,train
+chêt gân hêt,1,12,3,train
+mấy con đĩ,1,10,3,train
+toi,1,3,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nó khác gì cách đảng cs chọn người,1,34,8,train
 hồng hơn chuyên,1,15,3,train
 "giải độc cộng sản đã khó, giải độc tư tưởng cánh tả còn khó hơn",1,63,15,train
@@ -4281,12 +6881,21 @@ chửi như hát hay,1,16,4,train
 súc vật từ nhan sắc đến nhân cách,1,33,8,train
 súc phạm loài người,1,19,4,train
 dislike,1,7,1,train
+<<<<<<< HEAD
 người e yêu thương k phải bố cũng chẳng phải mẹ.mà là chú bộ đội,1,64,15,train
 chũi,1,4,1,train
 dit cmcm,1,8,2,train
 đui,1,3,1,train
 thằng zô zăn hoá,1,16,4,train
 chuyen gioi ho,1,14,3,train
+=======
+mồ xanh cỏ,1,10,3,train
+nham lôn,1,8,2,train
+lz ma no do,1,11,4,train
+chó nhập,1,8,2,train
+cắn chết bà bọn mày,1,19,5,train
+đĩ nl,1,5,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 cl bị sình,1,10,3,train
 cón mẹ may ko day đk may,1,24,7,train
 ma ko co van hoa,1,16,5,train
@@ -4297,12 +6906,21 @@ loại ăn cức,1,11,3,train
 chu mõm lên sủa,1,15,4,train
 chết trùm,1,9,2,train
 nghèo khổ,1,9,2,train
+<<<<<<< HEAD
 khẩu nghiệp mày,1,15,3,train
 3 heo,1,5,2,train
 nở,1,2,1,train
 banh hang,1,9,2,train
 loại ý thức kém,1,15,4,train
 dú,1,2,1,train
+=======
+ngu ngu,1,7,2,train
+tau hoa nhap ma,1,15,4,train
+cam sung,1,8,2,train
+dut,1,3,1,train
+gan het rang,1,12,3,train
+gái 3/,1,6,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mã mẹ,1,5,2,train
 vịn quốc vinh thân,1,18,4,train
 bỏ mặc,1,6,2,train
@@ -4313,12 +6931,21 @@ sống ảo,1,7,2,train
 mờ ám,1,5,2,train
 khỉ rừng,1,8,2,train
 anti,1,4,1,train
+<<<<<<< HEAD
 lột,1,3,1,train
 nghiệt trủng,1,12,2,train
 không có giàu,1,13,3,train
 ý thức như cái đách,1,19,5,train
 thò chắng,1,9,2,train
 chết đỉ,1,7,2,train
+=======
+người e yêu thương k phải bố cũng chẳng phải mẹ.mà là chú bộ đội,1,64,15,train
+chũi,1,4,1,train
+dit cmcm,1,8,2,train
+đui,1,3,1,train
+thằng zô zăn hoá,1,16,4,train
+chuyen gioi ho,1,14,3,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 nhin ge qua,1,11,3,train
 cộng nô,1,7,2,train
 điếc,1,4,1,train
@@ -4329,12 +6956,21 @@ nói xạo,1,7,2,train
 con bóng đũy,1,13,3,train
 đào mồ cuốc mả,1,14,4,train
 ác nghiệp,1,9,2,train
+<<<<<<< HEAD
 tưởng thế là ngầu,1,17,4,train
 bọn dâm loạn viên,1,17,4,train
 nói xuôi nói ngược,1,18,4,train
 con bóng đực,1,12,3,train
 dạng đầu trâu mặt ngựa,1,22,5,train
 2 mặt,1,5,2,train
+=======
+khẩu nghiệp mày,1,15,3,train
+3 heo,1,5,2,train
+nở,1,2,1,train
+banh hang,1,9,2,train
+loại ý thức kém,1,15,4,train
+dú,1,2,1,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 th lamg bằng,1,12,3,train
 câm con mẹ nó mồm,1,17,5,train
 bậy bạ,1,6,2,train
@@ -4345,12 +6981,21 @@ an cap,1,6,2,train
 ăn mất cái ý thức,1,17,5,train
 tuổi buồi,1,9,2,train
 họp thì mới hết lũ,1,18,5,train
+<<<<<<< HEAD
 ko ai tha thứ,1,13,4,train
 yêu lâu mới lộ ra ngay,1,22,6,train
 nghĩa trang,1,11,2,train
 ghen tị,1,7,2,train
 hèn bỏ mẹ,1,9,3,train
 "sang \"" lên được tý nào",1,23,6,train
+=======
+lột,1,3,1,train
+nghiệt trủng,1,12,2,train
+không có giàu,1,13,3,train
+ý thức như cái đách,1,19,5,train
+thò chắng,1,9,2,train
+chết đỉ,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 mẹ mài,1,6,2,train
 ý thức a thua cả học sinh lớp 5,1,31,9,train
 ý thức kém,1,10,3,train
@@ -4361,6 +7006,7 @@ oan nghiệt,1,10,2,train
 lúp lúp như chó,1,15,4,train
 choi,1,4,1,train
 tưởng thế là hay,1,16,4,train
+<<<<<<< HEAD
 bệnh quạn,1,9,2,train
 luu dan,1,7,2,train
 cho đỡ chật đất,1,15,4,train
@@ -4370,6 +7016,17 @@ bi cần,1,6,2,train
 xé banh xác,1,11,3,train
 lũ thất học,1,11,3,train
 bợ lol,1,6,2,train
+=======
+tưởng thế là ngầu,1,17,4,train
+bọn dâm loạn viên,1,17,4,train
+nói xuôi nói ngược,1,18,4,train
+con bóng đực,1,12,3,train
+dạng đầu trâu mặt ngựa,1,22,5,train
+2 mặt,1,5,2,train
+nịnh bợ,1,7,2,train
+bệnh quạn,1,9,2,train
+luu dan,1,7,2,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 ác ôn,1,5,2,train
 như lon,1,7,2,train
 ngu ngục vcl,1,12,3,train
@@ -4377,6 +7034,15 @@ trẩu tre,1,8,2,train
 lũ sâu bọ,1,9,3,train
 chó chết,1,8,2,train
 8 tầng địa ngục,1,15,4,train
+<<<<<<< HEAD
+=======
+ko ai tha thứ,1,13,4,train
+yêu lâu mới lộ ra ngay,1,22,6,train
+nghĩa trang,1,11,2,train
+ghen tị,1,7,2,train
+hèn bỏ mẹ,1,9,3,train
+"sang \"" lên được tý nào",1,23,6,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 sai thì hãy mở mồm,1,18,5,train
 vô ý thức óc xi măng,1,20,6,train
 thứ óc chó ngu hết phần chó,1,27,7,train
@@ -4392,10 +7058,48 @@ nghèo dốt lại khệnh khạng,1,25,5,train
 thằng mũi lõ mắt xanh,1,21,5,train
 phân,1,4,1,train
 súc vật,1,9,2,train
+<<<<<<< HEAD
 nịnh bợ,1,7,2,train
 ngu như con bò,1,14,4,train
 vét,1,3,1,train
 nông cản,1,8,2,train
+=======
+tinh trùng,1,10,2,train
+phản quốc,1,9,2,train
+bạo lực,1,7,2,train
+vo van,1,6,2,train
+bóng khùng bóng điên,1,20,4,train
+ỉa ra ăn lại,1,12,4,train
+chán bọn tây lông,1,17,4,train
+bài ca,1,6,2,train
+nước ung thư cao thế giới toàn eu với mỹ,1,40,10,train
+đánh chết mẹ thằng,1,18,4,train
+th điên,1,7,2,train
+tau,1,3,1,train
+vãi bướm,1,8,2,train
+thằng con nít,1,13,3,train
+mắc dại,1,7,2,train
+xúi,1,3,1,train
+xé banh xác,1,11,3,train
+lũ thất học,1,11,3,train
+bợ lol,1,6,2,train
+do suc vat,1,10,3,train
+nghiep chuong,1,13,2,train
+chinazi,1,7,1,train
+rác thải,1,8,2,train
+đều có dấu răng của thằng ad,1,28,7,train
+ẳng ẳng,1,7,2,train
+lùm má,1,6,2,train
+ứa,1,2,1,train
+đầu l,1,5,2,train
+chặt đất,1,8,2,train
+ngu như con bò,1,14,4,train
+đ*o,1,3,1,train
+như cái lon,1,11,3,train
+tổ cha,1,6,2,train
+ngu như con lợn,1,15,4,train
+của các em ý đều là nước nôi rất ít mà lại ko chịu cảnh giác vấn đề củi lửa,1,75,20,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
 hoag sa truog sa la kua trug quoc,1,33,8,train
 gắt vãi đái,1,11,3,train
 cô giáo mà nt,1,13,4,train
@@ -4408,6 +7112,7 @@ cào lồn ăn vạ lắm,1,17,5,train
 giấy chứng nhận tâm thần,1,24,5,train
 không ngã cầu thang và có chứng nhận tâm thần thì có thể sống khá là dai,1,72,17,train
 thăng đần,1,9,2,train
+<<<<<<< HEAD
 hút cỏ,1,6,2,train
 làm như giàu lắm hay sao mà khoe của thấy ghê,1,45,11,train
 cái mặt mình nhìn chung ko có 1 chỗ nào thiện cảm hết,1,53,13,train
@@ -4425,3 +7130,6 @@ lùm má,1,6,2,train
 ứa,1,2,1,train
 đầu l,1,5,2,train
 chặt đất,1,8,2,train
+=======
+nếp nhăn trên não cũng né ổng,1,29,7,train
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69

@@ -1,5 +1,6 @@
 {
   "name": "extension_data_contract",
+<<<<<<< HEAD
   "created_at": "2026-05-19T20:47:01",
   "project_root": "c:\\Users\\tungb\\OneDrive - ptit.edu.vn\\PTIT_BuuChinhVienThong\\Y4 Sem2\\Deep Learning\\vietnamese-toxic-comment-classification",
   "inputs": {
@@ -8,6 +9,16 @@
     "vihos_span_dev": "data\\vihos\\train_span_extraction\\dev.csv",
     "vihos_span_test": "data\\vihos\\test\\test.csv",
     "vihos_bio_dir": "data\\vihos\\train_sequence_labeling"
+=======
+  "created_at": "2026-05-19T12:39:48",
+  "project_root": "d:\\Thư bae ngốc ngếch",
+  "inputs": {
+    "vihsd_test_processed": "data\\processed\\test_processed.csv",
+    "vihos_span_train": "data\\vihos\\repo\\data\\Span_Extraction_based_version\\train.csv",
+    "vihos_span_dev": "data\\vihos\\repo\\data\\Span_Extraction_based_version\\dev.csv",
+    "vihos_span_test": "data\\vihos\\repo\\data\\Test_data\\test.csv",
+    "vihos_bio_dir": "data\\vihos\\repo\\data\\Sequence_labeling_based_version"
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
   },
   "resources": {
     "vihsd_test_clean_standard": "outputs\\resources\\vihsd_test_clean_standard.csv",
