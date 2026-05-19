@@ -1,0 +1,19 @@
+{
+  "version": "note7_span_explainer_v1",
+  "selected_method": "xlmr_token_classifier",
+  "rule_path": "outputs\\resources\\toxic_span_highlighter_rules.json",
+  "token_model_path": "outputs\\models\\vihos_xlmr_token_classifier",
+  "model_name": "xlm-roberta-base",
+  "label2id": {
+    "O": 0,
+    "B-TOXIC": 1,
+    "I-TOXIC": 2
+  },
+  "id2label": {
+    "0": "O",
+    "1": "B-TOXIC",
+    "2": "I-TOXIC"
+  },
+  "max_length": 256,
+  "fallback_method": "rule_compact_longest"
+}
