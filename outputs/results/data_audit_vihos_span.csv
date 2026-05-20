@@ -1,4 +1,0 @@
-split,n_rows,n_rows_with_index_spans,n_rows_with_span_text,n_rows_index_not_empty_but_span_empty,avg_n_spans,avg_n_toxic_chars
-train,8844,4292,4292,0,1.1415649027589325,8.752826775214835
-dev,1106,537,537,0,1.2043399638336347,9.10126582278481
-test,1106,531,531,0,1.1446654611211573,8.373417721518987
