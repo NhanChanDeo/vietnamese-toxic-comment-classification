@@ -8,6 +8,6 @@ __pycache__/
 .streamlit/
 outputs/models/phobert_base/checkpoint/
 outputs/models/
-outputs/results/
+# outputs/results/
 *.safetensors
 *.bin

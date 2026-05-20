@@ -1,0 +1,10 @@
+component,split,file_path,exists,n_rows,n_cols,columns
+span_extraction,train,data\vihos\train_span_extraction\train.csv,True,8844,3,"[""Unnamed: 0"", ""content"", ""index_spans""]"
+span_extraction,dev,data\vihos\train_span_extraction\dev.csv,True,1106,3,"[""Unnamed: 0"", ""content"", ""index_spans""]"
+span_extraction,test,data\vihos\test\test.csv,True,1106,3,"[""Unnamed: 0"", ""content"", ""index_spans""]"
+bio_syllable,dev,data\vihos\train_sequence_labeling\syllable\dev_BIO_syllable.csv,True,14476,5,"[""Unnamed: 0"", ""index"", ""Word"", ""Tag"", ""sentence_id""]"
+bio_syllable,test,data\vihos\train_sequence_labeling\syllable\test_BIO_syllable.csv,True,13916,5,"[""Unnamed: 0"", ""index"", ""Word"", ""Tag"", ""sentence_id""]"
+bio_syllable,train,data\vihos\train_sequence_labeling\syllable\train_BIO_syllable.csv,True,112754,5,"[""Unnamed: 0"", ""index"", ""Word"", ""Tag"", ""sentence_id""]"
+bio_word,dev,data\vihos\train_sequence_labeling\word\dev_BIO_Word.csv,True,13948,5,"[""Unnamed: 0"", ""index"", ""Word"", ""Tag"", ""sentence_id""]"
+bio_word,test,data\vihos\train_sequence_labeling\word\test_BIO_Word.csv,True,13424,5,"[""Unnamed: 0"", ""index"", ""Word"", ""Tag"", ""sentence_id""]"
+bio_word,train,data\vihos\train_sequence_labeling\word\train_BIO_Word.csv,True,108432,5,"[""Unnamed: 0"", ""index"", ""Word"", ""Tag"", ""sentence_id""]"

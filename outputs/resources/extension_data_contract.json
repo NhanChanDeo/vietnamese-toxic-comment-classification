@@ -1,0 +1,72 @@
+{
+  "name": "extension_data_contract",
+<<<<<<< HEAD
+  "created_at": "2026-05-19T20:47:01",
+  "project_root": "c:\\Users\\tungb\\OneDrive - ptit.edu.vn\\PTIT_BuuChinhVienThong\\Y4 Sem2\\Deep Learning\\vietnamese-toxic-comment-classification",
+  "inputs": {
+    "vihsd_test_processed": "data\\processed\\test_processed.csv",
+    "vihos_span_train": "data\\vihos\\train_span_extraction\\train.csv",
+    "vihos_span_dev": "data\\vihos\\train_span_extraction\\dev.csv",
+    "vihos_span_test": "data\\vihos\\test\\test.csv",
+    "vihos_bio_dir": "data\\vihos\\train_sequence_labeling"
+=======
+  "created_at": "2026-05-19T12:39:48",
+  "project_root": "d:\\Thư bae ngốc ngếch",
+  "inputs": {
+    "vihsd_test_processed": "data\\processed\\test_processed.csv",
+    "vihos_span_train": "data\\vihos\\repo\\data\\Span_Extraction_based_version\\train.csv",
+    "vihos_span_dev": "data\\vihos\\repo\\data\\Span_Extraction_based_version\\dev.csv",
+    "vihos_span_test": "data\\vihos\\repo\\data\\Test_data\\test.csv",
+    "vihos_bio_dir": "data\\vihos\\repo\\data\\Sequence_labeling_based_version"
+>>>>>>> 38c0f1b49644fad42a3c83917e68b602447a8f69
+  },
+  "resources": {
+    "vihsd_test_clean_standard": "outputs\\resources\\vihsd_test_clean_standard.csv",
+    "vihos_span_train_standard": "outputs\\resources\\vihos_span_train_standard.csv",
+    "vihos_span_dev_standard": "outputs\\resources\\vihos_span_dev_standard.csv",
+    "vihos_span_test_standard": "outputs\\resources\\vihos_span_test_standard.csv",
+    "toxic_phrases_candidates_train": "outputs\\resources\\toxic_phrases_candidates_train.csv"
+  },
+  "results": {
+    "extension_artifact_status": "outputs\\results\\extension_artifact_status.csv",
+    "data_audit_vihsd": "outputs\\results\\data_audit_vihsd.csv",
+    "vihos_file_manifest": "outputs\\results\\vihos_file_manifest.csv",
+    "data_audit_vihos_span": "outputs\\results\\data_audit_vihos_span.csv",
+    "vihos_bio_manifest": "outputs\\results\\vihos_bio_manifest.csv",
+    "leakage_overlap_report": "outputs\\results\\leakage_overlap_report.csv",
+    "vihos_phrase_coverage_on_vihsd_test": "outputs\\results\\vihos_phrase_coverage_on_vihsd_test.csv"
+  },
+  "schema": {
+    "vihsd_test_clean_standard": [
+      "sample_id",
+      "text",
+      "text_norm",
+      "label_id",
+      "label_name",
+      "source_file",
+      "text_hash"
+    ],
+    "vihos_span_standard": [
+      "sample_id",
+      "split",
+      "content",
+      "content_norm",
+      "index_spans",
+      "span_ranges",
+      "span_texts",
+      "span_text",
+      "has_toxic_span",
+      "n_spans",
+      "n_toxic_chars",
+      "text_hash",
+      "source_file"
+    ],
+    "toxic_phrases_candidates_train": [
+      "phrase_norm",
+      "count",
+      "phrase_len",
+      "n_words",
+      "source_split"
+    ]
+  }
+}
