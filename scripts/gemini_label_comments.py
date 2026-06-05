@@ -7,16 +7,21 @@ Pipeline:
   3. Send the kept comments to Gemini in configurable batches (default 100).
   4. For every comment, Gemini returns ``{"id": <int>, "label": <int>}`` where
      label is 0 (CLEAN), 1 (OFFENSIVE) or 2 (HATE).
-  5. Write the predictions to an output CSV.
+  5. Write the predictions to an output file (CSV or JSON).
 
 Gemini is prompted to role-play a Vietnamese social-network moderator who is
 used to slang and informal chat language.
+
+The output format is inferred from the ``--output`` extension (``.json`` or
+``.csv``). If ``--output`` is a directory (no recognised extension), a JSON
+file named ``<input-stem>_labeled.json`` is written inside it.
 
 Usage:
   export GEMINI_API_KEY=...   # or GOOGLE_API_KEY
   python scripts/gemini_label_comments.py \
       --input VOZ_comments_sampled.csv \
-      --output VOZ_comments_gemini_labeled.csv \
+      --output data/raw/VOZ_labeled/ \
+      --model gemini-3.1-flash-lite \
       --batch-size 100
 """
 
@@ -172,13 +177,41 @@ def label_batch(client: "genai.Client", model: str, batch: pd.DataFrame,
     raise SystemExit(f"Gemini call failed after {max_retries} attempts: {last_err}")
 
 
+def resolve_output_path(output: str, input_path: str) -> str:
+    """Resolve --output to a concrete file path.
+
+    - ``.json`` / ``.csv`` extension -> used as-is.
+    - anything else (e.g. a directory or trailing '/') -> treated as a
+      directory; a ``<input-stem>_labeled.json`` file is created inside it.
+    """
+    ext = os.path.splitext(output)[1].lower()
+    if ext in (".json", ".csv"):
+        return output
+    stem = os.path.splitext(os.path.basename(input_path))[0]
+    return os.path.join(output, f"{stem}_labeled.json")
+
+
+def write_predictions(df: pd.DataFrame, out_path: str) -> None:
+    parent = os.path.dirname(out_path)
+    if parent:
+        os.makedirs(parent, exist_ok=True)
+    if out_path.lower().endswith(".json"):
+        records = [{"id": int(r.id), "label": (None if pd.isna(r.label) else int(r.label))}
+                   for r in df.itertuples(index=False)]
+        with open(out_path, "w", encoding="utf-8") as fh:
+            json.dump(records, fh, ensure_ascii=False, indent=2)
+    else:
+        df.to_csv(out_path, index=False)
+
+
 def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--input", default="VOZ_comments_sampled.csv",
                    help="Input CSV of comments (default: VOZ_comments_sampled.csv).")
-    p.add_argument("--output", default="VOZ_comments_gemini_labeled.csv",
-                   help="Where to write Gemini predictions (CSV).")
+    p.add_argument("--output", default="VOZ_comments_gemini_labeled.json",
+                   help="Output file (.json or .csv) or a directory "
+                        "(a JSON file is created inside it).")
     p.add_argument("--batch-size", type=int, default=100,
                    help="Number of comments per Gemini request (default: 100).")
     p.add_argument("--model", default="gemini-2.5-flash",
@@ -227,10 +260,12 @@ def main(argv: Optional[List[str]] = None) -> int:
     if pred.empty:
         raise SystemExit("Gemini returned no predictions.")
 
-    # Attach the original text for readability; keep id + label as the core output.
-    merged = df.merge(pred, on="id", how="left")[["id", "text", "label"]]
-    merged.to_csv(args.output, index=False)
-    print(f"Wrote {len(merged)} predictions to {args.output}", file=sys.stderr)
+    # Keep id + label as the core output (the requested constraint).
+    merged = df.merge(pred, on="id", how="left")[["id", "label"]]
+
+    out_path = resolve_output_path(args.output, args.input)
+    write_predictions(merged, out_path)
+    print(f"Wrote {len(merged)} predictions to {out_path}", file=sys.stderr)
 
     missing = merged["label"].isna().sum()
     if missing:
