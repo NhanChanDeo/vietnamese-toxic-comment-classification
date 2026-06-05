@@ -11,3 +11,5 @@ jupyter
 pyvi
 accelerate
 streamlit
+google-genai
+pydantic
